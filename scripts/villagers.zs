@@ -1,0 +1,1 @@
+villagerTrades.removeAllTrades(<profession:paladins:monk>, 1);
