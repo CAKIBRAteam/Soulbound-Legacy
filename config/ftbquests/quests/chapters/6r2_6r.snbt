@@ -1,0 +1,2214 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6r2_6r"
+	group: "062A49D7557BE3B3"
+	icon: "enigmaticlegacy:thicc_scroll"
+	id: "45C257A99FEEB16E"
+	images: [
+		{
+			dependency: "340391BAA9C57B5C"
+			height: 1.0d
+			image: "minecells:block/colored_torch/promenade"
+			rotation: 50.0d
+			width: 1.0d
+			x: 1.0153061224489761d
+			y: -3.22789115646259d
+		}
+		{
+			dependency: "340391BAA9C57B5C"
+			height: 1.0d
+			image: "minecells:block/colored_torch/promenade"
+			rotation: -50.0d
+			width: 1.0d
+			x: -0.5561224489796004d
+			y: -3.5748299319727934d
+		}
+		{
+			dependency: "340391BAA9C57B5C"
+			height: 1.0d
+			image: "minecells:block/colored_torch/promenade"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.2795918367347028d
+			y: -3.7551020408163254d
+		}
+		{
+			dependency: "340391BAA9C57B5C"
+			height: 3.0d
+			image: "minecells:block/colored_torch/promenade"
+			rotation: 15.0d
+			width: 1.0d
+			x: 0.8928571428571459d
+			y: -4.534013605442183d
+		}
+		{
+			dependency: "340391BAA9C57B5C"
+			height: 3.0d
+			image: "minecells:block/colored_torch/promenade"
+			rotation: -15.0d
+			width: 1.0d
+			x: -0.31122448979593287d
+			y: -4.636054421768705d
+		}
+		{
+			dependency: "340391BAA9C57B5C"
+			height: 2.0d
+			image: "minecells:block/colored_torch/promenade"
+			rotation: -90.0d
+			width: 1.0d
+			x: -1.3316326530612344d
+			y: -3.30952380952381d
+		}
+		{
+			dependency: "23A2A5EBC5C28CDC"
+			height: 1.0d
+			image: "minecells:block/colored_torch/promenade"
+			rotation: -15.0d
+			width: 1.0d
+			x: 0.11734693877550484d
+			y: -7.7789115646258615d
+		}
+		{
+			dependency: "23A2A5EBC5C28CDC"
+			height: 1.0d
+			image: "minecells:block/colored_torch/promenade"
+			rotation: 15.0d
+			width: 1.0d
+			x: 0.357142857142847d
+			y: -7.765306122449001d
+		}
+		{
+			dependency: "40F3CA5F9C35FB2D"
+			height: 1.0d
+			image: "cataclysm:textures/particle/sandstorm_3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependency: "40F3CA5F9C35FB2D"
+			height: 1.0d
+			image: "cataclysm:textures/particle/sandstorm_10.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			dependency: "40F3CA5F9C35FB2D"
+			height: 1.0d
+			image: "cataclysm:textures/particle/sandstorm_7.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			dependency: "40F3CA5F9C35FB2D"
+			height: 1.0d
+			image: "cataclysm:textures/particle/sandstorm_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 1.0d
+		}
+		{
+			dependency: "40F3CA5F9C35FB2D"
+			height: 1.0d
+			image: "cataclysm:textures/particle/sandstorm_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 4.5d
+		}
+		{
+			dependency: "40F3CA5F9C35FB2D"
+			height: 1.0d
+			image: "cataclysm:textures/particle/sandstorm_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.820493197278921d
+			y: 4.0578231292516875d
+		}
+		{
+			dependency: "40F3CA5F9C35FB2D"
+			height: 1.0d
+			image: "cataclysm:textures/particle/sandstorm_3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			dependency: "40F3CA5F9C35FB2D"
+			height: 1.0d
+			image: "cataclysm:textures/particle/sandstorm_7.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 2.0d
+		}
+		{
+			dependency: "107BCE7D4FEB78D9"
+			height: 1.0d
+			image: "alexscaves:textures/misc/advancement/icon/summon_luxtructosaurus.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.034693877551021d
+			y: 2.97414965986394d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/mythicmetals_compat/longsword/longsword_metallurgium"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: -10.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/mythicmetals_compat/longsword/longsword_metallurgium"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: -11.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/mythicmetals_compat/longsword/longsword_metallurgium"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: -12.5d
+			y: 4.5d
+		}
+		{
+			dependency: "05DC1A521148E8D8"
+			height: 1.0d
+			image: "enigmaticlegacy:textures/unused/crying_sword.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -9.364285714285728d
+			y: 2.431972789115626d
+		}
+		{
+			dependency: "360272F2A0089C7D"
+			height: 1.5d
+			image: "minecraft:item/diamond_sword"
+			rotation: -78.0d
+			width: 1.5d
+			x: -1.1928571428571502d
+			y: 4.498639455782296d
+		}
+		{
+			dependency: "13B7FB3FBE05DB8D"
+			height: 1.0d
+			image: "alexscaves:item/extinction_spear"
+			rotation: 150.0d
+			width: 1.0d
+			x: 8.095833333333324d
+			y: 3.7761904761904717d
+		}
+		{
+			dependency: "340391BAA9C57B5C"
+			height: 2.0d
+			image: "minecells:block/colored_torch/promenade"
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.056122448979579d
+			y: -2.6156462585033964d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2870EEFE4722FC7A"]
+			description: ["&5<А&kfffffff&r&5>: Ты великолепно продвигаешься! Продолжай и вторая душа вскоре будет у тебя! Найди &3тропу обречённых &5и &eпустыню&5!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0DCB735E1E47162A"
+			rewards: [
+				{
+					auto: "invisible"
+					icon: "twilightforest:twilight_portal_miniature_structure"
+					id: "0128FCFFFF3B6347"
+					ignore_reward_blocking: true
+					stage: "twilight_forest"
+					title: "&5Доступ в новое измерение"
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					icon: {
+						Count: 1
+						id: "minecells:promenade_doorway"
+						tag: {
+							BlockEntityTag: { }
+						}
+					}
+					id: "64D5DE7C5DC0B16A"
+					ignore_reward_blocking: true
+					stage: "promenade"
+					title: "&3Доступ в новое измерение"
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					icon: "minecraft:crafting_table"
+					id: "47795A7A5A458267"
+					ignore_reward_blocking: true
+					stage: "chapter_I_recipes"
+					title: "Новые рецепты"
+					type: "gamestage"
+				}
+			]
+			subtitle: "Продолжайте исследовать этот дивный мир!"
+			tasks: [{
+				elapsedTime: 3L
+				icon: "supplementaries:globe_sepia"
+				id: "1E6819D0E69D5053"
+				title: "Этот квест выполнится автоматически! Просто немного подождите..."
+				type: "questsadditions:time"
+			}]
+			title: "&2Время приключений!"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0DCB735E1E47162A"]
+			description: ["<Вы>: Вот я и снова здесь... Пора найти портал"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "7FC8FAA37D8B0F50"
+			rewards: [{
+				id: "7A595FE748ECEF31"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				dimension: "minecells:prison"
+				icon: {
+					Count: 1
+					id: "minecells:prison_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "26FF46B8A54342D3"
+				title: "&2Вернитесь в тюремные камеры"
+				type: "dimension"
+			}]
+			title: "&2И снова здесь!"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7FC8FAA37D8B0F50"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "1971214961A84127"
+			rewards: [{
+				id: "1E69B69466ED0B08"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "minecells:promenade_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "6E8972292E9FB943"
+				observe_type: 0
+				timer: 0L
+				title: "&3Найдите проход на тропу обречённых"
+				to_observe: "minecells:promenade_doorway"
+				type: "observation"
+			}]
+			title: "&bНовый проход, новые приключения"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1971214961A84127"]
+			description: ["&5<А&kfffffff&r&5>: Приветствую тебя на тропе обречённых. Место где обитают неизвестные тебе монстры и существа. Изучи же этот мир!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "340391BAA9C57B5C"
+			rewards: [{
+				id: "714D4CE68EB9C1CC"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				dimension: "minecells:promenade"
+				icon: {
+					Count: 1
+					id: "minecells:promenade_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "5C3A5858AA588E8D"
+				title: "&3Ступите на тропу обречённых"
+				type: "dimension"
+			}]
+			title: "&bТропа обречённых"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["70350F7EFBB3D440"]
+			hide_until_deps_complete: true
+			id: "500A52BE639FE496"
+			rewards: [
+				{
+					id: "47C06C11939D89A3"
+					table_id: 8412317088013385020L
+					title: "Обычный сундук"
+					type: "random"
+				}
+				{
+					id: "2792BDE02647D82B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minecells:mutated_bat"
+				id: "7AADB0E122CFCDEF"
+				title: "&3Убейте 10 мутировавших мышей"
+				type: "kill"
+				value: 10L
+			}]
+			title: "&bИнтересные мутации обречённых"
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3A47ED8FC10CA257"]
+			hide_until_deps_complete: true
+			id: "1627947A6DD9C884"
+			rewards: [{
+				id: "1B7177DB9D07B48E"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "minecells:runner"
+				id: "4760A2235A8AF32B"
+				title: "&3Убейте 6 бегунов"
+				type: "kill"
+				value: 6L
+			}]
+			title: "&bБегуны..."
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["340391BAA9C57B5C"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "322387327CE8488E"
+			rewards: [
+				{
+					id: "2B3BFFF363F7CAF4"
+					table_id: 2229491806141918727L
+					title: "&aНеобычный сундук"
+					type: "random"
+				}
+				{
+					id: "1BA5D7E4FD487226"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "minecells:leaping_zombie"
+				id: "4C49584BB4BF8CBE"
+				title: "&3Убейте 20 прыгучих зомби"
+				type: "kill"
+				value: 20L
+			}]
+			title: "&bСнова прыгуны"
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["70698D640BB5E09C"]
+			hide_until_deps_complete: true
+			id: "6C5E327A87324E23"
+			rewards: [{
+				id: "3CE3C0D2F70ADF99"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "minecells:protector"
+				id: "22A90504428633CF"
+				title: "&3Уничтожьте 10 защитников"
+				type: "kill"
+				value: 10L
+			}]
+			title: "&bБлагословение бессметрия?"
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["340391BAA9C57B5C"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "0D716C65AD79419D"
+			rewards: [
+				{
+					id: "419279F8189BFA64"
+					table_id: 2229491806141918727L
+					title: "&aНеобычный сундук"
+					type: "random"
+				}
+				{
+					id: "220A78000BF14C86"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "minecells:grenadier"
+				id: "7D3370B45668AA19"
+				title: "&3Убейте 8 гранатомётчиков"
+				type: "kill"
+				value: 8L
+			}]
+			title: "&bСнова гранатомётчики?"
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"0D716C65AD79419D"
+				"1627947A6DD9C884"
+				"6C5E327A87324E23"
+				"322387327CE8488E"
+				"500A52BE639FE496"
+			]
+			hide_until_deps_complete: true
+			id: "23A2A5EBC5C28CDC"
+			subtitle: "Обречя тропу обречённых на страдания, вы не видите смысла оставаться здесь дальше..."
+			tasks: [{
+				dimension: "minecells:promenade"
+				icon: {
+					Count: 1
+					id: "minecells:promenade_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "5771036DE1DB91FD"
+				title: "&3Проберитесь через тропу обречённых"
+				type: "dimension"
+			}]
+			title: "&bТропа обречённых обречена на страдания"
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["340391BAA9C57B5C"]
+			description: ["&5<А&kfffffff&r&5>: Мышь мутировала в нечто странное... Я даже не могу объяснить это."]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "70350F7EFBB3D440"
+			rewards: [{
+				id: "5999ED13F3F08985"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "minecells:mutated_bat_spawn_egg"
+				id: "3DEAA23FDE63A21D"
+				observe_type: 5
+				timer: 0L
+				title: "&3Повстречайте неизвестный вид летучей мыши"
+				to_observe: "minecells:mutated_bat"
+				type: "observation"
+			}]
+			title: "&bСтранная мышь"
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["340391BAA9C57B5C"]
+			description: ["&5<А&kfffffff&r&5>: Посмтори этот идол - это защитник. Защищает любого от смерти. Сначал сломай его, прежде чем убить монстра."]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "70698D640BB5E09C"
+			rewards: [{
+				id: "6C498C8853303C34"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "minecells:protector_spawn_egg"
+				id: "30BAC685019EF181"
+				observe_type: 5
+				timer: 0L
+				title: "&3Встретьте невиданную статую"
+				to_observe: "minecells:protector"
+				type: "observation"
+			}]
+			title: "&bИдол благословений?"
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["340391BAA9C57B5C"]
+			description: ["&5<А&kfffffff&r&5>: Посмотри: бегун! Совершенное существо способное затоптать тебя!"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "3A47ED8FC10CA257"
+			rewards: [{
+				id: "3115736228CD12F1"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "minecells:runner_spawn_egg"
+				id: "5AD84F7A2DC0C4FE"
+				observe_type: 5
+				timer: 0L
+				title: "&3Повстречайте бегуна на тропе обречённых"
+				to_observe: "minecells:runner"
+				type: "observation"
+			}]
+			title: "&bДЖИРОНИМО-О-О!!"
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["340391BAA9C57B5C"]
+			hide_dependency_lines: true
+			hide_text_until_complete: false
+			hide_until_deps_complete: true
+			id: "59042B2209E87DD8"
+			tasks: [{
+				id: "791D02BFAEF9851C"
+				title: "Нажми на меня!"
+				type: "checkmark"
+			}]
+			title: "&bНовое снаряжение тропы обречённых"
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["59042B2209E87DD8"]
+			id: "59C73C9398380180"
+			tasks: [{
+				id: "06605E7B11012CD9"
+				item: {
+					Count: 1
+					id: "minecells:assassins_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["59042B2209E87DD8"]
+			id: "48F770AB6B545442"
+			tasks: [{
+				id: "1D99D8553C7442A5"
+				item: {
+					Count: 1
+					id: "minecells:phaser"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2C5F1C9226281185"]
+			description: [
+				"<Вы>: Красота... Отдельный мир в пещерах."
+				""
+				"&5<А&kfffffff&r&5>: Добро пожаловать в первобытные пещеры! Застывший клочок мира! Исследуй его!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "30CC731C076B6172"
+			invisible: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3873E10B432272F3"
+					table_id: 2229491806141918727L
+					title: "&aНеобычный сундук"
+					type: "loot"
+				}
+				{
+					id: "1B0AF254E6C6F74E"
+					type: "xp"
+					xp: 60
+				}
+			]
+			tasks: [{
+				biome: "alexscaves:primordial_caves"
+				icon: "alexscaves:amber_curiosity"
+				id: "02CDB814DF283E0E"
+				title: "&6Отыщите пещеры застывшего мира"
+				type: "biome"
+			}]
+			title: "&6Узрите же Первобытность!"
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0DCB735E1E47162A"]
+			dependency_requirement: "one_started"
+			description: [
+				"&5<А&kfffffff&r&5>: Отлично ты нашлёл &eпустыню&5. Теперь раздобудь материалы для ока пустыни. Создай его и проследуй за ним! Ах да, забыл: рекомендую создать кисть и липкие перчатки. Они могут тебе пригодиться."
+				""
+				"<Вы>: Да кто ты чёрт возьми такой?! Скажи что тебе нужно и почему ты направляешь меня?!"
+				""
+				"&5<А&kfffffff&r&5>: Вы узнаете все потом..."
+				""
+				"<Вы>: Когда?!! Что значит ПОТОМ?!!"
+				""
+				"&5<А&kfffffff&r&5>: Всему... своё... время..."
+				""
+				"<Вы>: ..."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "40F3CA5F9C35FB2D"
+			rewards: [
+				{
+					id: "2D67EF1065411F78"
+					table_id: 8412317088013385020L
+					title: "Обычный сундук"
+					type: "random"
+				}
+				{
+					id: "1C7ECEFBDD74560B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				biome: "minecraft:desert"
+				icon: "minecraft:sand"
+				id: "0ADBD3636A3F267D"
+				title: "&eНайдите пустыню"
+				type: "biome"
+			}]
+			title: "&eПустыня!"
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["40F3CA5F9C35FB2D"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0D4ACD8D2752908E"
+			rewards: [
+				{
+					id: "2D30ADE0A3A735F9"
+					table_id: 2229491806141918727L
+					title: "&aНеобычный сундук"
+					type: "random"
+				}
+				{
+					id: "3FE086326DA085FC"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "0054D230E9C17BBB"
+				item: "cataclysm:desert_eye"
+				type: "item"
+			}]
+			title: "&eУ пустыни глаза велики"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D4ACD8D2752908E"]
+			description: ["<Вы>: Вот это размах... А что же будет внутри?"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "6922765487C9E8E9"
+			rewards: [
+				{
+					id: "388638D0071D9A1F"
+					table_id: 8412317088013385020L
+					title: "Обычный сундук"
+					type: "random"
+				}
+				{
+					id: "4E563966F690EE94"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				icon: "cataclysm:sandstone_poison_dart_trap"
+				id: "0A3ADA5E953965BC"
+				structure: "cataclysm:cursed_pyramid"
+				title: "&eПирамидище!"
+				type: "structure"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6922765487C9E8E9"]
+			description: ["&5<А&kfffffff&r&5>: Третье творение катаклизма пустыни - Коболедиатор! Смесь коболетона и огромного гладиатора. Невероятно силён."]
+			hide_text_until_complete: true
+			id: "78BB01D5697D21E9"
+			invisible: true
+			rewards: [{
+				id: "6F4BF63586FCB347"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "cataclysm:kobolediator_skull"
+				id: "551322A3EEFA3992"
+				observe_type: 5
+				timer: 0L
+				title: "&eВстретьте огроменого коболетона с мечом"
+				to_observe: "cataclysm:kobolediator"
+				type: "observation"
+			}]
+			title: "&eОгромный коболетон?!"
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6922765487C9E8E9"]
+			description: ["&5<А&kfffffff&r&5>: Узри! Ваджет - второе из творений катклизма пустыни! Обладает магией и большой силой."]
+			hide_text_until_complete: true
+			id: "2B127CA920CF3C35"
+			invisible: true
+			rewards: [{
+				id: "100994DD9DB188AD"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "born_in_chaos_v1:ai"
+				id: "406D017B7222A635"
+				observe_type: 5
+				timer: 0L
+				title: "&eПовстречайте позвоночную змею"
+				to_observe: "cataclysm:wadjet"
+				type: "observation"
+			}]
+			title: "&eЗмея из костей?"
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6922765487C9E8E9"]
+			description: ["&5<А&kfffffff&r&5>: Коболетон - первое из творений катаклизма пустыни и самое слабое! Но знай оно может тебя обезоружить если ты не будешь носить липкие перчатки, рекомендую всё же создать их."]
+			hide_text_until_complete: true
+			id: "065229C2D6CF7C52"
+			invisible: true
+			rewards: [{
+				id: "028C9928DF1D1A04"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "cataclysm:khopesh"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "7F40C10B665698A6"
+				observe_type: 5
+				timer: 0L
+				title: "&eОсмотрите костяного кобольда"
+				to_observe: "cataclysm:koboleton"
+				type: "observation"
+			}]
+			title: "&eДинозаврик?"
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78BB01D5697D21E9"]
+			description: ["<Вы>: Фух, ... ... Это было непросто! Но я смог!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "2A4A9402EB15D133"
+			rewards: [
+				{
+					id: "65731D147172DC47"
+					table_id: 2229491806141918727L
+					title: "&aНеобычный сундук"
+					type: "random"
+				}
+				{
+					id: "5900459570D1568D"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:kobolediator"
+				icon: "cataclysm:kobolediator_skull"
+				id: "1406044B4FDF1B39"
+				title: "&eПобедите 2 коболедиаторов"
+				type: "kill"
+				value: 2L
+			}]
+			title: "&eИстинный гладиатор!"
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2B127CA920CF3C35"]
+			description: ["<Вы>: Фух, они действительно обладают некой магией и достаточно сильны."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "born_in_chaos_v1:ai"
+			id: "3EC93124E221C538"
+			rewards: [
+				{
+					id: "51DD81705354C8A1"
+					table_id: 2229491806141918727L
+					title: "&aНеобычный сундук"
+					type: "random"
+				}
+				{
+					id: "76F523A1F22E5909"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:wadjet"
+				icon: "born_in_chaos_v1:ai"
+				id: "6DD0DDA08E945167"
+				title: "&eУбейте 2 ваджет"
+				type: "kill"
+				value: 2L
+			}]
+			title: "&eВаджет свергнуты"
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["065229C2D6CF7C52"]
+			description: ["<Вы>: Вот и всё... Не очень они и сильные как &lон&r говорил."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "2CF5C161EBBFF439"
+			rewards: [
+				{
+					id: "5D1E857C6BBC98E5"
+					table_id: 8412317088013385020L
+					title: "Обычный сундук"
+					type: "random"
+				}
+				{
+					id: "1353D9D5FB2DD6DE"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:koboleton"
+				icon: "cataclysm:koboleton_bone"
+				id: "42D72BCA944ADCE3"
+				title: "&eРаскрошите 12 коболетонов"
+				type: "kill"
+				value: 12L
+			}]
+			title: "&eУбийца древности"
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2CF5C161EBBFF439"
+				"3EC93124E221C538"
+				"2A4A9402EB15D133"
+			]
+			description: ["&5<А&kfffffff&r&5>: Чистая и безупречная зачистка! Продолжай в том же духе! А теперь твоя задача - найти ожерелье пустыни в этой пирамиде."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "cataclysm:sandstone_poison_dart_trap"
+			id: "0B3624CBFD5C36B6"
+			rewards: [{
+				id: "5D7FA7EA681769F4"
+				table_id: 6440823303009045681L
+				title: "&9Редкий сундук"
+				type: "random"
+			}]
+			tasks: [{
+				id: "7C0B9EFE39F60016"
+				title: "Нажми на меня!"
+				type: "checkmark"
+			}]
+			title: "&eСилы пирамиды ослабевают..."
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0B3624CBFD5C36B6"]
+			description: ["&6Ожерелье нужно выкопать из подозрительного песка в саркофаге с помощью кисти на первом этаже пирамиды."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "31226EAABB52DCFB"
+			rewards: [{
+				auto: "no_toast"
+				command: "/expirience @a -1000"
+				console: true
+				icon: "minecraft:experience_bottle"
+				id: "64A30FA0944447B4"
+				title: "&4Наказание!"
+				type: "command"
+			}]
+			subtitle: "&4Используйте только в том случае, если не можете найти ожерелье!"
+			tasks: [{
+				id: "6580185C79D110DF"
+				title: "Нажми на меня!"
+				type: "checkmark"
+			}]
+			title: "&4Подсказка!"
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0B3624CBFD5C36B6"]
+			description: [
+				"<Вы>: А вот и ожерелье! Пора найти ему применение."
+				""
+				"&5<А&kfffffff&r&5>: Вижу ты нашёл ожерелье. Теперь нужно его использовать. Сделай это спустившись в недра пирамиды и пробуди древнее божество пустыни!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5407A2E81A4233A5"
+			subtitle: "&eОно смотрит на вас не отрывая глаз"
+			tasks: [{
+				id: "3FD1E28F3FF7ECEA"
+				item: "cataclysm:necklace_of_the_desert"
+				type: "item"
+			}]
+			title: "&eОжерелье пустыни"
+			x: -7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5407A2E81A4233A5"]
+			description: ["&6Вам нужно подняться на второй этаж пирамиды и найти в нём огромную дыру вниз. Прыгайте в неё!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5FA5C97F36200238"
+			rewards: [{
+				auto: "no_toast"
+				command: "/expirience @a -1000"
+				console: true
+				icon: "minecraft:experience_bottle"
+				id: "410CD939D9BD1B89"
+				title: "&4Наказание!"
+				type: "command"
+			}]
+			subtitle: "&4Используйте только в том случае, если не можете найти нужное место!"
+			tasks: [{
+				id: "2EF4CA415D2088EF"
+				title: "Нажми на меня!"
+				type: "checkmark"
+			}]
+			title: "&4Подсказка!"
+			x: -7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["40F3CA5F9C35FB2D"]
+			hide_until_deps_complete: true
+			id: "52777C0330716714"
+			rewards: [
+				{
+					id: "5D7B6302046ADDF3"
+					table_id: 8412317088013385020L
+					title: "Обычный сундук"
+					type: "random"
+				}
+				{
+					id: "71A6300CCE3665FD"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "589F20AA8D572CD9"
+				item: "cataclysm:sticky_gloves"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["40F3CA5F9C35FB2D"]
+			hide_until_deps_complete: true
+			id: "194E01449E4E90C5"
+			rewards: [
+				{
+					id: "3BE257D66DCE85D2"
+					table_id: 8412317088013385020L
+					title: "Обычный сундук"
+					type: "random"
+				}
+				{
+					id: "387B3F3CC0ED971C"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "6973C5DCA79A4E96"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "minecraft:brush"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "betterarcheology:iron_brush"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "betterarcheology:diamond_brush"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Кисть"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5407A2E81A4233A5"]
+			description: ["&5<А&kfffffff&r&5>: Что ж... Ты на месте. Надень ожерелье на скелета и пробуди его!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "3635C6282FCE60D4"
+			rewards: [{
+				id: "21CCC502D7740EEB"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "cataclysm:remnant_skull"
+				id: "305F0DB6632AB82B"
+				observe_type: 5
+				timer: 0L
+				title: "&eОсмотрите застывшего бога"
+				to_observe: "cataclysm:ancient_remnant"
+				type: "observation"
+			}]
+			title: "&eОтголоски древности"
+			x: -8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3635C6282FCE60D4"]
+			description: ["&5<А&kfffffff&r&5>: Вы почти заслужили доступ к энду у этого мира. Ещё немного и вы сможете в него попасть!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "05DC1A521148E8D8"
+			rewards: [{
+				id: "17C8084A6D66462B"
+				table_id: 9150989426695376123L
+				title: "&5Эпический сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				icon: "cataclysm:remnant_skull"
+				id: "5BDF4E620156A162"
+				title: "&eУбейте древнего ревенанта"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&e&lБогоубийца"
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"2CF5C161EBBFF439"
+				"3EC93124E221C538"
+				"2A4A9402EB15D133"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "701BA84D1936F30B"
+			tasks: [{
+				id: "14928415CB6853BF"
+				item: "cataclysm:ancient_metal_ingot"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["701BA84D1936F30B"]
+			id: "20615D42A060C528"
+			tasks: [{
+				id: "6F5D710DBF52252C"
+				item: {
+					Count: 1
+					id: "cataclysm:ancient_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["701BA84D1936F30B"]
+			id: "54273D0431207D54"
+			tasks: [{
+				id: "76A89F1FE808B8CB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "cataclysm:bone_reptile_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["701BA84D1936F30B"]
+			id: "35974E61319C3BCD"
+			tasks: [{
+				id: "5DAB650E8E022352"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "cataclysm:bone_reptile_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0DCB735E1E47162A"]
+			description: ["&5<А&kfffffff&r&5>: Ты нашлёл дом бывшего спелеолога, который наслушался легенд о прекрасных шахтах. Таких было много тысяча, две, может три не знаю. Но тебе нужно найти неразгаданное: шифр первобытности - жёлтую пещерную табличку."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "6040F23877065BB0"
+			rewards: [{
+				id: "7359FFB7FC4B5FEF"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				id: "031F5538D7B48F2F"
+				structure: "alexscaves:underground_cabin"
+				title: "&6Заброшенный дом под землёй?"
+				type: "structure"
+			}]
+			title: "&6Спелеология!"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6040F23877065BB0"]
+			description: [
+				"&5<А&kfffffff&r&5>: Отлично, ты нашёл табличку. Приступай к расшифровке."
+				""
+				"<Вы>: Почему ты просто не можешь дать мне расшифровку или помочь с ней?"
+				""
+				"&5<А&kfffffff&r&5>: Если я начну тебе во всём помогать ОНИ придут за мной... и за вами..."
+				""
+				"<Вы>: Кто такие ОНИ?!"
+				""
+				"&5<А&kfffffff&r&5>: Это те, чьи силы выходят за грань понимания."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "01BBFFF2AC9EB145"
+			rewards: [{
+				id: "6A4CEFAAC6D75374"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				id: "2E62FD40C4638CF4"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_tablet"
+					tag: {
+						CaveBiome: "alexscaves:primordial_caves"
+					}
+				}
+				title: "&6Найдите жёлтую пещерную табличку"
+				type: "item"
+			}]
+			title: "&6Отголоски прошлого"
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"01BBFFF2AC9EB145"
+				"0C11AA4CF37325D5"
+			]
+			description: ["<Вы>: Отлично! Расшифровал. Теперь надо посмотреть что там было написано."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "35A079EDDFB58DA2"
+			rewards: [{
+				id: "47591455274F75B1"
+				table_id: 2229491806141918727L
+				title: "&aНеобычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				id: "21D2A0158ECA0674"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:primordial_caves"
+					}
+				}
+				title: "&6Расшифруйте пещерную табличку"
+				type: "item"
+			}]
+			title: "&6Расшифровка"
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6040F23877065BB0"]
+			description: [
+				"&6Посмотрев на стол спелеолога вы видите вырванную страницу со странными символами и странный рисунок..."
+				"{@pagebreak}"
+				""
+				"{image:ftblibrary:textures/gui/129px_galactic_alphabet_translation_key_large.png width:129 height:256 align:center}"
+				"{@pagebreak}"
+				""
+				"{image:alexscaves:textures/misc/map/primordial_caves_background.png width:128 height:124 align:center}"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0C11AA4CF37325D5"
+			rewards: [{
+				id: "04BC75B4B3B2C4F6"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "alexscaves:spelunkery_table"
+				id: "4CDCBA06C26FBBC0"
+				observe_type: 0
+				timer: 0L
+				title: "&6Осмотрите стол спелеолога"
+				to_observe: "alexscaves:spelunkery_table"
+				type: "observation"
+			}]
+			title: "&6Продолжить дело..."
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["35A079EDDFB58DA2"]
+			description: [
+				"<Вы>: А вот и карта! Посмотрим где может быть первобытность."
+				""
+				"&6Примечание: Если вы играете с шейдерами, то в пещерах мода Alex's Caves лучше отключите их. Даже на странице мода написано, что мод не рекомендован для игры с шейдерами и может испортить визуал и ощущения. &l&oВы были предупреждены!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "2C5F1C9226281185"
+			rewards: [{
+				id: "3F9754649AF01B2C"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "3F6F291A7BB74985"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_map"
+					tag: {
+						BiomeTargetResourceKey: "alexscaves:primordial_caves"
+					}
+				}
+				type: "item"
+			}]
+			title: "&6Карта первобытности"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["30CC731C076B6172"]
+			description: [
+				"<Вы>: Как носорог! Только рогов побольше."
+				""
+				"&5<А&kfffffff&r&5>: Дивное создание: гротоцератопс смесь трицератопса и гротоцераптора."
+			]
+			hide_text_until_complete: true
+			id: "56F53152A120EC25"
+			invisible: true
+			rewards: [{
+				id: "21E8DFA2195E6E3F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "alexscaves:grottoceratops_egg"
+				id: "5B4CD31B1B47C145"
+				observe_type: 5
+				timer: 0L
+				title: "&6Посмтотрите на трицератопса первобытных пещер"
+				to_observe: "alexscaves:grottoceratops"
+				type: "observation"
+			}]
+			title: "&6Трицератопс?"
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["30CC731C076B6172"]
+			description: [
+				"<Вы>: Милый и злой!"
+				""
+				"&5<А&kfffffff&r&5>: Велоцараптор... Думаю сам понимаешь."
+			]
+			hide_text_until_complete: true
+			id: "7E52C92D30FAE0E5"
+			invisible: true
+			rewards: [{
+				id: "0341A15EAEFECA5A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "alexscaves:vallumraptor_egg"
+				id: "3941AFAD454A85B5"
+				observe_type: 5
+				timer: 0L
+				title: "&6Встретьте маленького динозавра в первобытных пещерах"
+				to_observe: "alexscaves:vallumraptor"
+				type: "observation"
+			}]
+			title: "&6Малёк"
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["30CC731C076B6172"]
+			description: [
+				"<Вы>: Интересная птица..."
+				""
+				"&5<А&kfffffff&r&5>: Подтерранодон древний предок птеронадона. Можешь приручить и оседлать его если хочешь."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: false
+			id: "39FA8B0F5E3FE40B"
+			invisible: true
+			rewards: [{
+				id: "4E2BB7F19E849D91"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "alexscaves:subterranodon_egg"
+				id: "0B54C720CBF3AD25"
+				observe_type: 5
+				timer: 0L
+				title: "&6Повстречайте птицу своей мечты в первобытных пещерах"
+				to_observe: "alexscaves:subterranodon"
+				type: "observation"
+			}]
+			title: "&6Птица моей мечты!"
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["30CC731C076B6172"]
+			description: [
+				"<Вы>: Царь во дворца!"
+				""
+				"&5<А&kfffffff&r&5>: Сотрясозавр! Не эволюционировавший Т-Рекс."
+			]
+			hide_text_until_complete: true
+			id: "78E82FA14A9E4E49"
+			invisible: true
+			rewards: [{
+				id: "6CF8B6CA08A54845"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "alexscaves:tremorsaurus_egg"
+				id: "42C225809872E201"
+				observe_type: 5
+				timer: 0L
+				title: "&6Встретьте в первобытных пещерах Т-Рекса"
+				to_observe: "alexscaves:tremorsaurus"
+				type: "observation"
+			}]
+			title: "&6Т-Рекс?"
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["30CC731C076B6172"]
+			description: [
+				"<Вы>: Напыщенный индюк!"
+				""
+				"&5<А&kfffffff&r&5>: Реликвейрус! Травоядный, но сильный!"
+			]
+			hide_text_until_complete: true
+			id: "3BB54A657295BF9E"
+			invisible: true
+			rewards: [{
+				id: "4793A876F053D5BA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "alexscaves:relicheirus_egg"
+				id: "3C211997EFB86039"
+				observe_type: 5
+				timer: 0L
+				title: "&6Осмотрите нового динозавра с пышным хвостом в первобытных пещерах"
+				to_observe: "alexscaves:relicheirus"
+				type: "observation"
+			}]
+			title: "&6Динозавр-попугай?"
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["30CC731C076B6172"]
+			hide_text_until_complete: true
+			icon: "alexscaves:amber"
+			id: "7506592291009D54"
+			invisible: true
+			rewards: [{
+				id: "27691901E0F690D5"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "alexscaves:amber"
+				id: "10F8D041B8B30E9D"
+				observe_type: 0
+				timer: 0L
+				title: "&6Поднимитесь и осмотрите застывший янтарь"
+				to_observe: "alexscaves:amber"
+				type: "observation"
+			}]
+			title: "&6Красивый камень!"
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7506592291009D54"]
+			description: ["<Вы>: Впервые... Я могу дотянуться до солнца!"]
+			hide_text_until_complete: true
+			id: "3C0EDB170B4004BE"
+			invisible: true
+			rewards: [{
+				id: "6321FB78C109F7C6"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "alexscaves:ambersol"
+				id: "28201FBA72A3B291"
+				observe_type: 0
+				timer: 0L
+				title: "&6Откопайте в янтаре солнце древнего мира"
+				to_observe: "alexscaves:ambersol"
+				type: "observation"
+			}]
+			title: "&6Диковинная штучка!"
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7506592291009D54"]
+			description: ["<Вы>: Вот это красотища! Мир миллиарды лет назад на ладони!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "4C81F9038C883723"
+			rewards: [{
+				id: "653B3C3092177ECC"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "&6Красота!"
+			tasks: [{
+				id: "46106EBE34CA3843"
+				item: "alexscaves:amber_curiosity"
+				title: "&6Выкопайте из янтаря красивую безделушку"
+				type: "item"
+			}]
+			title: "&6Такую за дорого купят!"
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0DCB735E1E47162A"]
+			description: [
+				"&5<А&kfffffff&r&5>: Добро пожаловать в сумеречный лес! Мистическое место полное тайн и опасностей. Исследуй его и сразись с его властителями!"
+				""
+				"<Вы>: Занятное местечко. Навстеречу новым приключениям!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "1FCBA38B0590172D"
+			rewards: [{
+				id: "14F3065174B5A939"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			subtitle: "&6Легенды гласят, что если окружить 4 блока воды цветами и бросить туда алмаз откроется некий портал..."
+			tasks: [{
+				dimension: "twilightforest:twilight_forest"
+				icon: "twilightforest:twilight_portal_miniature_structure"
+				id: "58E6CEEDD0C49401"
+				title: "&5Посетите новый тайный мир - сумеречный лес"
+				type: "dimension"
+			}]
+			title: "&5Сумеречный лес!"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1FCBA38B0590172D"]
+			description: ["<Вы>: Это была необходимая жертва..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0BE4990CC194D801"
+			rewards: [{
+				id: "070BDF3A01478C2A"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "twilightforest:raven"
+				icon: "twilightforest:raven_feather"
+				id: "34A1A76EB5B12FEF"
+				title: "&5Убейте ворона"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&5Жестокость"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0BE4990CC194D801"]
+			description: ["<Вы>: Взглянем на точки интереса сумеречного леса!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "01D3F5D43BEF3F70"
+			rewards: [{
+				id: "6502A281928D7F64"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				id: "3CCD85302936430D"
+				item: "twilightforest:magic_map"
+				type: "item"
+			}]
+			title: "&5Карта сумеречного леса"
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["39FA8B0F5E3FE40B"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "19544E7A1A57D8DB"
+			rewards: [{
+				id: "3194D0E576C7E03D"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "alexscaves:subterranodon"
+				icon: "alexscaves:subterranodon_egg"
+				id: "00F8547D065EAF3A"
+				title: "&6Убейте 2 подтерранодона"
+				type: "kill"
+				value: 2L
+			}]
+			title: "&6Это всё же НЕ птица моей мечты"
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4C81F9038C883723"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "107BCE7D4FEB78D9"
+			rewards: [{
+				id: "7CF7EA13039674EE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3B96F162A24AAD96"
+				item: "alexscaves:ominous_catalyst"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["107BCE7D4FEB78D9"]
+			description: [
+				"<Вы>: Что это за вулканозавр?!"
+				""
+				"&5<А&kfffffff&r&5>: &4Это могущественный противник - &lЛюкстракторзавр&r&4! Обуздал первобытный вулкан и стал королём первобытных пещер, уснувши в ядре вулкана!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "77E16A5A734627E7"
+			rewards: [{
+				id: "5A40293F000E483F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "alexscaves:volcanic_core"
+				id: "4EC8EBA71567AC0A"
+				observe_type: 5
+				timer: 0L
+				title: "&4Создайте вулканический апокалипсис"
+				to_observe: "alexscaves:luxtructosaurus"
+				type: "observation"
+			}]
+			title: "&4Апокалипсис"
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["107BCE7D4FEB78D9"]
+			description: ["&6Бростье катализатор в жерло вулкана."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "194F08BF8DFC16C4"
+			rewards: [{
+				auto: "no_toast"
+				command: "/expirience @a -1500"
+				console: true
+				icon: "minecraft:experience_bottle"
+				id: "02FB54491BECF6DC"
+				title: "&4Наказание!"
+				type: "command"
+			}]
+			subtitle: "&4Используйте, только если не можете догдаться где использовать катализатор!"
+			tasks: [{
+				id: "626512DC36F11D6F"
+				title: "Нажми на меня!"
+				type: "checkmark"
+			}]
+			title: "&4Подсказка"
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["01D3F5D43BEF3F70"]
+			description: ["<Вы>: Что за дворик? Посмотрим что у него внутри."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "146BBA1CED8AC1CA"
+			invisible: true
+			rewards: [{
+				id: "5E938B58C5072C3B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "twilightforest:naga_courtyard_miniature_structure"
+				id: "2841C2069F3FDEB6"
+				structure: "twilightforest:naga_courtyard"
+				title: "&5Найдите неизвестный двор посреди сумеречного леса"
+				type: "structure"
+			}]
+			title: "&5Дворик?"
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["78E82FA14A9E4E49"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "00749E0FCF77F8D8"
+			rewards: [{
+				id: "482630C7B7F0944C"
+				table_id: 2229491806141918727L
+				title: "&aНеобычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "alexscaves:tremorsaurus"
+				icon: "alexscaves:tremorsaurus_egg"
+				id: "02D053727B705B3F"
+				title: "&6Убейте царя первобытности - Сотрясозавра"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&6Царь убит"
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["56F53152A120EC25"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "4EB2461DC07A55F1"
+			rewards: [{
+				id: "6EBF94B9171F2C36"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "alexscaves:grottoceratops"
+				icon: "alexscaves:grottoceratops_egg"
+				id: "26C2FFC6EFC88897"
+				title: "&6Убейте 4 гротоцератопса"
+				type: "kill"
+				value: 4L
+			}]
+			title: "&6Гротоцератоубийца"
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7E52C92D30FAE0E5"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5DEC331945EE6BF6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A33E96A80AF3DDA"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "loot"
+			}]
+			tasks: [{
+				entity: "alexscaves:vallumraptor"
+				icon: "alexscaves:vallumraptor_egg"
+				id: "1C89403767D0A130"
+				title: "&6Убейте 6 велоцарапторов"
+				type: "kill"
+				value: 6L
+			}]
+			title: "&6Рапторы..."
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3BB54A657295BF9E"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "740322EC8C4B3300"
+			rewards: [{
+				id: "6585531243B004A0"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "alexscaves:relicheirus"
+				icon: "alexscaves:relicheirus_egg"
+				id: "30379C84E9E26FF6"
+				title: "&6Убейте 2 реликвейруса"
+				type: "kill"
+				value: 2L
+			}]
+			title: "&6Диноубийца"
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["77E16A5A734627E7"]
+			description: [
+				"<Вы>: Кхе-кхе... фух.. Этот тектонозавр какой-то слишком могущественный, но всё же я смог его одолеть!"
+				""
+				"&5<А&kfffffff&r&5>: Вулканизированная слаженность! Ха-ха! Отличная работа вскоре ты одолеешь весь этот мир. А пока займись новым снаряжением. Оно тебе пригодится!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "13B7FB3FBE05DB8D"
+			rewards: [{
+				id: "05121CA0EDB304A8"
+				table_id: 9150989426695376123L
+				title: "&5Эпический сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "alexscaves:luxtructosaurus"
+				icon: "alexscaves:tectonic_shard"
+				id: "28D091DEDEF5A5D7"
+				title: "&4Убейте Люкстрактозавра"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&4Новый рассвет"
+			x: 8.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["13B7FB3FBE05DB8D"]
+			hide_until_deps_complete: true
+			id: "5764356CC91EC3BB"
+			tasks: [{
+				id: "7D522DF9BA9AAAC8"
+				item: {
+					Count: 1
+					id: "alexscaves:extinction_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["13B7FB3FBE05DB8D"]
+			hide_until_deps_complete: true
+			id: "33ED9577E8734C82"
+			tasks: [{
+				id: "3CF5B18B3A16F7B3"
+				item: {
+					Count: 1
+					id: "alexscavesdelight:tectonic_knife"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["13B7FB3FBE05DB8D"]
+			hide_until_deps_complete: true
+			id: "6B33F69B09BEDBF0"
+			tasks: [{
+				id: "1B80AE3896279757"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "alexscaves_torpedoes:tectonic_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["13B7FB3FBE05DB8D"]
+			hide_until_deps_complete: true
+			id: "7F90333F3697F12B"
+			tasks: [{
+				id: "2F10B4A695B6B3E8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "alexscaves_torpedoes:tectonic_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["13B7FB3FBE05DB8D"]
+			hide_until_deps_complete: true
+			id: "475A4C844E60D321"
+			tasks: [{
+				id: "2820CED227BEC554"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "alexscaves_torpedoes:tectonic_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["13B7FB3FBE05DB8D"]
+			hide_until_deps_complete: true
+			id: "2768F1CC74DC1A39"
+			tasks: [{
+				id: "7B1663ED7FCF3DEB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "alexscaves_torpedoes:tectonic_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["44D69F5298DA0A9C"]
+			id: "360272F2A0089C7D"
+			rewards: [{
+				id: "2F2A4E1930A22A45"
+				table_id: 9150989426695376123L
+				title: "&5Эпический сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "twilightforest:naga"
+				icon: "twilightforest:naga_trophy"
+				id: "2705020327802A36"
+				title: "&5Сразите Нагу"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&5Заклинателей змей"
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["360272F2A0089C7D"]
+			id: "552F97BE0B891C4F"
+			tasks: [{
+				id: "6108B2CBAF5A5EF4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "twilightforest:naga_chestplate"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:fire_protection"
+							lvl: 3s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["360272F2A0089C7D"]
+			id: "6DF9C0541916AB32"
+			tasks: [{
+				id: "3B8D850E92A3DCB0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "twilightforest:naga_leggings"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:protection"
+							lvl: 3s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["146BBA1CED8AC1CA"]
+			description: [
+				"<Вы>: Это ещё что за питон переросток?! Придётся биться с ним."
+				""
+				"&5<А&kfffffff&r&5>: Узри же &lНагу&r&5! Чудовищная змея с огромной силой. Покажи на что способен! Срази её!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "44D69F5298DA0A9C"
+			invisible: true
+			rewards: [{
+				id: "1261076FCD54FA55"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "twilightforest:naga_scale"
+				id: "287AF04E4F7541CD"
+				observe_type: 5
+				timer: 0L
+				title: "&5Встретьте во дворике чудовищное существо "
+				to_observe: "twilightforest:naga"
+				type: "observation"
+			}]
+			title: "&5Что это за питон?!"
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["59042B2209E87DD8"]
+			id: "4D2D460853D146EB"
+			tasks: [{
+				id: "5A497F7E53513070"
+				item: {
+					Count: 1
+					id: "minecells:explosive_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["59042B2209E87DD8"]
+			id: "4D2B5771BC98008C"
+			tasks: [{
+				id: "0C14F85D34648B54"
+				item: {
+					Count: 1
+					id: "minecells:quick_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["340391BAA9C57B5C"]
+			hide_dependency_lines: true
+			hide_text_until_complete: false
+			hide_until_deps_complete: true
+			id: "696031D5FC9D06B3"
+			optional: true
+			tasks: [{
+				id: "2A1F79DFC033F9C6"
+				item: {
+					Count: 1
+					id: "minecells:vine_rune"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "&cДобудьте руну лозы с элитного противника на тропе обреченных"
+				type: "item"
+			}]
+			title: "&c★Элитность★"
+			x: 2.0d
+			y: -3.0d
+		}
+	]
+	title: "&6[&r&2Глава II: 'Время приключений!'&6]&r"
+}

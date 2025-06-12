@@ -1,0 +1,2418 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6b_iii_6r"
+	group: "062A49D7557BE3B3"
+	icon: "enigmaticlegacy:the_twist"
+	id: "23C3BDF0B166EAC5"
+	images: [
+		{
+			height: 5.0d
+			image: "born_in_chaos_v1:item/struc"
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/colored_torch/ramparts"
+			rotation: 8.0d
+			width: 1.0d
+			x: 0.36989795918367463d
+			y: -7.716836734693853d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/colored_torch/ramparts"
+			rotation: -37.0d
+			width: 1.0d
+			x: -0.07908163265306456d
+			y: -7.818877551020385d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/colored_torch/ramparts"
+			rotation: 58.0d
+			width: 1.0d
+			x: 0.45153061224488766d
+			y: -7.318877551020385d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/mythicmetals_compat/longsword/longsword_metallurgium"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: -7.5d
+			y: -1.0d
+		}
+		{
+			dependency: "7A92497A65CB4315"
+			height: 1.0d
+			image: "iter_rpg:item/air_sword"
+			rotation: 55.0d
+			width: 1.0d
+			x: -7.250000000000014d
+			y: 0.8171768707482769d
+		}
+		{
+			dependency: "4E253BAB6FCA2E08"
+			height: 4.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			color: 170
+			dependency: "33D21BD77AFAAE29"
+			height: 1.0d
+			image: "alexscaves:textures/particle/tremorzilla_retro_lightning_5.png"
+			rotation: -135.0d
+			width: 1.0d
+			x: 0.5663265306122369d
+			y: 4.5d
+		}
+		{
+			color: 16733525
+			dependency: "33D21BD77AFAAE29"
+			height: 1.0d
+			image: "alexscaves:textures/particle/tremorzilla_tectonic_lightning_5.png"
+			rotation: 45.0d
+			width: 1.0d
+			x: 0.607142857142847d
+			y: 4.561224489795919d
+		}
+		{
+			color: 16733525
+			dependency: "33D21BD77AFAAE29"
+			height: 1.0d
+			image: "alexscaves:textures/particle/tremorzilla_tectonic_lightning_5.png"
+			rotation: -180.0d
+			width: 1.0d
+			x: -0.5d
+			y: 5.001275510204053d
+		}
+		{
+			color: 170
+			dependency: "33D21BD77AFAAE29"
+			height: 1.0d
+			image: "alexscaves:textures/particle/tremorzilla_retro_lightning_5.png"
+			rotation: -180.0d
+			width: 1.0d
+			x: 0.6301020408163254d
+			y: 5.2193877551020265d
+		}
+		{
+			color: 170
+			dependency: "33D21BD77AFAAE29"
+			height: 1.0d
+			image: "alexscaves:textures/particle/tremorzilla_retro_lightning_5.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.5d
+			y: 5.001275510204053d
+		}
+		{
+			color: 170
+			dependency: "33D21BD77AFAAE29"
+			height: 1.0d
+			image: "alexscaves:textures/particle/tremorzilla_retro_lightning_5.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 2.5d
+			y: 5.501275510204053d
+		}
+		{
+			color: 170
+			dependency: "33D21BD77AFAAE29"
+			height: 1.0d
+			image: "alexscaves:textures/particle/tremorzilla_retro_lightning_5.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 2.0d
+			y: 5.001275510204053d
+		}
+		{
+			color: 16733525
+			dependency: "33D21BD77AFAAE29"
+			height: 1.0d
+			image: "alexscaves:textures/particle/tremorzilla_tectonic_lightning_5.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.283163265306122d
+			y: 5.2602040816326365d
+		}
+		{
+			color: 16733525
+			dependency: "33D21BD77AFAAE29"
+			height: 1.0d
+			image: "alexscaves:textures/particle/tremorzilla_tectonic_lightning_5.png"
+			rotation: -180.0d
+			width: 1.0d
+			x: -1.5d
+			y: 5.501275510204053d
+		}
+		{
+			color: 16733525
+			dependency: "33D21BD77AFAAE29"
+			height: 1.0d
+			image: "alexscaves:textures/particle/tremorzilla_tectonic_lightning_5.png"
+			rotation: -180.0d
+			width: 1.0d
+			x: -1.0d
+			y: 5.001275510204053d
+		}
+		{
+			dependency: "6482AD333D595AA7"
+			height: 1.0d
+			image: "twilightforest:item/steeleaf_sword"
+			rotation: -169.0d
+			width: 1.0d
+			x: 4.604591836734684d
+			y: 3.0497448979591937d
+		}
+		{
+			dependency: "72AA809558886BB1"
+			height: 1.0d
+			image: "cataclysm:textures/entity/leviathan/abyss_orb.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			dependency: "72AA809558886BB1"
+			height: 5.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			dependency: "72AA809558886BB1"
+			height: 5.5d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 5.5d
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			dependency: "72AA809558886BB1"
+			height: 6.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			dependency: "3D6541B1364072A1"
+			height: 1.5d
+			image: "minecells:textures/blockentity/banner/ramparts.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 2.8142857142857167d
+			y: -2.881887755102035d
+		}
+		{
+			dependency: "3D6541B1364072A1"
+			height: 1.5d
+			image: "minecells:textures/blockentity/banner/ramparts.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -2.144897959183673d
+			y: -2.9022959183673365d
+		}
+		{
+			dependency: "3D6541B1364072A1"
+			height: 1.5d
+			image: "minecells:textures/blockentity/banner/ramparts.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -0.6959183673469482d
+			y: -3.3716836734693842d
+		}
+		{
+			dependency: "3D6541B1364072A1"
+			height: 1.5d
+			image: "minecells:textures/blockentity/banner/ramparts.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.3448979591836618d
+			y: -3.3716836734693842d
+		}
+		{
+			dependency: "4E253BAB6FCA2E08"
+			height: 4.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 45.0d
+			width: 4.0d
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependency: "75F091A033305D09"
+			height: 3.5d
+			image: "supplementaries:block/sconce_fire_ender"
+			rotation: 0.0d
+			width: 3.5d
+			x: -4.480612244897955d
+			y: 0.8813775510204209d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"13B7FB3FBE05DB8D"
+				"360272F2A0089C7D"
+				"23A2A5EBC5C28CDC"
+				"05DC1A521148E8D8"
+			]
+			description: [
+				"&5<Ар&kffffff&r&5>: Я.. я.. я начинаю вспоминать своё имя... Ар..........."
+				""
+				"<Вы>: Стоп... Ты сам не знаешь как тебя зовут?! Почему?"
+				""
+				"&5<Ар&kffffff&r&5>: Это... долгая история не для твоих ушей. Просто прими этот факт, но с каждой полученной тобою душой я начинаю вспоминать больше... И дальше я смогу помогать меньше, иначе я угасну. Навсегда. А сейчас вернись на тропу обреченных и найди там башню, найди фиолетовую пещерную табличку и войди в сумеречный лес!"
+				""
+				"<Вы>: Ладно..."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "496D52478AFFC661"
+			rewards: [
+				{
+					auto: "invisible"
+					icon: {
+						Count: 1
+						id: "minecells:ramparts_doorway"
+						tag: {
+							BlockEntityTag: { }
+						}
+					}
+					id: "41284F82D2EAC785"
+					ignore_reward_blocking: true
+					stage: "prison_towers"
+					title: "&6Доступ в новое измерение"
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					icon: "minecraft:crafting_table"
+					id: "7410D60CE3CF69B9"
+					ignore_reward_blocking: true
+					stage: "chapter_II_recipes"
+					title: "Новые рецепты"
+					type: "gamestage"
+				}
+			]
+			subtitle: "Откровение неизвестного."
+			tasks: [{
+				elapsedTime: 3L
+				icon: "enigmaticlegacy:the_twist"
+				id: "354F27272BBDAF9B"
+				title: "&bЭтот квест выполнится автоматически! Просто немного подождите..."
+				type: "questsadditions:time"
+			}]
+			title: "&bОткровение..."
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["496D52478AFFC661"]
+			description: ["<Вы>: А вот и тропа обречённых! &oОн&r говорил о какой-то башне и то, что нужно её найти."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "4F3557BBA1416F48"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "46C3AC83E971E1A2"
+				table_id: 8412317088013385020L
+				type: "loot"
+			}]
+			tasks: [{
+				dimension: "minecells:promenade"
+				icon: {
+					Count: 1
+					id: "minecells:promenade_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "5494CF3808D02604"
+				title: "&3Вернитесь на тропу обречённых"
+				type: "dimension"
+			}]
+			title: "&3И снова обрекаю..."
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"4F3557BBA1416F48"
+				"6A072B530C33E144"
+			]
+			description: ["<Вы>: Новый портал! Звучит как новые приключения и новые ощущения!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "2E9406553A9B15A8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6D73B9CC808B96E0"
+				table_id: 8412317088013385020L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "minecells:ramparts_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "7371BE12DCC6A31E"
+				observe_type: 0
+				timer: 0L
+				title: "&6Осмотрите жёлтый портал на тропе обречённых"
+				to_observe: "minecells:ramparts_doorway"
+				type: "observation"
+			}]
+			title: "&6Жёлтый портал"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4F3557BBA1416F48"]
+			description: ["<Вы>: Это было.. &lстранно&r..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "6A072B530C33E144"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "72479F3F530DC15B"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "41606CBE03986364"
+				item: {
+					Count: 1
+					id: "minecells:vine_rune"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "&cДобудьте руну лозы с элитного противника на тропе обреченных"
+				type: "item"
+			}]
+			title: "&c★Элитность★"
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2E9406553A9B15A8"]
+			description: ["<Вы>: Здесь.. разряженный воздух, немного сложно дышать."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "3D6541B1364072A1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4E767F33444A61E7"
+				table_id: 2229491806141918727L
+				type: "loot"
+			}]
+			tasks: [{
+				dimension: "minecells:ramparts"
+				icon: "born_in_chaos_v1:spawn_structures_lookout_tower"
+				id: "259E20DDBD76B613"
+				title: "&6Попадите на верх тюремных башен"
+				type: "dimension"
+			}]
+			title: "&6Тюремные башни"
+			x: 0.0d
+			y: -3.053571428571434d
+		}
+		{
+			dependencies: ["3D6541B1364072A1"]
+			description: ["<Вы>: Фу! Даже зубы не чистят!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "6889A4A7B5FEF0A3"
+			rewards: [{
+				id: "2775F240F12E50E8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "minecells:buzzcutter_spawn_egg"
+				id: "31C92B4778FD1815"
+				observe_type: 5
+				timer: 0L
+				title: "&6Отыщите зубастых монстров на тюремных башнях"
+				to_observe: "minecells:buzzcutter"
+				type: "observation"
+			}]
+			title: "&6Зубастая тварь!"
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3D6541B1364072A1"]
+			description: ["<Вы>: Очень интересно, что это за маги, но их магия делает бо-бо!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "23D707BBCA32D0D0"
+			rewards: [{
+				id: "0E3DBD1D1673CDCA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "minecells:inquisitor_spawn_egg"
+				id: "275E826BB663EC27"
+				observe_type: 5
+				timer: 0L
+				title: "&6Повстрчайте инквизитора на тюремных башнях"
+				to_observe: "minecells:inquisitor"
+				type: "observation"
+			}]
+			title: "&6Что ещё за маги?"
+			x: 0.0d
+			y: -4.3341836734693935d
+		}
+		{
+			dependencies: ["23D707BBCA32D0D0"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "264E2D3C8BDA9B52"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3AC7C40E0F298820"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				entity: "minecells:inquisitor"
+				icon: "minecells:arcane_goo"
+				id: "07AF8C185146FB07"
+				title: "&6Убейте 5 Инквизиторов"
+				type: "kill"
+				value: 5L
+			}]
+			title: "&6Святая инквизиция!"
+			x: 0.0d
+			y: -5.8341836734693935d
+		}
+		{
+			dependencies: ["3D6541B1364072A1"]
+			description: ["<Вы>: Что за стена пламени от его рук?!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "2B12A7CF201FDB96"
+			rewards: [{
+				id: "5C13FE7A478EE65E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "minecells:sweeper_spawn_egg"
+				id: "379CDECFBA951DAC"
+				observe_type: 5
+				timer: 0L
+				title: "&6Найдите монстра с расплавленной рукой"
+				to_observe: "minecells:sweeper"
+				type: "observation"
+			}]
+			title: "&6А у него горячая рука!"
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["6889A4A7B5FEF0A3"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "701E242AEBDEE6F8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6604291FD20CB5A5"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				entity: "minecells:buzzcutter"
+				id: "60564E594A341788"
+				title: "&6Убейте 20 резальщиков"
+				type: "kill"
+				value: 20L
+			}]
+			title: "&6Черти зубастые"
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2B12A7CF201FDB96"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5BD8F69B6A2DD7C6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "489611ED247E3894"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				entity: "minecells:sweeper"
+				icon: "minecells:molten_chunk"
+				id: "5C57BEEA1E58D728"
+				title: "&6Убейте 5 метельщиков"
+				type: "kill"
+				value: 5L
+			}]
+			title: "&6Выходит... Смёл?"
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3D6541B1364072A1"]
+			description: ["<Вы>: Легион! Построиться в черепаху! Хах!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "1827EE1615B45B8F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "48E8EA873A230C0E"
+				table_id: 2229491806141918727L
+				type: "loot"
+			}]
+			tasks: [{
+				entity: "minecells:shieldbearer"
+				icon: {
+					Count: 1
+					id: "minecells:assault_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "2E6F30D8F4272193"
+				title: "&6Убейте 12 щитоносцев"
+				type: "kill"
+				value: 12L
+			}]
+			title: "&6Легион падёт!"
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3D6541B1364072A1"]
+			description: ["<Вы>: С каждым разом они ощущаются слабее."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "7D7AC7E35F2B490F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "34588DF227160BD6"
+				table_id: 2229491806141918727L
+				type: "loot"
+			}]
+			tasks: [{
+				entity: "minecells:undead_archer"
+				id: "022E6236733C4393"
+				title: "&6Убейте 10 оживших лучников"
+				type: "kill"
+				value: 10L
+			}]
+			title: "&6Армия чахнет..."
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"701E242AEBDEE6F8"
+				"5BD8F69B6A2DD7C6"
+				"1827EE1615B45B8F"
+				"264E2D3C8BDA9B52"
+				"7D7AC7E35F2B490F"
+			]
+			description: ["&5<Ар&kffffff&r&5>: Поздравляю тебя... Ты почти дошёл до конца. Осталось немного, будет очень непросто готовься."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "25E432B06B15D0BE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1A6C173F0900BC90"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1EC7F89F793A5A67"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "37CD5D620AF03FBE"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				elapsedTime: 5L
+				icon: {
+					Count: 1
+					id: "minecells:ramparts_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "2E3E33F95F778284"
+				title: "&6Этот квест выполнится автоматически! Просто немного подождите..."
+				type: "questsadditions:time"
+			}]
+			title: "&6Конец близок..."
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["25E432B06B15D0BE"]
+			description: ["&5<Ар&kffffff&r&5>: Отлично, теперь ты можешь попасть в мир энда. Там тебя ждёт множество опасностей и наград!"]
+			hide_dependent_lines: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "minecraft:end_portal_frame"
+			id: "72AA809558886BB1"
+			rewards: [{
+				auto: "invisible"
+				icon: "minecraft:ender_eye"
+				id: "54D2066D6035DF68"
+				ignore_reward_blocking: true
+				stage: "end"
+				title: "&dДоступ в новое измерение"
+				type: "gamestage"
+			}]
+			subtitle: "&dОтныне вы можете попасть в &lЭнд&r&d!"
+			tasks: [{
+				elapsedTime: 60L
+				icon: "minecraft:end_portal_frame"
+				id: "78EB020C3A563378"
+				title: "&dЭтот квест выполнится автоматически! Просто немного подождитe..."
+				type: "questsadditions:time"
+			}]
+			title: "&dДостоинство!"
+			x: -2.0d
+			y: -7.0d
+		}
+		{
+			dependencies: [
+				"496D52478AFFC661"
+				"72AA809558886BB1"
+			]
+			description: ["&5<Ар&kffffff&r&5>: Тебе предстоит великая битва. Тебе нужно будет одолеть двух сильнейших противников. Хранителя энда - Эндер дракона! О втором же ты узнаешь позже..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "7A92497A65CB4315"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "371AACBEA2EED7C9"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "42D67A6965F4AB2F"
+				title: "&dПосетите Энд"
+				type: "dimension"
+			}]
+			title: "&dКонец?"
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7A92497A65CB4315"]
+			description: ["<Вы>: Чёрт, это было, довольно сложно."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "1B33B35DADA4BEB9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6BA96F25CFF90146"
+				table_id: 9150989426695376123L
+				type: "loot"
+			}]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_head"
+				id: "32B8FDF3D0F582B4"
+				title: "&dУбейте Эндер-дракона"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&dЗадраконил..."
+			x: -6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1B33B35DADA4BEB9"]
+			description: ["<Вы>: Меня не запереть! Я всегда найду выход!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "75F091A033305D09"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E2FC3E596FC8BD9"
+				table_id: 2229491806141918727L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "minecraft:end/enter_end_gateway"
+				criterion: ""
+				id: "39F88885455A78A4"
+				title: "&dСовершите идеальный побег"
+				type: "advancement"
+			}]
+			title: "&dЭто ещё не конец!"
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["75F091A033305D09"]
+			description: ["<Вы>: Это ещё что за общага?"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "4568515B96488060"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "52B92F1FF8F17500"
+				table_id: 2229491806141918727L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: "minecraft:shulker_box"
+				id: "12BCBE8510F49405"
+				structure: "minecraft:end_city"
+				title: "&dНайдите хрущёвку в энде"
+				type: "structure"
+			}]
+			title: "&dНовая цивилизация?"
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4568515B96488060"]
+			description: ["<Вы>: Ха-ха! Я могу летать! Но нужно держаться подальше от солнца, а то еще случиться..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "6EBB326ED267540C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "18E12F40A7375566"
+				table_id: 9150989426695376123L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "01C941BC9BEE359C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "&dНайдите элитры в городе энда"
+				type: "item"
+			}]
+			title: "&dГде твои крылья, ангел?"
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0649794553E2A904"]
+			description: ["<Вы>: Очередное здание? Хотя оно не похоже на города. Я думаю не стоит сразу идти внутрь него. Для начала нужно осмотреться снаружи."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "4E253BAB6FCA2E08"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "437C1791BA37288A"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: "cataclysm:void_stone"
+				id: "63B7634B4E954F86"
+				structure: "cataclysm:ruined_citadel"
+				title: "&dНайдите необычное строение в энде, проследовав за оком"
+				type: "structure"
+			}]
+			title: "&l&dЧто это?"
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["75F091A033305D09"]
+			description: ["<Вы>: Одновременно и жутко и &dзавораживающее&r..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0649794553E2A904"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2D4F19E17D0C4ACA"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "51AE073D57CE973E"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+			]
+			subtitle: "&dИз его недр слышны потусторонние звуки..."
+			tasks: [{
+				id: "159168AA14B627F4"
+				item: "cataclysm:void_eye"
+				title: "&dСоздайте око пустоты"
+				type: "item"
+			}]
+			title: "&l&dГолос пустоты"
+			x: -4.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4E253BAB6FCA2E08"]
+			description: ["<Вы>: Очень странные жуки... Пиво... Мужи... Кхм-кхм они явно не дружелюбны!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "3DFDC270A06F67F4"
+			rewards: [{
+				id: "292F141B75B0CEB0"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "cataclysm:void_jaw"
+				id: "4E5CAD4137FE9F97"
+				observe_type: 5
+				timer: 0L
+				title: "&dВстретье необычного жука у нового строения"
+				to_observe: "cataclysm:endermaptera"
+				type: "observation"
+			}]
+			title: "&l&dЧто за странные жуки?"
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3DFDC270A06F67F4"]
+			description: ["<Вы>: Хмм... Эти пасти достаточно острые, чтобы я смог сделать из них добротные &lстрелы&r"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "7DDB8F68390123F0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3144227F8BC3BD1C"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "56EA1F0145AFA0C4"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:endermaptera"
+				icon: "cataclysm:void_jaw"
+				id: "55065CD374408D88"
+				title: "&dУбейте 15 Эндер-мактер"
+				type: "kill"
+				value: 15L
+			}]
+			title: "&d&lНа зубок"
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DDB8F68390123F0"]
+			hide_until_deps_complete: true
+			id: "4021796B84FBC293"
+			tasks: [{
+				id: "2276A2E70CB8B4D2"
+				item: "cataclysm:void_scatter_arrow"
+				type: "item"
+			}]
+			title: "&d&lНовая аммуниция"
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4E253BAB6FCA2E08"]
+			description: ["<Вы>: Кто это?! Голем?! Статуя?! Что за нарост у него на спине?! Он явно не настроен миролюбиво!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "6A3CF416CA1F6592"
+			tasks: [{
+				icon: "cataclysm:void_core"
+				id: "202301FA6DD5D380"
+				observe_type: 5
+				timer: 0L
+				title: "&dНайдите нечто"
+				to_observe: "cataclysm:ender_golem"
+				type: "observation"
+			}]
+			title: "&d&lИзучите строение изнутри"
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4E253BAB6FCA2E08"]
+			description: ["<Вы>: Очень необычные и странные ловушки. И что за острые камни вылезают? Ничего не понимаю..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "1FC7C8DA8B5FAE6C"
+			tasks: [{
+				icon: "cataclysm:obsidian_explosion_trap_bricks"
+				id: "2407F47A4B9310D9"
+				observe_type: 1
+				timer: 0L
+				title: "&dИзучите внутреннее устройство структуры"
+				to_observe: "forge:ruined_citadel_traps"
+				type: "observation"
+			}]
+			title: "&d&lИзучите строение изнутри"
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6A3CF416CA1F6592"]
+			description: ["<Вы>: Вроде они были не очень сложны... Не очень..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "7675424848101525"
+			tasks: [{
+				entity: "cataclysm:ender_golem"
+				icon: "cataclysm:void_core"
+				id: "46A13D3A2950F9DA"
+				title: "&dУбейте 3 Эндер-голема"
+				type: "kill"
+				value: 3L
+			}]
+			title: "&d&lРазрушители"
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7675424848101525"]
+			description: [
+				"&d<&l&kfffff fffffff&r&d>: Я - Страж пустоты, хранитель порядка! Как ты посмел вторгнуться ко мне и нарушить устой?! Ты пожалеешь о своём поступке! Готовься к смерти!"
+				""
+				"<Вы>: Не сегодня, дружище!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "703518B537DF711E"
+			rewards: [{
+				id: "142B7F2B0E1A1F7B"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				icon: "cataclysm:gauntlet_of_guard"
+				id: "61AEB85BBD392C13"
+				observe_type: 5
+				timer: 0L
+				title: "&dПовстечайте &lНеизвестного&r&d и дайте ему бой"
+				to_observe: "cataclysm:ender_guardian"
+				type: "observation"
+			}]
+			title: "&d&lБатя големов?"
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["703518B537DF711E"]
+			description: [
+				"&d<&lСтраж пустоты&r&d>: К-к-ка..к ты посмел... Ты не понимаешь, что ты делаешь, дитя хаоса...  Э-э-то моя кровь? Ха-ха... Нет, нет... Этого не может быть... Мы... Ещё... Увидимся..."
+				""
+				"<Вы>: Прости, но у меня есть задание, которое важнее твоей жизни. *Фух* Это было.. &oблизко&r"
+				""
+				"&5<Ар&kffffff&r&5>: Что ж.. Ты смог уничтожить даже мировой порядок... Мои поздравления."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "63B15424B9BFB839"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "652E1B6A923F2ADB"
+					table_id: 7405890511148135178L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6E75F486A4FF3EA2"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				icon: "cataclysm:gauntlet_of_guard"
+				id: "335FE99CD558A3F4"
+				title: "&d&lУбейте стража пустоты!"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&l&dПодавление порядка"
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["496D52478AFFC661"]
+			description: [
+				"<Вы>: Бррр.. снова это мрачный лес. Мне никогда не нравилось это место."
+				""
+				"&5<Ар&kffffff&r&5>: Не начинай! Ты должен это сделать!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "36A3C2F973A0B679"
+			rewards: [{
+				id: "5977143B5BE2B9F5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				dimension: "twilightforest:twilight_forest"
+				icon: "twilightforest:twilight_portal_miniature_structure"
+				id: "3B09F8C3991EDDD8"
+				title: "&3Вернитесь в сумеречный лес"
+				type: "dimension"
+			}]
+			title: "&3Опять туда?"
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["36A3C2F973A0B679"]
+			description: ["<Вы>: Замок?! Посреди леса?! Очень странно, но я думаю нужно внутрь."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "7AE8C9C53090CDF0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "255D533578B0896D"
+				table_id: 2229491806141918727L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: "twilightforest:lich_tower_miniature_structure"
+				id: "7A9393348F024D9E"
+				structure: "twilightforest:lich_tower"
+				title: "&3Найдите замок в сумеречном лесу"
+				type: "structure"
+			}]
+			title: "&3Замок?"
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7AE8C9C53090CDF0"]
+			description: [
+				"&3<&kfff&r&3>: Ритуал почти готов... Стоп! Ты еще кто такой?!"
+				""
+				"<Вы>: Кара с небес!"
+				""
+				"&3<&kfff&r&3>: Ты посмел заявиться прямо в лапы лича? Хах, навиный..."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "6482AD333D595AA7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C9D273FEC97FA98"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: "twilightforest:lich_trophy"
+				id: "447C4151CA9A8FE9"
+				observe_type: 5
+				timer: 0L
+				to_observe: "twilightforest:lich"
+				type: "observation"
+			}]
+			title: "&3Скелет-король?"
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6482AD333D595AA7"]
+			description: [
+				"&3<Лич>: Не может быть... Смерть - это лекарство!"
+				""
+				"<Вы>: Не сегодня!"
+				"*Вы срубаете голову личу*"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0BF61A9D38B98383"
+			min_width: 175
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A90B2B9F963B6D1"
+				table_id: 9150989426695376123L
+				type: "loot"
+			}]
+			tasks: [{
+				entity: "twilightforest:lich"
+				icon: "twilightforest:lich_trophy"
+				id: "18DCF802FF0013B9"
+				title: "&3Окончите правление лича"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&3Падение королевства..."
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["0BF61A9D38B98383"]
+			hide_text_until_complete: false
+			hide_until_deps_complete: true
+			id: "7A560FEA817190BF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "546C3873D6695C43"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			shape: "diamond"
+			subtitle: "Стреляет сумеречными жемчугами"
+			tasks: [{
+				id: "7FD406C5589E0289"
+				item: {
+					Count: 1
+					id: "twilightforest:twilight_scepter"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&1Сумеречный король"
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0BF61A9D38B98383"]
+			hide_until_deps_complete: true
+			id: "26BD6BA0BF37879B"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B7C1A31BCC31AB1"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			shape: "diamond"
+			subtitle: "Высасывает жизненные силы из ваших врагов, передаваяя их вам."
+			tasks: [{
+				id: "58C1C7AD7A830351"
+				item: {
+					Count: 1
+					id: "twilightforest:lifedrain_scepter"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&4Кровосися"
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0BF61A9D38B98383"]
+			hide_until_deps_complete: true
+			id: "10B8A2D9CFC2B964"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1547E31F1D7684BB"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			shape: "diamond"
+			subtitle: "Создаёт подконтрольного усиленного зосби"
+			tasks: [{
+				id: "2B5454487341F0A6"
+				item: {
+					Count: 1
+					id: "twilightforest:zombie_scepter"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&2Повелитель нежити"
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0BF61A9D38B98383"]
+			hide_until_deps_complete: true
+			id: "5D4B410A4F89A1F2"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0C3E04204087EAA8"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			shape: "diamond"
+			subtitle: "Создаёт 5 щитов вокруг вас, каждый из которых поглощает 1 любой удар"
+			tasks: [{
+				id: "31619D821B5D7C66"
+				item: {
+					Count: 1
+					id: "twilightforest:fortification_scepter"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&eНеуязвимость!"
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["496D52478AFFC661"]
+			description: [
+				"<Вы>: А вот и табличка! Время быть переводчиком."
+				"{@pagebreak}"
+				"{image:ftblibrary:textures/gui/129px_galactic_alphabet_translation_key_large.png width:129 height:256 align:center}"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "6E48364F762094DF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "37B6385A59CC693B"
+					table_id: 5154272757293114094L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2B91A3871ABC2341"
+					table_id: 5154272757293114094L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5B2E8BC22BD0F64A"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "73BB4E52FAA3B89A"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_tablet"
+					tag: {
+						CaveBiome: "alexscaves:magnetic_caves"
+					}
+				}
+				title: "&5Найдите фиолетовую пещерную табличку"
+				type: "item"
+			}]
+			title: "&5На поиски сокровищ!"
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6E48364F762094DF"]
+			description: ["&5<Ар&kffffff&r&5>: Хорошо, что ты расшифровал эту табличку создай внимательно прочти о опаснастях в &o&cМагнитных &9пещерах&5."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "4D614FFDC9915326"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0086CD2BA38D8CC5"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "63039E200BDAAD29"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:magnetic_caves"
+					}
+				}
+				title: "&5Расшифруйте пещерную табличку"
+				type: "item"
+			}]
+			title: "&5Дешиврофка!"
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4D614FFDC9915326"]
+			description: [
+				"<Вы>: Карта есть - можно поесть! И отправиться на поиски магнитов!"
+				""
+				"&6Примечание: Если вы играете с шейдерами, то в пещерах мода Alex's Caves лучше отключите их. Даже на странице мода написано, что мод не рекомендован для игры с шейдерами и может испортить визуал и ощущения. &l&oВы были предупреждены!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5A6455F63E1B9AED"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "460B9E0DDE6FEE52"
+				table_id: 5154272757293114094L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "21C257024833D03E"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_map"
+					tag: {
+						BiomeTargetResourceKey: "alexscaves:magnetic_caves"
+					}
+				}
+				type: "item"
+			}]
+			title: "&5Картография!"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5A6455F63E1B9AED"]
+			description: ["<Вы>: А вот и магнитные пещеры! И это выглядит.. завораживающе..."]
+			hide_dependent_lines: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "33D21BD77AFAAE29"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0F48912A7C6EB034"
+				table_id: 9150989426695376123L
+				type: "loot"
+			}]
+			tasks: [{
+				biome: "alexscaves:magnetic_caves"
+				icon: "alexscaves:energized_galena_neutral"
+				id: "68FEE7975680B2BE"
+				title: "Найдите &cмагнитные &9пещеры"
+				type: "biome"
+			}]
+			title: "&cНамагни-&9-ченность!"
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["33D21BD77AFAAE29"]
+			description: ["<Вы>: Кажется он должен &oпритягивать&r металлы."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "1B137869AC78E2AB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "77DE7515431FAD7A"
+				table_id: 5154272757293114094L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: "alexscaves:raw_scarlet_neodymium"
+				id: "41B95DC85F236D09"
+				observe_type: 1
+				timer: 0L
+				title: "&cОсмотрите алый неодим в магнитных пещерах"
+				to_observe: "forge:nature_scarlet_neodymium"
+				type: "observation"
+			}]
+			title: "&cАлый неодим"
+			x: -0.20153061224490187d
+			y: 4.501275510204067d
+		}
+		{
+			dependencies: ["33D21BD77AFAAE29"]
+			description: ["<Вы>: Кажется он должен &oотталкивать&r металлы."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "21FC3899208D6C29"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4E2EFC6155D1800C"
+				table_id: 5154272757293114094L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: "alexscaves:raw_azure_neodymium"
+				id: "619F203A596DD208"
+				observe_type: 0
+				timer: 0L
+				title: "&9Осмотрите лазурный неодим в магнитных пещерах"
+				to_observe: "forge:nature_azure_neodimium"
+				type: "observation"
+			}]
+			title: "&9Лазурный неодим"
+			x: 1.2984693877550981d
+			y: 4.501275510204067d
+		}
+		{
+			dependencies: ["33D21BD77AFAAE29"]
+			description: ["<Вы>: Это что ещё за рудоголем?!"]
+			id: "67C7D831468663A6"
+			rewards: [{
+				id: "68C9E3323CC65E26"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "alexscaves:heart_of_iron"
+				id: "726A17257DD17C77"
+				observe_type: 5
+				timer: 0L
+				title: "Повстречайте &cмагни-&9-трона&r в магнитных пещерах"
+				to_observe: "alexscaves:magnetron"
+				type: "observation"
+			}]
+			title: "&cМагни-&9-угольник?"
+			x: -1.5d
+			y: 6.001275510204053d
+		}
+		{
+			dependencies: ["67C7D831468663A6"]
+			id: "30DD00818BE755FA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "21D50EA0A9AC48C7"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				entity: "alexscaves:magnetron"
+				icon: "alexscaves:heart_of_iron"
+				id: "001F9B9CF01FD35E"
+				title: "Убейте 5 магнитронов"
+				type: "kill"
+				value: 5L
+			}]
+			title: "&cМагнито-&9-ненавистник"
+			x: -2.5d
+			y: 7.001275510204053d
+		}
+		{
+			dependencies: ["33D21BD77AFAAE29"]
+			description: ["<Вы>: Что? Он копирует меня?"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "634A6B1ABA9BA2EA"
+			rewards: [{
+				id: "1CCFEB83634BC904"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "alexscaves:telecore"
+				id: "353486A586210E03"
+				observe_type: 5
+				timer: 0L
+				title: "Встретье плагиатора в магнитных пещерах"
+				to_observe: "alexscaves:teletor"
+				type: "observation"
+			}]
+			title: "&cПла-&9-гиат"
+			x: -0.5d
+			y: 5.501275510204053d
+		}
+		{
+			dependencies: ["634A6B1ABA9BA2EA"]
+			id: "1843B15A64146973"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1CAAD422D7F23F2E"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				entity: "alexscaves:teletor"
+				icon: "alexscaves:telecore"
+				id: "288BE19C7AE2B8C0"
+				title: "Убейте 5 телеторов"
+				type: "kill"
+				value: 5L
+			}]
+			title: "&cНенавижу-&9-плагиат"
+			x: -0.5d
+			y: 6.501275510204053d
+		}
+		{
+			dependencies: ["33D21BD77AFAAE29"]
+			description: ["<Вы>: Вооооа!! Надо почаще смотреть на потолок, а то раздавит так."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "06BC2380670367C4"
+			rewards: [{
+				id: "6D69A7CBBE752C9D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "alexscaves:heavyweight"
+				id: "2CBCBB2797AC771B"
+				observe_type: 5
+				timer: 0L
+				title: "Посмотрите на потолок"
+				to_observe: "alexscaves:boundroid"
+				type: "observation"
+			}]
+			title: "&cПрисо-&9-ска"
+			x: 0.5d
+			y: 6.001275510204053d
+		}
+		{
+			dependencies: ["33D21BD77AFAAE29"]
+			description: ["<Вы>: Стоп! Это штука следит за мной?"]
+			id: "0730FA2F4AEF1FFB"
+			rewards: [{
+				id: "35D0E3C2C0529044"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "alexscaves:notor_gizmo"
+				id: "6E920F4D14113804"
+				observe_type: 5
+				timer: 0L
+				title: "Попадитесь камеру маячка"
+				to_observe: "alexscaves:notor"
+				type: "observation"
+			}]
+			title: "&cВидеона-&9-блюдение?"
+			x: 1.5d
+			y: 5.501275510204053d
+		}
+		{
+			dependencies: ["06BC2380670367C4"]
+			id: "2D6E493191717452"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5BE7B86D1372FB2E"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				entity: "alexscaves:boundroid"
+				icon: "alexscaves:heavyweight"
+				id: "7DBC678C413989C1"
+				title: "Убейте 5 связиборгов"
+				type: "kill"
+				value: 5L
+			}]
+			title: "&cСвязь---         &9---порвана"
+			x: 0.5d
+			y: 7.001275510204053d
+		}
+		{
+			dependencies: ["0730FA2F4AEF1FFB"]
+			id: "426A133E2DBBFAE8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6AD493F5E9A176BF"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				entity: "alexscaves:notor"
+				icon: "alexscaves:notor_gizmo"
+				id: "2C281F4660783F64"
+				title: "Убейте 3 маячка"
+				type: "kill"
+				value: 3L
+			}]
+			title: "&cКамеры-&9-отключены"
+			x: 1.5d
+			y: 6.501275510204053d
+		}
+		{
+			dependencies: ["33D21BD77AFAAE29"]
+			description: ["<Вы>: А ты, друг, тяжёленький!"]
+			id: "53AD77388A693AC4"
+			rewards: [{
+				id: "5AAC536F57F9E4AB"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "alexscaves:ferrouslime_ball"
+				id: "4DCF329BD2685C4E"
+				observe_type: 5
+				timer: 0L
+				title: "Осмотрите слизня из металла в магнитных пещерах"
+				to_observe: "alexscaves:ferrouslime"
+				type: "observation"
+			}]
+			title: "&cМеталло-&9-слайм?"
+			x: 2.5d
+			y: 6.001275510204053d
+		}
+		{
+			dependencies: ["53AD77388A693AC4"]
+			id: "2EBE40322F003466"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B1B0828B579E003"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				entity: "alexscaves:ferrouslime"
+				icon: "alexscaves:ferrouslime_ball"
+				id: "31EDEAB836A427D7"
+				title: "Убейте 10 железней"
+				type: "kill"
+				value: 5L
+			}]
+			title: "&cИстребитель-&9-желези"
+			x: 3.5d
+			y: 7.001275510204053d
+		}
+		{
+			dependencies: ["0BF61A9D38B98383"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "2CE1BE3A50643B14"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "187AEF0604F10800"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "475A8E47F75F1DEF"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7E81126802EEB438"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			shape: "diamond"
+			subtitle: "Соберите все скипетры лича!"
+			tasks: [
+				{
+					id: "5DA6A124EFC5F22E"
+					item: {
+						Count: 1
+						id: "twilightforest:twilight_scepter"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "15F48D0E395D4A48"
+					item: {
+						Count: 1
+						id: "twilightforest:lifedrain_scepter"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4C649CCE82BBF9E7"
+					item: {
+						Count: 1
+						id: "twilightforest:zombie_scepter"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "764055B5EEA0ABA3"
+					item: {
+						Count: 1
+						id: "twilightforest:fortification_scepter"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&3Истинный лич!"
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"30DD00818BE755FA"
+				"426A133E2DBBFAE8"
+				"2EBE40322F003466"
+				"2D6E493191717452"
+				"1843B15A64146973"
+			]
+			dependency_requirement: "one_completed"
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "6333F6B1A951C704"
+			shape: "diamond"
+			tasks: [{
+				elapsedTime: 1L
+				icon: "alexscaves:magnetic_light"
+				id: "6453D448A82EAF42"
+				type: "questsadditions:time"
+			}]
+			title: "Новое снаряжение магнитных пещер"
+			x: 0.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6333F6B1A951C704"]
+			id: "3DA19FAF0AB93926"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D4018888B9BCB2B"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			subtitle: "Позволяет использовать металлические инструменты на расстоянии"
+			tasks: [{
+				id: "4FC4BBE78AA71CF8"
+				item: {
+					Count: 1
+					id: "alexscaves:galena_gauntlet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["6333F6B1A951C704"]
+			hide_until_deps_complete: true
+			id: "5294B2E21D23DCF7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F48A18005C5BCAE"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			subtitle: "Позволит примагнититься к металлическим блокам своей головой"
+			tasks: [{
+				id: "24B531B86BC78381"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "alexscaves_torpedoes:magnetic_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["21FC3899208D6C29"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "277BBD4339D5A19C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1138B2A0B51C63B4"
+				table_id: 2229491806141918727L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "53AA3521EDEE263F"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:azure_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "607702A7033598AB"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:azure_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "13E1DCA059340CBF"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:azure_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1F859E226AB42D08"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:azure_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "08EF4197E4E28814"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:azure_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&9Инструменты из лазурного неодима"
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1B137869AC78E2AB"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "6D345115622689B3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1F9AE850A62E0662"
+				table_id: 2229491806141918727L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "01742F4772094C86"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:scarlet_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "20FCAEAE6C055667"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:scarlet_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "781836AA002AE35B"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:scarlet_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6C917BB621A41588"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:scarlet_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2BC7AD50F362D3EF"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:scarlet_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&cИнструменты из алого неодима"
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6333F6B1A951C704"]
+			hide_until_deps_complete: true
+			id: "33CCCDF25436EEBC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6D2DAE6CD713330B"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "2973EDB23E7EFC3F"
+					item: "alexscaves:quarry_smasher"
+					type: "item"
+				}
+				{
+					id: "1FCCD6802A43B092"
+					item: "alexscaves:quarry"
+					type: "item"
+				}
+			]
+			title: "Автодобыча руды!"
+			x: -2.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["6333F6B1A951C704"]
+			hide_until_deps_complete: true
+			id: "37D5266D9E8177E8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "33D623BFCE3D2E6B"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			subtitle: "Буквально самонаводка"
+			tasks: [{
+				id: "4EFAA4578CDA612D"
+				item: "alexscaves:seeking_arrow"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["6333F6B1A951C704"]
+			hide_until_deps_complete: true
+			id: "021B55C6BCE9A118"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D216FBCFE308D9B"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			subtitle: "Прыгучий ховерборд"
+			tasks: [{
+				id: "18817CF3FCCCD7A3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "alexscaves_torpedoes:ferrousslime_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["6333F6B1A951C704"]
+			hide_until_deps_complete: true
+			id: "6539B74B35A0D901"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2714214091DFD224"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			subtitle: "Игры с гравитацией"
+			tasks: [{
+				id: "435351B6B0EB8EBC"
+				item: {
+					Count: 1
+					id: "alexscaves_torpedoes:pulsargun"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6333F6B1A951C704"]
+			hide_until_deps_complete: true
+			id: "099A507D2C58E952"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "714A4A2E1578F0E0"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			subtitle: "Подставка для металлических предметов"
+			tasks: [{
+				id: "4186D387D5696B63"
+				item: "alexscaves_torpedoes:magnet_display"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["6333F6B1A951C704"]
+			hide_until_deps_complete: true
+			id: "50709ADA6B7AB40E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CA9D1CA2C388AE1"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			subtitle: "Может притягивать и отталкивать металлические предметы"
+			tasks: [{
+				id: "14042EFA60696881"
+				item: {
+					Count: 1
+					id: "alexscaves_torpedoes:pocket_magnet"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "77EA5FAA62959802"
+			tasks: [{
+				id: "7000C804DA1A87B8"
+				item: {
+					Count: 1
+					id: "endrem:black_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "3F9B9AD3E431E6D2"
+			tasks: [{
+				id: "6B1495024F15350A"
+				item: {
+					Count: 1
+					id: "endrem:cold_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "484EB2F72C88CAAF"
+			tasks: [{
+				id: "714E6C41A6BCB37D"
+				item: {
+					Count: 1
+					id: "endrem:corrupted_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "785BB72BD65A27C2"
+			tasks: [{
+				id: "2B20605F61326C4D"
+				item: {
+					Count: 1
+					id: "endrem:lost_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "1DBF6A4FA4F214C9"
+			tasks: [{
+				id: "0FD7AEEAD2BED58B"
+				item: {
+					Count: 1
+					id: "endrem:nether_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "3FD159E74DA89990"
+			tasks: [{
+				id: "7B9A5BF6D7530F92"
+				item: {
+					Count: 1
+					id: "endrem:old_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "658DE9C575D65007"
+			tasks: [{
+				id: "0F9487259777AE19"
+				item: {
+					Count: 1
+					id: "endrem:rogue_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "483E6BB85B9DD466"
+			tasks: [{
+				id: "4A3648CDB6E4A510"
+				item: {
+					Count: 1
+					id: "endrem:cursed_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "35CF322AD633763C"
+			tasks: [{
+				id: "320D7FBADD325B40"
+				item: {
+					Count: 1
+					id: "endrem:evil_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "06CFDEE108B2453B"
+			tasks: [{
+				id: "1839DA5B61889B8F"
+				item: {
+					Count: 1
+					id: "endrem:guardian_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "0F512F5AB729A429"
+			tasks: [{
+				id: "1581183D2A92BBF3"
+				item: {
+					Count: 1
+					id: "endrem:magical_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "3CABC4A8D99FE414"
+			tasks: [{
+				id: "5C74E0DC806D41D3"
+				item: {
+					Count: 1
+					id: "endrem:wither_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "101A742D28BBA42B"
+			tasks: [{
+				id: "6DFC8FCE8570FF77"
+				item: {
+					Count: 1
+					id: "endrem:witch_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "693FDBE3145F191F"
+			tasks: [{
+				id: "5E72191EDB012D9C"
+				item: {
+					Count: 1
+					id: "endrem:undead_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "236C989454969D7A"
+			tasks: [{
+				id: "36624369B0791036"
+				item: {
+					Count: 1
+					id: "endrem:exotic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["72AA809558886BB1"]
+			id: "7285D89882239F18"
+			tasks: [{
+				id: "5DD891BADD72FEBF"
+				item: {
+					Count: 1
+					id: "endrem:cryptic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.0d
+		}
+	]
+	title: "&6[&bГлава III: 'Неизвестность'&6]&r"
+}

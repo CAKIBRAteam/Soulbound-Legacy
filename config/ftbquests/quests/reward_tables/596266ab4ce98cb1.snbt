@@ -1,0 +1,46 @@
+{
+	icon: {
+		Count: 1
+		id: "minecraft:player_head"
+		tag: {
+			SkullOwner: {
+				Id: [I;
+					2080793942
+					-524468218
+					-1541115779
+					1949756395
+				]
+				Properties: {
+					textures: [{
+						Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmE2ZGFjODAzNWQzNjFiYTdmMmMyYTYxNGI0ZWJhYWZjMWU1ZTMxMDFmODViZWVmNjgzNTM2ZjMzN2U1MDkwIn19fQ=="
+					}]
+				}
+			}
+			display: {
+				Lore: [
+					"{\"text\":\"ID головы: 35641\",\"color\":\"gray\",\"italic\":false}"
+					"{\"text\":\"mcheads.ru\",\"color\":\"blue\",\"italic\":false}"
+				]
+				Name: "{\"text\":\"Редкая добыча\",\"color\":\"gold\",\"underlined\":true,\"bold\":true,\"italic\":false}"
+			}
+		}
+	}
+	id: "596266AB4CE98CB1"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{ count: 3, item: "minecraft:diamond" }
+		{ count: 10, item: "samurai_dynasty:steel_ingot" }
+		{
+			type: "xp"
+			weight: 0.8f
+			xp: 550
+		}
+		{ count: 8, item: "minecells:cell_infused_steel" }
+		{ count: 7, item: "born_in_chaos_v1:dark_metal_nugget" }
+		{ count: 4, item: "seadwellers:aquamarine" }
+		{ count: 16, item: "minecells:monster_cell" }
+	]
+	title: "&9Редкий сундук"
+	use_title: true
+}

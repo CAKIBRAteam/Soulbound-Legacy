@@ -1,0 +1,55 @@
+{
+	icon: {
+		Count: 1
+		id: "minecraft:player_head"
+		tag: {
+			SkullOwner: {
+				Id: [I;
+					2080793942
+					-524468218
+					-1541115779
+					1949756395
+				]
+				Properties: {
+					textures: [{
+						Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmVlNGE1Y2Q0ZWU2ZTk4OWE2M2RjNDFjNGI0MGQ4M2YwZDU4NTk4ZTdlY2RmMmM5NGRmZWVjMGFkYTAyZWM5MyJ9fX0="
+					}]
+				}
+			}
+			display: {
+				Lore: [
+					"{\"text\":\"ID головы: 35638\",\"color\":\"gray\",\"italic\":false}"
+					"{\"text\":\"mcheads.ru\",\"color\":\"blue\",\"italic\":false}"
+				]
+				Name: "{\"text\":\"Легендарная добыча\",\"color\":\"gold\",\"underlined\":true,\"bold\":true,\"italic\":false}"
+			}
+		}
+	}
+	id: "66C7022E8A6BB30A"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "twilightforest:triple_bow"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 0.1f
+		}
+		{
+			type: "xp"
+			xp: 1500
+		}
+		{ count: 3, item: "enigmaticlegacy:evil_ingot" }
+		{ item: "enigmaticlegacy:twisted_heart" }
+		{ count: 5, item: "minecraft:netherite_ingot" }
+		{ count: 3, item: "born_in_chaos_v1:armor_plate_from_dark_metal" }
+		{ count: 3, item: "iter_rpg:primordial_fragment" }
+		{ item: "born_in_chaos_v1:death_totem" }
+	]
+	title: "&6Легендарный сундук"
+	use_title: true
+}
