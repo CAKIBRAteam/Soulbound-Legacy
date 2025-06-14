@@ -1476,31 +1476,7 @@ FTBQuestsEvents.completed('75BD1298E922A83F', event => {
 	event.server.players.forEach(p => {
 		p.sendData('close_gui', null)
 	})
-	event.server.tell('§e§l<Первый>: Я думаю он достоин.')
-	Utils.server.scheduleInTicks(40, () => {
-		event.server.tell('§d§l<Второй>: Думаю также.')
-		Utils.server.scheduleInTicks(40, () => {
-		event.server.tell('§d§l<Второй>: Думаю также.')
-		Utils.server.scheduleInTicks(40, () => {
-		event.server.tell('§a§l<Третий>: Поддерживаю вас.')
-		Utils.server.scheduleInTicks(40, () => {
-		event.server.tell('§b§l<Четвёртый>: Я согласен с вами.')
-		Utils.server.scheduleInTicks(40, () => {
-		event.server.tell('§f§l<Пятый>: Я тоже думаю что он достоин.')
-		Utils.server.scheduleInTicks(40, () => {
-		event.server.tell('§c§l<Шестой>: Я согласен с вами всеми и поддерживаю вас.')
-		Utils.server.scheduleInTicks(40, () => {
-		event.server.tell('§5§l<Седьмой>: Хм-м-м... Нужно всё обдумать...')
-		Utils.server.scheduleInTicks(150, () => {
-		event.server.tell('§5§lБратья, пожалуй, я согласен с вами. Он достоин этой награды за свои усилия.')
-	        })
-	       })
-	      })
-	     })
-	    })
-	   })
-	  })
-	})
+	//Пока что тут ничего нет, надо переделать диалог =(
 });
 
 console.log('Storyline was started!')
