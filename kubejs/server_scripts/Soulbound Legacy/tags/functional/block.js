@@ -13,6 +13,12 @@ ServerEvents.tags('block', event => {
 	event.add('forge:ash_lair', 'iceandfire:chared_cobblestone')
 	event.add('forge:ash_lair', 'iceandfire:chared_gravel')
 	event.add('forge:ash_lair', 'iceandfire:chared_dirt_path')
+	event.add('forge:ash_lair', 'iceandfire:crackled_dirt')
+	event.add('forge:ash_lair', 'iceandfire:crackled_grass')
+	event.add('forge:ash_lair', 'iceandfire:crackled_stone')
+	event.add('forge:ash_lair', 'iceandfire:crackled_cobblestone')
+	event.add('forge:ash_lair', 'iceandfire:crackled_gravel')
+	event.add('forge:ash_lair', 'iceandfire:crackled_dirt_path')
 	
 	//forge:ruined_citadel_traps
 	event.add('forge:ruined_citadel_traps', 'cataclysm:end_stone_teleport_trap_bricks')
