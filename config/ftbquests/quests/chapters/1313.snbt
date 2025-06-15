@@ -1,0 +1,2702 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1313"
+	group: "062A49D7557BE3B3"
+	icon: "minecraft:crafting_table"
+	id: "05BC93D7B68A7F3D"
+	images: [
+		{
+			dependency: "00B0ECBFA5FF2764"
+			height: 1.0d
+			image: "minecells:block/colored_torch/prison"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.821428571428548d
+			y: -8.0d
+		}
+		{
+			dependency: "2AB5C953075031A7"
+			height: 1.0d
+			image: "minecells:block/colored_torch/prison"
+			rotation: 48.0d
+			width: 1.0d
+			x: 9.045918367346935d
+			y: -4.585034013605444d
+		}
+		{
+			dependency: "2AB5C953075031A7"
+			height: 1.0d
+			image: "minecells:block/colored_torch/prison"
+			rotation: -48.0d
+			width: 1.0d
+			x: 8.20663265306122d
+			y: -5.16326530612244d
+		}
+		{
+			dependency: "4719448486C4D920"
+			height: 1.0d
+			image: "minecraft:block/soul_campfire_fire"
+			rotation: 52.0d
+			width: 1.0d
+			x: 15.096938775510203d
+			y: -2.741496598639479d
+		}
+		{
+			dependency: "4719448486C4D920"
+			height: 1.0d
+			image: "soulsweapons:item/lost_soul"
+			rotation: -37.0d
+			width: 1.0d
+			x: 14.035714285714278d
+			y: -2.006802721088455d
+		}
+		{
+			dependency: "4719448486C4D920"
+			height: 1.0d
+			image: "alexsmobs:textures/mob_effect/soulsteal.png"
+			rotation: -21.0d
+			width: 1.0d
+			x: 14.0d
+			y: -3.0d
+		}
+		{
+			dependency: "2019AFD3F9266C2B"
+			height: 1.0d
+			image: "cataclysm:textures/mob_effect/monstrous.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: -5.5d
+		}
+		{
+			dependency: "50D7D0ADB72D789E"
+			height: 6.0d
+			image: "iceandfire:textures/thaumcraft/dragon.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 11.51275510204082d
+			y: -1.8571428571428612d
+		}
+		{
+			dependency: "39EC50A65FA5B492"
+			height: 1.0d
+			image: "born_in_chaos_v1:block/felsoil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: -2.0d
+		}
+		{
+			dependency: "39EC50A65FA5B492"
+			height: 1.0d
+			image: "born_in_chaos_v1:block/felsoil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -2.5d
+		}
+		{
+			dependency: "39EC50A65FA5B492"
+			height: 1.0d
+			image: "born_in_chaos_v1:block/felsoil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.295918367346957d
+			y: -2.0102040816326365d
+		}
+		{
+			dependency: "3FEE2EE344528D9F"
+			height: 1.0d
+			image: "iceandfire:textures/tinkers/frypan/mod_frost.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: 0.5d
+		}
+		{
+			dependency: "3FEE2EE344528D9F"
+			height: 1.0d
+			image: "alexscaves:textures/particle/tremorzilla_retro_lightning_4.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: 0.5d
+		}
+		{
+			dependency: "3FEE2EE344528D9F"
+			height: 1.0d
+			image: "minecells:item/firebrands"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 0.5d
+		}
+		{
+			dependency: "04B1913CE282147D"
+			height: 1.0d
+			image: "supplementaries:block/fire_pit_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.443877551020371d
+			y: -3.0272108843537353d
+		}
+		{
+			dependency: "6790B5BBBB4E984D"
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 45.0d
+			width: 1.0d
+			x: 12.647959183673429d
+			y: -2.904761904761898d
+		}
+		{
+			dependency: "4F764DC4DAD2BEFA"
+			height: 1.0d
+			image: "cataclysm:textures/mob_effect/blessing_of_amethyst.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -4.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6AC00D25A061DEA5"]
+			description: [""]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "4652F16E10B8D425"
+			rewards: [{
+				count: 16
+				id: "0E14A60A6131B58F"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			subtitle: "Начало начал!"
+			tasks: [{
+				count: 16L
+				id: "55E7AE521007CA13"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "16 любых брёвен"
+				type: "item"
+			}]
+			title: "Охота и собирательство!"
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4652F16E10B8D425"]
+			description: ["<Вы>: Первый и любимый верстак!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "2BCF8E5B62325833"
+			rewards: [{
+				id: "2A0FF2FE0321CA68"
+				type: "xp"
+				xp: 70
+			}]
+			tasks: [{
+				id: "5D03BC7E17EBEB15"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			title: "Ваш первый верстак!"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2BCF8E5B62325833"]
+			description: ["<Вы>: Первый и, надеюсь последний раз, когда я с вами вижусь."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "7858A6568F1AD3E7"
+			rewards: [{
+				id: "5BB26A66C1D3A005"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "diamond"
+			subtitle: "А как мы деревом камень ломаем?"
+			tasks: [
+				{
+					id: "34066F924389F029"
+					item: {
+						Count: 1
+						id: "minecraft:wooden_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1562E1E0BE9C52C5"
+					item: {
+						Count: 1
+						id: "minecraft:wooden_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "59A693164FFD924D"
+					item: {
+						Count: 1
+						id: "minecraft:wooden_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "16A9670EB168AD25"
+					item: {
+						Count: 1
+						id: "minecraft:wooden_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Набор первых инструментов"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7858A6568F1AD3E7"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "769EDEA618A78888"
+			rewards: [{
+				id: "4D63E031924AA8D2"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "3BED0B3CDC98F5AF"
+					item: {
+						Count: 1
+						id: "minecraft:stone_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "651AC63A3148BEC4"
+					item: {
+						Count: 1
+						id: "minecraft:stone_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4BC0745ECA0A4591"
+					item: {
+						Count: 1
+						id: "minecraft:stone_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F52912D98AF332B"
+					item: {
+						Count: 1
+						id: "minecraft:stone_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Каменный набор инструментов"
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["769EDEA618A78888"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "4D81E595E37FD291"
+			rewards: [{
+				count: 4
+				id: "206CD34BFD5AD678"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			subtitle: "Тяжело, да нелегко по пещерам бегать!"
+			tasks: [{
+				count: 16L
+				id: "5E65EF045CE9F753"
+				item: "minecraft:raw_iron"
+				type: "item"
+			}]
+			title: "Жизнь рудокопа"
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4D81E595E37FD291"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "minecraft:furnace"
+			id: "4B158E45A9352B1F"
+			tasks: [
+				{
+					count: 16L
+					id: "5DDE3A20447CCE74"
+					item: { Count: 16, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+				{
+					id: "74660213C44304F7"
+					item: "minecraft:furnace"
+					type: "item"
+				}
+			]
+			title: "Выплавка железа!"
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4B158E45A9352B1F"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "148B5621630B4DAE"
+			rewards: [{
+				id: "3523DDBD60EC78C0"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "diamond"
+			subtitle: "Выкованы по дворфийскому руководству!"
+			tasks: [
+				{
+					id: "18213FAA3CCC16D2"
+					item: {
+						Count: 1
+						id: "minecraft:iron_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "10F0F66A4CC930F2"
+					item: {
+						Count: 1
+						id: "minecraft:iron_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "18E3E9DC06A732CF"
+					item: {
+						Count: 1
+						id: "minecraft:iron_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0D8E4933DCE97F6A"
+					item: {
+						Count: 1
+						id: "minecraft:iron_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Набор железных инструментов"
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B158E45A9352B1F"]
+			description: ["&6Присутствует броня самураев из железа и стали!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "15486EBA91AFF019"
+			rewards: [{
+				id: "1D9AA48C4847ADFD"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "diamond"
+			subtitle: "Выкована по дворфийскому руководству!"
+			tasks: [
+				{
+					id: "469C8639CD887CDC"
+					item: {
+						Count: 1
+						id: "minecraft:iron_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D5F9A55331C4B79"
+					item: {
+						Count: 1
+						id: "minecraft:iron_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6D4AE86B5428B6F9"
+					item: {
+						Count: 1
+						id: "minecraft:iron_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "184A5087D4002D7A"
+					item: {
+						Count: 1
+						id: "minecraft:iron_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Железный доспех!"
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"15486EBA91AFF019"
+				"148B5621630B4DAE"
+			]
+			description: ["<Вы>: С новым снаряжением я не чувствую себя таким слабым, но всё же я еще не настолько силён. Я думаю для начала стоит &6отправиться в пышные пещеры&r, надеюсь, что смогу найти там что-то."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "aquamirae:terrible_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2746716BC328F161"
+			tasks: [{
+				id: "53D37B0D213483F4"
+				title: "Нажми на меня!"
+				type: "checkmark"
+			}]
+			title: "Снаряжён и готов к бою!"
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3BA5F9ECACCC8C0F"]
+			description: ["<Вы>: А вот и пышные пещеры! Надеюсь найти здесь что-то."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5033FFFDADA4E3D1"
+			rewards: [{
+				id: "5CEC32B7D7526BB8"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [
+				{
+					biome: "minecraft:lush_caves"
+					icon: "minecraft:flowering_azalea"
+					id: "60B0F76D83EBA46A"
+					title: "Посетите пышные пещеры"
+					type: "biome"
+				}
+				{
+					id: "170D6467A32C6D9F"
+					item: {
+						Count: 1
+						id: "naturescompass:naturescompass"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Глубокое погружение"
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3BA5F9ECACCC8C0F"]
+			hide_until_deps_complete: true
+			id: "723B9D5943EEB9C2"
+			rewards: [
+				{
+					id: "62974BD10BE43E4F"
+					table_id: 5154272757293114094L
+					title: "Мешочек с сокровищами"
+					type: "random"
+				}
+				{
+					id: "24CF3BF757AC36FD"
+					table_id: 8412317088013385020L
+					title: "Обычный сундук"
+					type: "random"
+				}
+			]
+			subtitle: "Мои первые алмазы!"
+			tasks: [{
+				count: 2L
+				id: "083F41CBB0A9A1B5"
+				item: { Count: 2, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			title: "Алмазы!"
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5033FFFDADA4E3D1"]
+			description: ["<Вы>: Аметистовый краб... Наверно его панцири довольно прочны. Надо их добыть."]
+			hide_until_deps_complete: true
+			icon: "cataclysm:amethyst_crab_shell"
+			id: "4F764DC4DAD2BEFA"
+			invisible: true
+			optional: true
+			rewards: [{
+				id: "615C8019A11145E2"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				icon: "cataclysm:amethyst_crab_shell"
+				id: "7EEC71A83F30CE11"
+				observe_type: 5
+				timer: 0L
+				title: "Посмотрите на аметистового краба вблизи"
+				to_observe: "cataclysm:amethyst_crab"
+				type: "observation"
+			}]
+			title: "Крабик!"
+			x: 4.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4F764DC4DAD2BEFA"]
+			hide_until_deps_complete: true
+			icon: "cataclysm:amethyst_crab_meat"
+			id: "60160911F2FF38EA"
+			optional: true
+			rewards: [{
+				id: "0EFD8327C6156394"
+				table_id: 2229491806141918727L
+				title: "&aНеобычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "cataclysm:amethyst_crab"
+				icon: "cataclysm:amethyst_crab_meat"
+				id: "75090351631B13F0"
+				title: "Жестоко убейте аметистового краба"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Крабовые палочки заказывали?"
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["60160911F2FF38EA"]
+			hide_until_deps_complete: true
+			id: "4919413DDAA2FC39"
+			optional: true
+			rewards: [{
+				count: 5
+				id: "484C73D91C2D2719"
+				item: "cataclysm:amethyst_crab_meat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "47B87011EFA5AFE1"
+				item: {
+					Count: 1
+					id: "cataclysm:bloom_stone_pauldrons"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["723B9D5943EEB9C2"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "2E46707FC8870939"
+			rewards: [{
+				id: "0D468ACB9C5DFF92"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			shape: "diamond"
+			subtitle: "Новый уровень"
+			tasks: [
+				{
+					id: "4782976B64F8206B"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "13186A2A130733A6"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "44F6198C11296678"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "617D23503DC18E79"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Алмазные инструменты"
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["723B9D5943EEB9C2"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "63F93DBF53F883C8"
+			rewards: [{
+				id: "5AF8D05D10680B94"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			shape: "diamond"
+			subtitle: "Роскошь"
+			tasks: [
+				{
+					id: "26FEF794FD3ED9CE"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3EE28FD2721629D0"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0E07152242E2860E"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4920585ADFF75B99"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Алмазная броня"
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3BA5F9ECACCC8C0F"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "00B55EACD2740711"
+			rewards: [
+				{
+					id: "163CB69518BDFD62"
+					table_id: 5154272757293114094L
+					title: "Мешочек с сокровищами"
+					type: "random"
+				}
+				{
+					id: "6AE8B8DB79714A38"
+					table_id: 8412317088013385020L
+					title: "Обычный сундук"
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "06C515856B7D8F91"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "samurai_dynasty:onyx"
+							}
+							{
+								Count: 1b
+								id: "samurai_dynasty:aquamarine"
+							}
+							{
+								Count: 1b
+								id: "samurai_dynasty:jade"
+							}
+							{
+								Count: 1b
+								id: "samurai_dynasty:ruby"
+							}
+						]
+					}
+				}
+				title: "Добудьте любой драгоценный камень"
+				type: "item"
+			}]
+			title: "Драгоценные камни"
+			x: 6.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["00B55EACD2740711"]
+			description: ["<Вы>: ХАРАКИРИ!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0256FBBE8ED0D573"
+			rewards: [{
+				id: "09D38AE0B2D77F2F"
+				table_id: 2229491806141918727L
+				title: "&aНеобычный сундук"
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "50559C839B1CD7A7"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0E6496B566A677B7"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "44BE78399DF98498"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1720D6A10E34F438"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Путь самурая"
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["00B55EACD2740711"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "minecraft:grass_block"
+			id: "59AFE3F9A10EAC25"
+			rewards: [
+				{
+					id: "3EA2FB1A272E6E27"
+					type: "xp"
+					xp: 25
+				}
+				{
+					auto: "no_toast"
+					icon: {
+						Count: 1
+						id: "minecells:prison_doorway"
+						tag: {
+							BlockEntityTag: { }
+						}
+					}
+					id: "017097A01705CD0E"
+					ignore_reward_blocking: true
+					stage: "prison"
+					title: "&2Доступ в новое измерение"
+					type: "gamestage"
+				}
+				{
+					auto: "no_toast"
+					command: "/kjs stages add @a sir_pumpkinhead"
+					console: true
+					icon: "born_in_chaos_v1:infernal_evil_pumpkin_s"
+					id: "5308B36A5AE5B2D0"
+					silent: true
+					title: "&aНовые возможности"
+					type: "command"
+				}
+			]
+			subtitle: "Просто бегайте и исследуйте новый мир, наслаждаясь великолепными видами его природы! Здесь нет никакого скрытого смысла! Просто наслаждайтесь!"
+			tasks: [{
+				id: "7A13DCE2C447A06A"
+				title: "Нажми на меня!"
+				type: "checkmark"
+			}]
+			title: "Время путешествий!"
+			x: 8.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["59AFE3F9A10EAC25"]
+			description: ["<Вы>: Довольно странная тыква. Светится и веет холодом. Может стоит её сломать? Но к чему это приведет?"]
+			hide_until_deps_complete: true
+			icon: "born_in_chaos_v1:infernal_evil_pumpkin_s"
+			id: "39EC50A65FA5B492"
+			invisible: true
+			rewards: [{
+				id: "3EB1412F76AC5768"
+				table_id: 8412317088013385020L
+				title: "Обычнй сундук"
+				type: "random"
+			}]
+			tasks: [{
+				icon: "born_in_chaos_v1:infernal_evil_pumpkin_s"
+				id: "74EF650BC3DE43C0"
+				observe_type: 0
+				timer: 0L
+				title: "Посмотрите на &aстранную тыкву"
+				to_observe: "born_in_chaos_v1:infernal_evil_pumpkin_s"
+				type: "observation"
+			}]
+			title: "&aСтранная тыковка..."
+			x: 8.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["39EC50A65FA5B492"]
+			id: "1BC4AE4A81BCE3F8"
+			invisible: true
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "born_in_chaos_v1:pumpkinstaffa"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "7B8FB7BDAA6D7018"
+				observe_type: 5
+				timer: 0L
+				title: "Призовите &aСэра Тыквоголовго"
+				to_observe: "born_in_chaos_v1:sir_pumpkinhead"
+				type: "observation"
+			}]
+			title: "&aЧеловек-тыква!"
+			x: 8.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1BC4AE4A81BCE3F8"]
+			hide_until_deps_complete: true
+			id: "58EA7C900449E7E0"
+			rewards: [{
+				id: "5C83D5185416E1E9"
+				table_id: 2229491806141918727L
+				title: "&aНеобычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "born_in_chaos_v1:pumpkinhead"
+				icon: "minecraft:pumpkin_pie"
+				id: "0B54F0C8F3C0F12E"
+				title: "Убейте &aСэра Тыковголового"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&aТыквенный пирог скверны!"
+			x: 9.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["59AFE3F9A10EAC25"]
+			description: ["<Вы>: Какой-то неизвестный портал. Написано, что ведёт в какие-то \"&6Тюремные камеры&r\". Быть может не стоит входить в него?"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "2AB5C953075031A7"
+			invisible: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C099B60C37B46D2"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "loot"
+			}]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "minecells:prison_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "7DC890ADAA814867"
+				structure: "minecells:overworld_portal"
+				title: "&6Найдите портал в \"&2Тюремные камеры&r&6\""
+				type: "structure"
+			}]
+			title: "&2Портал?"
+			x: 8.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2AB5C953075031A7"]
+			id: "2D58718111EDE191"
+			tasks: [{
+				dimension: "minecells:prison"
+				icon: "born_in_chaos_v1:dark_grid"
+				id: "1EBD24E6FCBC8E5F"
+				title: "&2Посетите другую сторону портала"
+				type: "dimension"
+			}]
+			title: "&2По ту сторону..."
+			x: 8.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["672C5C36301D4470"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5921FBA78639711C"
+			rewards: [{
+				id: "0E20B335260B6ABA"
+				table_id: 8412317088013385020L
+				title: "Обычнай сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "minecells:undead_archer"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							SelectedSlot: 0
+							Size: 6
+						}
+					}
+					id: "supplementaries:quiver"
+				}
+				id: "0BD01645EA0D1F8C"
+				title: "&2Убейте 5 оживших лучников"
+				type: "kill"
+				value: 5L
+			}]
+			title: "&2Погибель лучника"
+			x: 10.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["54052F5EFBCFD7EF"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "minecraft:rabbit_foot"
+			id: "6EC7F7088FD065A1"
+			rewards: [{
+				id: "5670EE97D63BF959"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "minecells:leaping_zombie"
+				icon: "minecraft:rabbit_foot"
+				id: "2E61DA6887053401"
+				secret: true
+				title: "&2Убейте 5 прыгучих зомби"
+				type: "kill"
+				value: 5L
+			}]
+			title: "&2Попрыгунчики..."
+			x: 10.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["7E91016588352D27"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "born_in_chaos_v1:phantom_bomb"
+			id: "0A4E5D244ABCF149"
+			rewards: [{
+				id: "1F8A75927AD847D5"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "minecells:grenadier"
+				icon: "born_in_chaos_v1:phantom_bomb"
+				id: "081639C468B0A4BF"
+				title: "&2Одолейте 1 гранатомётчика"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&2Чёртовы бомбардиры"
+			x: 6.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["244C571E324269C0"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "minecells:assault_shield"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7A1C76C8A53AB87C"
+			rewards: [{
+				id: "2144674302319AFA"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "minecells:shieldbearer"
+				icon: {
+					Count: 1
+					id: "minecells:assault_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "715ACC773F657AF6"
+				title: "&2Победите 2 щитоносца"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&2Непробиваемый щит? Интересно."
+			x: 6.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["4B158E45A9352B1F"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5B5907C7769F7DAE"
+			subtitle: "Юрий буде..."
+			tasks: [{
+				id: "68E8A8918977FA72"
+				item: "minecraft:blast_furnace"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5B5907C7769F7DAE"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "65663EAD592EE9F0"
+			tasks: [{
+				count: 4L
+				id: "5E8890363BE9555D"
+				item: { Count: 4, id: "samurai_dynasty:steel_ingot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"7A1C76C8A53AB87C"
+				"5921FBA78639711C"
+				"6EC7F7088FD065A1"
+				"0A4E5D244ABCF149"
+			]
+			description: [
+				"&5<&kffffffff&r&5>: &2Молодец, ты продвигаешься в правильном направлении! Но не упивайся моими словами, тебя ожидает ещё множество тайн и битв этого мира!"
+				""
+				"<Вы>: Опять?! Кто ты и что тебе нужно? "
+				""
+				"&5<&kffffffff&r&5>: ..."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "minecells:prison_doorway"
+				tag: {
+					BlockEntityTag: { }
+				}
+			}
+			id: "00B0ECBFA5FF2764"
+			invisible: true
+			rewards: [{
+				id: "236358187F595D31"
+				table_id: 2229491806141918727L
+				title: "&aНеобычный сундук"
+				type: "random"
+			}]
+			subtitle: "Вас не покидает чувство, что здесь больше делать нечего"
+			tasks: [{
+				dimension: "minecells:prison"
+				icon: {
+					Count: 1
+					id: "minecells:prison_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "4EB41CC3DAFDC564"
+				title: "&2Зачистите тюремные камеры"
+				type: "dimension"
+			}]
+			title: "&2Тюремные камеры зачищены!"
+			x: 8.5d
+			y: -7.374149659863935d
+		}
+		{
+			description: ["<Вы>: Цивилизация!"]
+			hide_text_until_complete: true
+			icon: "minecraft:oak_door"
+			id: "497DF78BC57243F6"
+			invisible: true
+			rewards: [{
+				id: "286D5F0AA8CC179F"
+				type: "xp"
+				xp: 75
+			}]
+			shape: "diamond"
+			tasks: [{
+				icon: "minecraft:oak_door"
+				id: "44617E5A10895167"
+				structure: "#minecraft:village"
+				title: "Найдите деревню"
+				type: "structure"
+			}]
+			title: "&eКолхоз!"
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["497DF78BC57243F6"]
+			description: ["<Вы>: Занятная книга, но половина страниц вырвана. Может быть крупицы этих страниц - это манускрипты?"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5873546040EBFF55"
+			rewards: [{
+				id: "158CE315DA9F61A3"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "03E33D64C2FF35D1"
+				item: {
+					Count: 1
+					id: "iceandfire:bestiary"
+					tag: {
+						Pages: [I;0]
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["59AFE3F9A10EAC25"]
+			description: ["<Вы>: А вот и логового ледяного дракона. Надеюсь я не замерзну здесь насмерть."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "192D25A12B7D5016"
+			invisible: true
+			rewards: [{
+				id: "2A91744FF56BF7F7"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				icon: "iceandfire:frozen_gravel"
+				id: "42B20E98BEBA2216"
+				observe_type: 1
+				timer: 0L
+				title: "Найдите логово ледяного дракона"
+				to_observe: "forge:ice_lair"
+				type: "observation"
+			}]
+			title: "&bЛедяное логово дракона"
+			x: 9.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["59AFE3F9A10EAC25"]
+			description: ["<Вы>: Логово дракона из пепла... Надеюсь я не стану его частью."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "50D7D0ADB72D789E"
+			invisible: true
+			rewards: [{
+				id: "6B94034A030AB49F"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				icon: "iceandfire:chared_gravel"
+				id: "48EB5DF82630FF66"
+				observe_type: 1
+				timer: 0L
+				title: "Найдите логово огненного или грозового дракона"
+				to_observe: "forge:ash_lair"
+				type: "observation"
+			}]
+			title: "&8Пепельное логово дракона"
+			x: 9.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["192D25A12B7D5016"]
+			description: ["<Вы>: Что ж... Я смог не замерзнуть."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "iceandfire:ice_dragon_heart"
+			id: "59291F260AEABC35"
+			rewards: [{
+				id: "3E6A24E06FDD0382"
+				table_id: 2229491806141918727L
+				title: "&aНеобычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "iceandfire:ice_dragon"
+				icon: "iceandfire:ice_dragon_heart"
+				id: "2E3C981B6618EFB2"
+				title: "Одолейте ледяного дракона"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&bПодморозимся!"
+			x: 10.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["50D7D0ADB72D789E"]
+			description: ["<Вы>: Мне повезло, учитывая, что я не зажарился."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0053373E9F7BA1BA"
+			rewards: [{
+				id: "501E72B6651FF697"
+				table_id: 2229491806141918727L
+				title: "&aНеобычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "iceandfire:fire_dragon"
+				icon: "iceandfire:fire_dragon_heart"
+				id: "0904952E33092E9A"
+				title: "Убейте огненного дракона"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&6Повелитель пламени"
+			x: 10.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["50D7D0ADB72D789E"]
+			description: ["<Вы>: &eНаЭлЕкТрИзОвАн!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "1D90F5AA38C25341"
+			rewards: [{
+				id: "1F8FD58F5A2B5CA0"
+				table_id: 2229491806141918727L
+				title: "&aНеобычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				entity: "iceandfire:lightning_dragon"
+				icon: "iceandfire:lightning_dragon_heart"
+				id: "4CB00296FB43EA84"
+				title: "Убейте грозовго дракона"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&5Громовержец"
+			x: 10.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"59291F260AEABC35"
+				"1D90F5AA38C25341"
+				"0053373E9F7BA1BA"
+			]
+			dependency_requirement: "one_completed"
+			description: ["&5<&kffffffff&r&5>: &4В ваших венах кипит кровь драконов! Незер считает вас достойным. Отныне вы можете в него попасть."]
+			hide_text_until_complete: true
+			icon: "iceandfire:dragon_skull_ice"
+			id: "6790B5BBBB4E984D"
+			min_required_tasks: 1
+			rewards: [
+				{
+					id: "275C1EFD94407876"
+					type: "xp"
+					xp: 100
+				}
+				{
+					auto: "invisible"
+					icon: "twilightforest:fiery_blood"
+					id: "004FA086876A2D5A"
+					ignore_reward_blocking: true
+					stage: "nether"
+					title: "&4Кипящая кровь"
+					type: "gamestage"
+				}
+			]
+			subtitle: "Одолейте любого из драконов!"
+			tasks: [{
+				elapsedTime: 1L
+				icon: "iceandfire:dragon_skull_ice"
+				id: "1928D1EC1D8DCE69"
+				title: "Убейте любого из драконов"
+				type: "questsadditions:time"
+			}]
+			title: "Драконоборец"
+			x: 11.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["59AFE3F9A10EAC25"]
+			hide_until_deps_complete: true
+			id: "7C27CA03AB5505D8"
+			invisible: true
+			rewards: [{
+				id: "147C36FAA5CE75B1"
+				table_id: 2463579566284716312L
+				title: "&3Затонувшее сокровище"
+				type: "random"
+			}]
+			tasks: [{
+				icon: "supplementaries:globe_sepia"
+				id: "4F6E3F9264E21841"
+				structure: "minecraft:shipwreck"
+				title: "Найдите обомки корабля"
+				type: "structure"
+			}]
+			title: "Кораблекрушение"
+			x: 7.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3FEE2EE344528D9F"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5BEF49115922DCBB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B665364080183B1"
+				table_id: 2229491806141918727L
+				type: "loot"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "47100C234F896FA1"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonbone_sword_lightning"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3FEE2EE344528D9F"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "3E86358BF9FCEA4D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2FFAA34EA45CB283"
+				table_id: 2229491806141918727L
+				type: "loot"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "70AF361D8C337315"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonbone_sword_fire"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3FEE2EE344528D9F"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "50CB8D8CF40596C2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "76EDEDCE2E91F9CA"
+				table_id: 2229491806141918727L
+				type: "loot"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "27BC7764609D6474"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonbone_sword_ice"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6790B5BBBB4E984D"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "3FEE2EE344528D9F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5191E314122A82FA"
+				table_id: 8412317088013385020L
+				type: "loot"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "3088607B1489F1B1"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonbone_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6790B5BBBB4E984D"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "3B3527405D37F01B"
+			rewards: [
+				{
+					id: "3F3DA9B873534254"
+					type: "xp"
+					xp: 35
+				}
+				{
+					exclude_from_claim_all: true
+					id: "774FD74195249487"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "157B7CC8F59F7EF8"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5984B521391B55F1"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "06095C3DCBBFBFEF"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonbone_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2443664018BAB8CD"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonbone_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0D93824E7722B900"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonbone_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "57560BA9141926A5"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonbone_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5EBA48C46340E4DB"
+					item: "iceandfire:dragon_stick"
+					type: "item"
+				}
+			]
+			title: "Инструменты из кости дракона"
+			x: 12.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6790B5BBBB4E984D"]
+			description: ["<Вы>: &dГламурный доспех."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "19AF8AF3DFCA2849"
+			rewards: [
+				{
+					id: "201C88E1FCCFB7FD"
+					type: "xp"
+					xp: 35
+				}
+				{
+					exclude_from_claim_all: true
+					id: "04B492BDC63C5E5C"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "699BDAD2F07B74A8"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+			]
+			shape: "diamond"
+			subtitle: "Новая эра!"
+			tasks: [
+				{
+					id: "1D6B10B418E2F6F7"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "iceandfire:armor_black_helmet"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_copper_helmet"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_amythest_helmet"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_electric_helmet"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_red_helmet"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_bronze_helmet"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_green_helmet"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_gray_helmet"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_sapphire_helmet"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_white_helmet"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_blue_helmet"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_silver_helmet"
+									tag: {
+										Damage: 0
+									}
+								}
+							]
+						}
+					}
+					title: "Шлем из чешуи дракона"
+					type: "item"
+				}
+				{
+					id: "1C253AAA81CA1968"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "iceandfire:armor_red_chestplate"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_bronze_chestplate"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_green_chestplate"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_gray_chestplate"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_blue_chestplate"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_white_chestplate"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_silver_chestplate"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_sapphire_chestplate"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_black_chestplate"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_copper_chestplate"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_electric_chestplate"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_amythest_chestplate"
+									tag: {
+										Damage: 0
+									}
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5A3C88122DB96D8F"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "iceandfire:armor_red_leggings"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_bronze_leggings"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_green_leggings"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_gray_leggings"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_blue_leggings"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_white_leggings"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_sapphire_leggings"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_silver_leggings"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_black_leggings"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_copper_leggings"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_amythest_leggings"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_electric_leggings"
+									tag: {
+										Damage: 0
+									}
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "53AEC910E2FF0569"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "iceandfire:armor_red_boots"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_bronze_boots"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_green_boots"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_gray_boots"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_blue_boots"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_white_boots"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_sapphire_boots"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_silver_boots"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_black_boots"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_copper_boots"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_amythest_boots"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "iceandfire:armor_electric_boots"
+									tag: {
+										Damage: 0
+									}
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Броня из чешуи дракона"
+			x: 11.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6790B5BBBB4E984D"]
+			description: [
+				"&5<&kffffffff&r&5>: &6Почувствуй зов преисподней! Поддайся ему!"
+				""
+				"<Вы>: Кто ты такой?! Почему ты направляешь меня?!"
+				""
+				"&5<&kffffffff&r&5>: ..."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "04B1913CE282147D"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "6E021AC4E1D0DD99"
+				title: "Посетите незер"
+				type: "dimension"
+			}]
+			title: "&6Зов преисподней"
+			x: 12.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["04B1913CE282147D"]
+			description: ["<Вы>: От него веет жаром..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "cataclysm:monstrous_eye"
+			id: "4719448486C4D920"
+			rewards: [{
+				id: "2B4E9E565F3F7720"
+				type: "xp"
+				xp: 70
+			}]
+			tasks: [{
+				id: "49E8229D54C1AB04"
+				item: "cataclysm:monstrous_eye"
+				title: "&4Чудовищное око"
+				type: "item"
+			}]
+			title: "&4Чудовищное око"
+			x: 13.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4719448486C4D920"]
+			description: ["<Вы>: Возможно это то, что я искал."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "066F4453FF7445B5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "50AA6C89B8D95771"
+				table_id: 2229491806141918727L
+				type: "loot"
+			}]
+			subtitle: "&3Крики разносятся по всей преисподней!"
+			tasks: [{
+				icon: "soulsweapons:cracked_infused_blackstone"
+				id: "7D8D7C82B6356D73"
+				structure: "cataclysm:soul_black_smith"
+				title: "&3Отыщите кузню душ"
+				type: "structure"
+			}]
+			title: "&3Кузня душ"
+			x: 14.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["066F4453FF7445B5"]
+			description: ["<Вы>: Видимо &4ЭТО&r мне предстоит убить..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "2019AFD3F9266C2B"
+			rewards: [{
+				id: "31C809D561820451"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				icon: "minecraft:netherite_ingot"
+				id: "2C1509B27C674D87"
+				observe_type: 5
+				timer: 0L
+				title: "&4Посмотрите в глаза чудовищу"
+				to_observe: "cataclysm:netherite_monstrosity"
+				type: "observation"
+			}]
+			title: "&4Незеритовое чудовище"
+			x: 14.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["61CE521F5C1C883C"]
+			description: ["<Вы>: Нужно добыть первые &6ресурсы&r и привыкнуть к тому что &6я намного слабее&r..."]
+			hide_until_deps_complete: true
+			id: "6AC00D25A061DEA5"
+			tasks: [{
+				elapsedTime: 35L
+				icon: "enigmaticlegacy:cursed_ring"
+				id: "44C41D8DA222DA40"
+				type: "questsadditions:time"
+			}]
+			title: "Истоки"
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2019AFD3F9266C2B"]
+			description: ["<Вы>: Это было весьма.. разрушительно?"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0091AE0AB1C33BA5"
+			rewards: [
+				{
+					id: "11F953B42583B471"
+					table_id: 6440823303009045681L
+					title: "&9Редкий сундук"
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3B16EC7AA552FD48"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6E407D4654969BA7"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				icon: "cataclysm:monstrous_horn"
+				id: "284FA1E6166623F1"
+				title: "&4Свергните незеритовое чудовище"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&4Истребление"
+			x: 14.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0091AE0AB1C33BA5"]
+			hide_text_until_complete: true
+			id: "4C5A1A8ADCA333EB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5C3EDC1742E5ADFA"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7706DC11B19D5022"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "0C0811C24032BD87"
+				item: {
+					Count: 1
+					id: "cataclysm:monstrous_helm"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2BCF8E5B62325833"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5FB85855CBA11B53"
+			tasks: [{
+				id: "4B68043CC64B09A0"
+				item: "dummmmmmy:target_dummy"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6AC00D25A061DEA5"]
+			description: ["<Вы>: &4В&5о&eТ &aэ&9Т&bо &3Ж&6е&9Л&2е&dШ&4к&1А"]
+			hide_dependency_lines: true
+			hide_text_until_complete: true
+			id: "074FA51A25380856"
+			invisible: true
+			rewards: [{
+				id: "6BBCE98A5047E049"
+				table_id: 8412317088013385020L
+				title: "Обычный сундук"
+				type: "random"
+			}]
+			tasks: [{
+				id: "6F62B98D369CB273"
+				item: "alexsmobs:rainbow_jelly"
+				type: "item"
+			}]
+			title: "&3Ж&6е&9Л&2е&dШ&4к&1А"
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["32BA146C3ED4F374"]
+			hide_until_deps_complete: true
+			id: "61836A152D23BB0C"
+			shape: "diamond"
+			tasks: [{
+				id: "3D7CC994AD67DA59"
+				item: {
+					Count: 1
+					id: "minecells:hattoris_katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -9.0d
+		}
+		{
+			dependencies: [
+				"7A1C76C8A53AB87C"
+				"5921FBA78639711C"
+				"6EC7F7088FD065A1"
+				"0A4E5D244ABCF149"
+				"2D58718111EDE191"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "32BA146C3ED4F374"
+			shape: "circle"
+			subtitle: "Для создания требуется клеточный верстак!"
+			tasks: [{
+				icon: "minecells:cell_crafter"
+				id: "102996BB2D85D4A4"
+				observe_type: 0
+				timer: 0L
+				title: "Найдите клеточный верстак в тюремных камерах"
+				to_observe: "minecells:cell_crafter"
+				type: "observation"
+			}]
+			title: "Новое снаряжение тюремных камер"
+			x: 3.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["32BA146C3ED4F374"]
+			hide_until_deps_complete: true
+			id: "0A05077B984709A0"
+			shape: "diamond"
+			tasks: [{
+				id: "5EB11DB0DED70EA8"
+				item: {
+					Count: 1
+					id: "minecells:crowbar"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["32BA146C3ED4F374"]
+			hide_until_deps_complete: true
+			id: "509624570AC10C7E"
+			shape: "diamond"
+			tasks: [{
+				id: "0FF68F368E68C989"
+				item: {
+					Count: 1
+					id: "minecells:broadsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["32BA146C3ED4F374"]
+			hide_until_deps_complete: true
+			id: "5E2E7F98658BD7C1"
+			shape: "diamond"
+			tasks: [{
+				id: "0933ACF2569B98DA"
+				item: {
+					Count: 1
+					id: "minecells:nutcracker"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["32BA146C3ED4F374"]
+			hide_until_deps_complete: true
+			id: "030655C0025C6CAE"
+			shape: "diamond"
+			tasks: [{
+				id: "55B031A61DF27FCD"
+				item: {
+					Count: 1
+					id: "minecells:blood_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["32BA146C3ED4F374"]
+			hide_until_deps_complete: true
+			id: "7875FA13A3376DF4"
+			shape: "diamond"
+			tasks: [{
+				id: "01F7DB07FD9F1CFF"
+				item: {
+					Count: 1
+					id: "minecells:ice_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2D58718111EDE191"]
+			description: [
+				"<Вы>: Это что еще за Срубин Гуд?"
+				""
+				"&5<&kffffffff&r&5>: Оживший лучник. Ничем не отличается от своего собрата скелета."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "672C5C36301D4470"
+			rewards: [{
+				id: "2694F9FA85F44EF4"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				icon: "minecells:undead_archer_spawn_egg"
+				id: "4E7F4C1C5BFE871C"
+				observe_type: 5
+				timer: 0L
+				title: "&2Встретьтесь со скелетами тюремных камер"
+				to_observe: "minecells:undead_archer"
+				type: "observation"
+			}]
+			title: "&2Скелеты-Робин Гуды?"
+			x: 9.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2D58718111EDE191"]
+			description: [
+				"<Вы>: Какие ноги!"
+				""
+				"&5<&kffffffff&r&5>: Зомби... Довольно сильные. Совершают смертоносные прыжки."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "54052F5EFBCFD7EF"
+			rewards: [{
+				id: "774280D5778662BC"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				icon: "minecells:leaping_zombie_spawn_egg"
+				id: "2ECD9D87BCB1924B"
+				observe_type: 5
+				timer: 0L
+				title: "&2Повстречайте новый вид зомби в тюремных камерах"
+				to_observe: "minecells:leaping_zombie"
+				type: "observation"
+			}]
+			title: "&2Прыгучие... зомби?"
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["2D58718111EDE191"]
+			description: [
+				"&5<&kffffffff&r&5>: Щитоносец тюремных камер. Делает смертоносные разбеги."
+				""
+				"<Вы>: Главное не встать у него на пути."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "244C571E324269C0"
+			rewards: [{
+				id: "2E12D43A6DD2728F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				icon: "minecells:shieldbearer_spawn_egg"
+				id: "605D20B8FFD92E9F"
+				observe_type: 5
+				timer: 0L
+				title: "&2Разыщите неизвестного бойца с щитом в тюремных камерах"
+				to_observe: "minecells:shieldbearer"
+				type: "observation"
+			}]
+			title: "&2Странные щитоносцы"
+			x: 7.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2D58718111EDE191"]
+			description: [
+				"<Вы>: Что за..."
+				""
+				"&5<&kffffffff&r&5>: Гранатомётчики тюремных камер. Смертоносны вдали."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "7E91016588352D27"
+			rewards: [{
+				id: "42B333F423C9B168"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				icon: "minecells:grenadier_spawn_egg"
+				id: "15F582F0E3778019"
+				observe_type: 5
+				timer: 0L
+				title: "&2Посмотрите на гранатомётчика"
+				to_observe: "minecells:grenadier"
+				type: "observation"
+			}]
+			title: "&2Бомбардиры..."
+			x: 8.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["32BA146C3ED4F374"]
+			hide_until_deps_complete: true
+			id: "4F655E0CA1628023"
+			shape: "diamond"
+			tasks: [{
+				id: "429E931B8D6D1DF3"
+				item: {
+					Count: 1
+					id: "minecells:rampart"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["32BA146C3ED4F374"]
+			hide_until_deps_complete: true
+			id: "630C46634915F262"
+			shape: "diamond"
+			tasks: [{
+				id: "7EE2D1C2EF15762D"
+				item: {
+					Count: 1
+					id: "minecells:frost_blast"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["32BA146C3ED4F374"]
+			hide_until_deps_complete: true
+			id: "33247EDD0338EECE"
+			shape: "diamond"
+			tasks: [{
+				id: "5415CFD90306CCC4"
+				item: {
+					Count: 1
+					id: "minecells:multiple_nocks_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["32BA146C3ED4F374"]
+			hide_until_deps_complete: true
+			id: "00618CC1C249B97B"
+			shape: "diamond"
+			tasks: [{
+				id: "162426C43772C45C"
+				item: {
+					Count: 1
+					id: "minecells:bow_and_endless_quiver"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["723B9D5943EEB9C2"]
+			id: "69DFF42FB0C08E9F"
+			tasks: [{
+				id: "4ECFDAD9EC680047"
+				item: "minecraft:enchanting_table"
+				type: "item"
+			}]
+			title: "Чародей!"
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2746716BC328F161"]
+			description: ["<Вы>: Пещеры-пещеры, что же вы таите?"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "3BA5F9ECACCC8C0F"
+			tasks: [{
+				biome: "#forge:caves"
+				icon: "minecraft:stone"
+				id: "254CCB2A878D4AEC"
+				title: "Посетите пещеры"
+				type: "biome"
+			}]
+			title: "Бурим глубже!"
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2BCF8E5B62325833"]
+			hide_text_until_complete: false
+			hide_until_deps_complete: true
+			id: "4EC7A28964C5C52B"
+			subtitle: "Подойдет для создания декораций"
+			tasks: [{
+				id: "0367356C36599D24"
+				item: "fantasyfurniture:furniture_station"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	title: "&6[&r&5Глава I: 'Первостатейное трудолюбие'&6]&r"
+}

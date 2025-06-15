@@ -1,0 +1,3228 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6_v"
+	group: "062A49D7557BE3B3"
+	icon: "enigmaticlegacy:the_acknowledgment"
+	id: "0543527B07B34300"
+	images: [
+		{
+			dependency: "264CC57FE4810B96"
+			height: 5.0d
+			image: "cataclysm:textures/entity/flame_strike_sigil.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependency: "264CC57FE4810B96"
+			height: 3.0d
+			image: "cataclysm:textures/entity/soul_flame_strike_sigil.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependency: "66AEC132544F8421"
+			height: 1.0d
+			image: "minecraft:textures/gui/sprites/hud/heart/withered_full.png"
+			rotation: -16.0d
+			width: 1.0d
+			x: -0.4132653061224403d
+			y: 3.6632653061224545d
+		}
+		{
+			dependency: "11CB642E40E7F142"
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: -25.0d
+			width: 1.0d
+			x: 0.7295918367346985d
+			y: 2.5816326530612272d
+		}
+		{
+			dependency: "11CB642E40E7F142"
+			height: 1.0d
+			image: "minecraft:block/soul_campfire_fire"
+			rotation: 25.0d
+			width: 1.0d
+			x: 1.3214285714285765d
+			y: 2.5612244897959187d
+		}
+		{
+			dependency: "11CB642E40E7F142"
+			height: 1.0d
+			image: "soulsweapons:textures/mob_effect/decay.png"
+			rotation: 26.0d
+			width: 1.0d
+			x: 0.3214285714285836d
+			y: 2.58163265306122d
+		}
+		{
+			dependency: "6E57E51B3812C348"
+			height: 1.0d
+			image: "iter_rpg:textures/particle/snow_shards_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			corner: true
+			dependency: "021F55477A64436D"
+			height: 1.0d
+			image: "supplementaries:textures/entity/banner/flags/windswept/snow_charge.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.673469387755091d
+			y: -1.8979591836734713d
+		}
+		{
+			corner: true
+			dependency: "021F55477A64436D"
+			height: 1.0d
+			image: "supplementaries:textures/entity/banner/flags/windswept/snow_charge.png"
+			rotation: -53.0d
+			width: 2.0d
+			x: -2.857142857142847d
+			y: -0.7959183673469425d
+		}
+		{
+			corner: true
+			dependency: "021F55477A64436D"
+			height: 1.0d
+			image: "supplementaries:textures/entity/banner/flags/windswept/snow_charge.png"
+			rotation: -53.0d
+			width: 2.0d
+			x: -2.265306122448969d
+			y: -1.3265306122449019d
+		}
+		{
+			dependency: "0379514BB9014119"
+			height: 1.0d
+			image: "twilightforest:item/carminite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.204081632653079d
+			y: -0.13265306122449516d
+		}
+		{
+			dependency: "0379514BB9014119"
+			height: 1.0d
+			image: "twilightforest:item/carminite"
+			rotation: 67.0d
+			width: 1.0d
+			x: -5.632653061224509d
+			y: -0.9693877551020478d
+		}
+		{
+			dependency: "21FC4ABBE6796123"
+			height: 1.0d
+			image: "twilightforest:item/fiery_blood"
+			rotation: -37.0d
+			width: 1.0d
+			x: -5.040816326530603d
+			y: 1.8469387755101891d
+		}
+		{
+			dependency: "021F55477A64436D"
+			height: 1.0d
+			image: "minecraft:textures/particle/flame.png"
+			rotation: -33.0d
+			width: 1.0d
+			x: -2.816326530612237d
+			y: 0.08163265306121303d
+		}
+		{
+			dependency: "6C91857C185FFE94"
+			height: 1.0d
+			image: "vinery:block/jungle_grapevine_stage3_red"
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.0204081632652944d
+			y: 1.2704081632653086d
+		}
+		{
+			dependency: "6C91857C185FFE94"
+			height: 1.0d
+			image: "vinery:block/jungle_grapevine_stage3_red"
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.2448979591836675d
+			y: 0.9438775510204138d
+		}
+		{
+			dependency: "6C91857C185FFE94"
+			height: 1.0d
+			image: "vinery:block/jungle_grapevine_stage3_white"
+			rotation: 25.0d
+			width: 1.0d
+			x: 0.8775510204081485d
+			y: 0.8622448979591866d
+		}
+		{
+			dependency: "47FE895C2EF10E3F"
+			height: 1.0d
+			image: "iter_rpg:textures/mob_effect/cursed.png"
+			rotation: 34.0d
+			width: 1.0d
+			x: -3.1020408163265216d
+			y: 2.0306122448979593d
+		}
+		{
+			dependency: "47FE895C2EF10E3F"
+			height: 1.0d
+			image: "iter_rpg:textures/mob_effect/cursed.png"
+			rotation: 122.0d
+			width: 1.0d
+			x: -1.9591836734693757d
+			y: 4.357142857142854d
+		}
+		{
+			dependency: "47FE895C2EF10E3F"
+			height: 1.0d
+			image: "iter_rpg:textures/mob_effect/cursed.png"
+			rotation: -25.0d
+			width: 1.0d
+			x: -3.673469387755098d
+			y: 3.091836734693878d
+		}
+		{
+			dependency: "21FC4ABBE6796123"
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: -120.0d
+			width: 1.0d
+			x: -3.9795918367346843d
+			y: 1.7448979591836675d
+		}
+		{
+			dependency: "21FC4ABBE6796123"
+			height: 1.0d
+			image: "twilightforest:item/fiery_blood"
+			rotation: 27.0d
+			width: 1.0d
+			x: -4.387755102040806d
+			y: 1.4795918367346772d
+		}
+		{
+			dependency: "21FC4ABBE6796123"
+			height: 1.0d
+			image: "twilightforest:item/hydra_chop"
+			rotation: -23.0d
+			width: 1.0d
+			x: -4.816326530612237d
+			y: 1.5612244897959044d
+		}
+		{
+			dependency: "021F55477A64436D"
+			height: 1.0d
+			image: "minecraft:textures/particle/flame.png"
+			rotation: 55.0d
+			width: 1.0d
+			x: -2.1020408163265216d
+			y: 0.09183673469385667d
+		}
+		{
+			height: 1.5d
+			image: "call_of_yucutan:textures/particle/light_beam.png"
+			rotation: 55.0d
+			width: 0.35d
+			x: 2.423129251700672d
+			y: 0.8030612244897881d
+		}
+		{
+			height: 1.5d
+			image: "call_of_yucutan:textures/particle/light_beam.png"
+			rotation: 110.0d
+			width: 0.35d
+			x: 2.680272108843525d
+			y: 1.4316326530612145d
+		}
+		{
+			dependency: "029B9A3FD7A53AAB"
+			height: 1.5d
+			image: "antique_atlas:textures/atlas/marker/custom/stuck_sword.png"
+			rotation: 45.0d
+			width: 1.5d
+			x: -6.4777210884353735d
+			y: 4.613265306122457d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/mythicmetals_compat/longsword/longsword_metallurgium"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			dependency: "26DFA39C5EBD7B9B"
+			height: 1.0d
+			image: "minecells:item/blood_sword"
+			rotation: -35.0d
+			width: 1.0d
+			x: -1.0414965986394407d
+			y: -4.3445578231292465d
+		}
+		{
+			dependency: "382A2CFF735E8488"
+			height: 1.0d
+			image: "aquamirae:textures/vfx/swing.png"
+			rotation: 45.0d
+			width: 1.0d
+			x: 2.908163265306115d
+			y: -5.071428571428573d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/shell_horn"
+			rotation: -25.0d
+			width: 1.0d
+			x: 3.3775510204081627d
+			y: -4.72448979591837d
+		}
+		{
+			dependency: "382A2CFF735E8488"
+			height: 2.0d
+			image: "aquamirae:textures/vfx/swing.png"
+			rotation: 45.0d
+			width: 2.0d
+			x: 2.5d
+			y: -5.5d
+		}
+		{
+			dependency: "382A2CFF735E8488"
+			height: 1.0d
+			image: "minecraft:item/soulsteal/ls"
+			rotation: 25.0d
+			width: 1.0d
+			x: 4.457482993197274d
+			y: -4.519897959183677d
+		}
+		{
+			dependency: "26BA46FB3D4D74D7"
+			height: 1.0d
+			image: "iceandfire:textures/particles/snowflake_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.077380952380949d
+			y: -3.8214285714285694d
+		}
+		{
+			dependency: "382A2CFF735E8488"
+			height: 1.5d
+			image: "aquamirae:item/coral_lance"
+			rotation: 22.0d
+			width: 1.5d
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			dependency: "382A2CFF735E8488"
+			height: 1.0d
+			image: "aquamirae:item/echo"
+			rotation: 24.0d
+			width: 1.0d
+			x: 3.0935374149659864d
+			y: -4.21037414965987d
+		}
+		{
+			dependency: "5ACBB7AA41F2108C"
+			height: 1.0d
+			image: "aquamirae:item/frozen_key"
+			rotation: 20.0d
+			width: 1.0d
+			x: 6.011904761904766d
+			y: -5.7920068027211045d
+		}
+		{
+			dependency: "28F9C91A98F0CBB7"
+			height: 1.0d
+			image: "aquamirae:item/abyssal_amethyst"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.40391156462585087d
+			y: -4.698979591836725d
+		}
+		{
+			dependency: "28F9C91A98F0CBB7"
+			height: 1.0d
+			image: "aquamirae:item/abyssal_amethyst"
+			rotation: -33.0d
+			width: 1.0d
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependency: "28F9C91A98F0CBB7"
+			height: 1.0d
+			image: "aquamirae:item/abyssal_amethyst"
+			rotation: 123.0d
+			width: 1.0d
+			x: -0.08588435374149128d
+			y: -4.147959183673457d
+		}
+		{
+			dependency: "28F9C91A98F0CBB7"
+			height: 1.0d
+			image: "aquamirae:item/abyssal_amethyst"
+			rotation: -56.0d
+			width: 1.0d
+			x: -0.6777210884353764d
+			y: -6.474489795918348d
+		}
+		{
+			dependency: "28F9C91A98F0CBB7"
+			height: 1.0d
+			image: "aquamirae:item/abyssal_amethyst"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.18792517006803422d
+			y: -6.229591836734677d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"154BF5CED7B83F1E"
+				"513167D1BDCD66E5"
+				"28D93CEB6DC1AE8A"
+				"4D354EE222CC8985"
+				"5CD72F319736301F"
+			]
+			description: ["&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Приветствую. Как же приятно вспоминать забытое... Ну а сейчас не об этом. В твои задачи входит: вернуться в тюремные камеры и даже не спрашивай зачем, просто вернись, свергнуть могущество сумеречного леса, уничтожить великого воина и многое другое. В случае чего я смогу тебя направлять."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "6C91857C185FFE94"
+			rewards: [{
+				auto: "invisible"
+				icon: "minecraft:crafting_table"
+				id: "0972CB9B8BD79078"
+				ignore_reward_blocking: true
+				stage: "chapter_IV_recipes"
+				title: "Новые рецепты"
+				type: "gamestage"
+			}]
+			tasks: [{
+				elapsedTime: 1L
+				icon: "enigmaticlegacy:the_acknowledgment"
+				id: "6DA38B7A7D293800"
+				title: "&9Этот квест выполнится автоматически! Просто немного подождите..."
+				type: "questsadditions:time"
+			}]
+			title: "&9Бесконечность - не предел!"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6C91857C185FFE94"]
+			description: [
+				"<Вы>: Чёрт, я отчётливо помню что я здесь уже что-то искал, и это даже не проход на тропу обречённых... Что же я здесь искал? Зачем я вообще его слушаю? ... Ладно.. не нужно паниковать этот неизвестный звучит как тот, кому можно верить. Или нет? Так! Стоп! Хватит панических атак! Нужно сосредоточиться!"
+				""
+				"&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Прости, совсем забыл: возьми с собой руну лозы, она нужна тебе!"
+				""
+				"<Вы>: Я уже задолбался бегать туда-сюда! Ну почему нельзя сказать всё сразу?! Эх... Выхода нет - придётся идти."
+				""
+				"&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Извини, я тоже не всемогущий, я &oпока что&r &5вообще никто..."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "1E162595A6DD7545"
+			rewards: [{
+				id: "3A96BBF9B060308E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				dimension: "minecells:prison"
+				icon: {
+					Count: 1
+					id: "minecells:prison_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "5339BF572E2F5E59"
+				title: "&2Вернитесь в тюремные камеры"
+				type: "dimension"
+			}]
+			title: "&2Дежавю"
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1E162595A6DD7545"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "70831D460D13FE99"
+			invisible: true
+			rewards: [{
+				id: "02C24B65CF8DD10A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "minecells:insufferable_crypt_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "1AEEFCE6D46991FC"
+				observe_type: 0
+				timer: 0L
+				title: "&dНайдите проход в последнее измерение"
+				to_observe: "minecells:unbreakable_doorway_frame"
+				type: "observation"
+			}]
+			title: "&dКонец!"
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["70831D460D13FE99"]
+			description: ["&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Ах! Запах невыносимой гробницы... Ты готов к этой битве? Хотя это риторический вопрос... Тебе независимо от решения рано или поздно придётся убить то чудовище, что скрывается за этими дверьми. Я скажу сразу это чудовище - Конъюктивиус - царь мёртвых клеток."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "506727AC93E36D57"
+			rewards: [{
+				id: "4A1464DA2F275DCB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				dimension: "minecells:insufferable_crypt"
+				icon: {
+					Count: 1
+					id: "minecells:insufferable_crypt_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "1E24C071E495E05B"
+				title: "&dПосетите невыносимую гробницу"
+				type: "dimension"
+			}]
+			title: "&dНевыносимое место!"
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["506727AC93E36D57"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "26DFA39C5EBD7B9B"
+			rewards: [{
+				id: "5AE673C3701763B9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "minecells:conjunctivius_respawn_rune"
+				id: "63DC22CF1F2D0DC6"
+				observe_type: 5
+				timer: 0L
+				title: "&dПосмотрите конъюктивиусу в глаз"
+				to_observe: "minecells:conjunctivius"
+				type: "observation"
+			}]
+			title: "&dПоследняя битва!"
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["26DFA39C5EBD7B9B"]
+			description: ["<Вы>: Вот и всё... Это конец..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "403076A725BCDE72"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "649792F338E321B7"
+					table_id: 7405890511148135178L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "27807E2C3B74A324"
+					table_id: 8219077632891753104L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "79AC1F2878EDDB00"
+					table_id: 7405890511148135178L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "15333078E214061B"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "minecells:conjunctivius"
+				icon: "minecells:conjunctivius_respawn_rune"
+				id: "753C7FAB2D1FD236"
+				title: "&dОдолейте конъюктивиуса!"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&dФинал..."
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["6C91857C185FFE94"]
+			id: "11CB642E40E7F142"
+			rewards: [{
+				id: "29465B17327DDBCF"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "66EDB1267B7654C6"
+				title: "&4Посетите незер"
+				type: "dimension"
+			}]
+			title: "&4&lСнова в недра!"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["11CB642E40E7F142"]
+			description: ["<Вы>: Куда же оно меня ведёт? Видимо в недра ада... Выбора у меня нет, так что нужно идти!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "00FDBF19D43E60BE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2B989A2B91A72D04"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			subtitle: "&6Держа его в руках, вы чувствуете необыкновенное тепло..."
+			tasks: [{
+				id: "0F271C4D64788D3E"
+				item: "cataclysm:flame_eye"
+				type: "item"
+			}]
+			title: "&l&6Огонь &bВ руках!"
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["00FDBF19D43E60BE"]
+			description: ["<Вы>: Вот это размах!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "264CC57FE4810B96"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0B8BC712D600D759"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1F4F6DB0CE6A5257"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "68D647A8928BF8FF"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				icon: "cataclysm:altar_of_fire"
+				id: "0482C52ED5B448BD"
+				structure: "cataclysm:burning_arena"
+				title: "&6Найдите пылающую арену"
+				type: "structure"
+			}]
+			title: "&6Колизей"
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["264CC57FE4810B96"]
+			description: [
+				"<Вы>: А ты, друг, я посмотрю бронированный!"
+				""
+				"&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Это пламенеющий ревенант - неуязвим к любым атакам, пока крутит смертоносными щитами. Нападай на него, когда он более спокоен!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "24E9F6704553D001"
+			rewards: [{
+				id: "18E4527588B71757"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "cataclysm:dying_ember"
+				id: "5B9D54BC9D2BC8E3"
+				observe_type: 5
+				timer: 0L
+				title: "&6Отыщите хранителей пылающей арены"
+				to_observe: "cataclysm:ignited_revenant"
+				type: "observation"
+			}]
+			title: "&6Хранитель алтаря"
+			x: 2.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["24E9F6704553D001"]
+			description: ["<Вы>: Вот и всё!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "7F090595C31B2964"
+			rewards: [
+				{
+					count: 8
+					id: "25CF48EB47333964"
+					item: "cataclysm:dying_ember"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1A7C11C602C23816"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "425C35868DA4E356"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ignited_revenant"
+				icon: "cataclysm:dying_ember"
+				id: "530AFEA4C5A16BFC"
+				title: "&6Убейте 2 огненных ревенанта"
+				type: "kill"
+				value: 2L
+			}]
+			title: "&6Изничтожение"
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["264CC57FE4810B96"]
+			description: ["&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Для выполнения ритуала призыва тебе нужен особый, &l&oпылающий&r &5пепел"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "04BA671C1D2CFB7B"
+			rewards: [{
+				id: "1DA92A1CE2ADEBE4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "cataclysm:altar_of_fire"
+				id: "0DAC98B828BFFE68"
+				observe_type: 0
+				timer: 0L
+				title: "&6Найдите алтарь пламени"
+				to_observe: "cataclysm:altar_of_fire"
+				type: "observation"
+			}]
+			title: "&6Алтарь пламени"
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7F090595C31B2964"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "1C83BB071EDA103A"
+			tasks: [{
+				id: "1F7C16A6EF665215"
+				item: "cataclysm:burning_ashes"
+				type: "item"
+			}]
+			title: "&6Пылающий пепел"
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"04BA671C1D2CFB7B"
+				"1C83BB071EDA103A"
+			]
+			description: ["&5<Арх&5и&kffff&r&5о&k&5f&r&5>: А вот и сам Воин Пламени - &l&6Игнис&r &5собственной персоной! Он - само воплощение элемента пламени! Это - очень могущественный противник, готовься к великому сражению!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "3726DBE5E8E81043"
+			rewards: [{
+				id: "65026CC2E07B995F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "kubejs:ignisquesticonv1"
+				id: "0FAA47021FBFFF45"
+				observe_type: 5
+				timer: 0L
+				title: "&6Призовите Воина Пламени"
+				to_observe: "cataclysm:ignis"
+				type: "observation"
+			}]
+			title: "&6Воин Пламени"
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3726DBE5E8E81043"]
+			description: ["&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Тебе удалось его победить?! Честно: я.. &oприятно удивлён&r&5, не ожидал от тебя такого."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "71EF70FCEA3CFE35"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "47B926D21AC4ABAE"
+					table_id: 5196449632626293400L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "59F94CB921A73E84"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "79C87D85CDB2C42A"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "40E97F55A7779412"
+					table_id: 8219077632891753104L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2F790C8C4D9E9555"
+					table_id: 7405890511148135178L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "339F06CAE8DDEE8B"
+					table_id: 7405890511148135178L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: "kubejs:ignisquesticonv2"
+				id: "59D4DB66AA16BC7F"
+				title: "&bОдолейте Игниса"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&bГладиаторы не умирают!\\"
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["71EF70FCEA3CFE35"]
+			hide_until_deps_complete: true
+			id: "7B095FF45B82E9AD"
+			shape: "diamond"
+			tasks: [{
+				id: "68C88B251C490B79"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "cataclysm:ignitium_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["71EF70FCEA3CFE35"]
+			hide_until_deps_complete: true
+			id: "2E0FAEE98CEA0A26"
+			shape: "diamond"
+			tasks: [{
+				id: "1487760D0BB62001"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "cataclysm:ignitium_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["71EF70FCEA3CFE35"]
+			hide_until_deps_complete: true
+			id: "2451ACFB3567E9EA"
+			shape: "diamond"
+			tasks: [{
+				id: "7F90AC98249340AF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "cataclysm:ignitium_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["71EF70FCEA3CFE35"]
+			hide_until_deps_complete: true
+			id: "279FABCE8C31D054"
+			shape: "diamond"
+			tasks: [{
+				id: "1870DFBEDDD3F9FA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "cataclysm:ignitium_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2E0FAEE98CEA0A26"]
+			id: "2098C7E9F215F395"
+			shape: "diamond"
+			tasks: [{
+				id: "678EB7CF284A98A8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "cataclysm:ignitium_elytra_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["47FE895C2EF10E3F"]
+			description: ["<Вы>: Вот это чудо-юдо! Живой камень!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "74BD60E21E0B31A2"
+			rewards: [{
+				id: "5784991784B33346"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "iter_rpg:chiseled_grimstone_bricks"
+				id: "08E595A1604FD965"
+				observe_type: 5
+				timer: 0L
+				title: "&5Встретье печальта"
+				to_observe: "iter_rpg:mournstone"
+				type: "observation"
+			}]
+			title: "&5Камушек приуныл"
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["74BD60E21E0B31A2"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "2F4596696D6F5A5A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "52057E2016DBEF73"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3EF9EA7BC7667C51"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6CA19CD85A3B90D8"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "iter_rpg:mournstone"
+				icon: "iter_rpg:chiseled_grimstone_bricks"
+				id: "7E88AD0C24D55E42"
+				title: "&5Убейте 10 печальтов"
+				type: "kill"
+				value: 10L
+			}]
+			title: "&5Камни..."
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0984F9793C91C81D"]
+			description: [
+				"&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Приветствую тебя в Шпиле Скорби - обитель грусти, страха, тоски. Не унывай там!"
+				""
+				"<Вы>: Монументально..."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "47FE895C2EF10E3F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0F8848B08671D688"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5B9A49EC44EE1B5D"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1BB9DFC5AA9517FA"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "46B989F7978BD7A8"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				icon: "iter_rpg:charged_grimstone_bricks"
+				id: "733E9389FD6DF5D7"
+				structure: "iter_rpg:sorrow_spire"
+				title: "&5Найдите величественный шпиль"
+				type: "structure"
+			}]
+			title: "&5&lВеличие"
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["71EF70FCEA3CFE35"]
+			hide_text_until_complete: false
+			hide_until_deps_complete: true
+			id: "371CDEAC371B3434"
+			shape: "diamond"
+			tasks: [{
+				id: "409B76E6ED1AB836"
+				item: "cataclysm:the_incinerator"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6C91857C185FFE94"]
+			id: "18716334C6A8B3D2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "536E571BF68D8D46"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2360A4C4635FB037"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				biome: "minecraft:jungle"
+				icon: "minecraft:jungle_sapling"
+				id: "5F478862344010E2"
+				title: "&2Посетите джунгли"
+				type: "biome"
+			}]
+			title: "&2&lТропики!"
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["11CB642E40E7F142"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0984F9793C91C81D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "335EBB93ED00ADD5"
+				table_id: 8412317088013385020L
+				type: "loot"
+			}]
+			subtitle: "&5Из его глубин немного слышен тихий всхлип..."
+			tasks: [{
+				id: "00B8728C3192FC0D"
+				item: "kubejs:crying_eye"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["47FE895C2EF10E3F"]
+			description: ["<Вы>: Что за звук?"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "iter_rpg:crystal_tear"
+			id: "2CCE60424C5B9F79"
+			rewards: [{
+				id: "41502B1198D5B594"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "iter_rpg:crystal_tear"
+				id: "7E434E18D704D7C9"
+				observe_type: 5
+				timer: 0L
+				title: "&5Повстречайте плаксу"
+				to_observe: "iter_rpg:weeper"
+				type: "observation"
+			}]
+			title: "&5*хнык*-хнык*"
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["47FE895C2EF10E3F"]
+			description: ["<Вы>: Лицо сделай попроще!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0D62D6D80103EEA7"
+			rewards: [{
+				id: "05BD8CB825EB08D1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "iter_rpg:grimstone_pebble"
+				id: "208FCF55174CDFB1"
+				observe_type: 5
+				timer: 0L
+				title: "&5Встретьтесь со скорбящим"
+				to_observe: "iter_rpg:griever"
+				type: "observation"
+			}]
+			title: "&5Что за гримаса ужаса?"
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"2F4596696D6F5A5A"
+				"1999860D626B8443"
+				"56AC36206B6DD812"
+			]
+			description: [
+				"<Вы>: А вот и виновник торжества! Лицо попроще сделай, у нас намечается битва!"
+				""
+				"&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Этот виновник торжества - довольно сильный противник - Тоскованный. Не недооценивай эмоции..."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "029B9A3FD7A53AAB"
+			tasks: [{
+				icon: "iter_rpg:hollow_visage"
+				id: "5B46EAD71F4B4142"
+				observe_type: 5
+				timer: 0L
+				title: "&5Дойдите до конца..."
+				to_observe: "iter_rpg:sorrowsealed"
+				type: "observation"
+			}]
+			title: "&5Недовольный слизень"
+			x: -5.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2CCE60424C5B9F79"]
+			description: ["<Вы>: Как же приятно это не слышать..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "1999860D626B8443"
+			tasks: [{
+				entity: "iter_rpg:weeper"
+				icon: "iter_rpg:crystal_tear"
+				id: "5F1D7806DA03928B"
+				title: "&5Убейте 10 плакс"
+				type: "kill"
+				value: 10L
+			}]
+			title: "&5Тишина"
+			x: -3.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0D62D6D80103EEA7"]
+			description: ["<Вы>: Мёртвые не скорбят!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "56AC36206B6DD812"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2C898B61B566C28F"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5EC86EF08F5C29FD"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3FC9039524D48FA4"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "iter_rpg:griever"
+				icon: "iter_rpg:grimstone_pebble"
+				id: "71712B6EDADE096A"
+				title: "&5Убейте 10 скорбящих"
+				type: "kill"
+				value: 10L
+			}]
+			title: "&5Нет причин для скорби, друг!"
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["029B9A3FD7A53AAB"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "iter_rpg:hollow_visage"
+			id: "218161D11370E24F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "75143CF628C612BC"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "132AB1BCDEBAB040"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7197B9D5C527156E"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "550AD09B9570F8AF"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "07070B92C58A6E2D"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "079CD2644BC9BBB8"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "60940EF0764C000D"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "iter_rpg:sorrowsealed"
+				icon: "iter_rpg:hollow_visage"
+				id: "671167428B9F067D"
+				title: "&5Одолейте тоскованного"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&5Тоска, грусть..."
+			x: -6.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6C91857C185FFE94"]
+			description: ["&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Готовься! В этот визит в сумеречный лес тебе предстоит победить сразу &l&oтроих&r &5могущественных существ!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "021F55477A64436D"
+			min_width: 220
+			shape: "diamond"
+			tasks: [{
+				dimension: "twilightforest:twilight_forest"
+				icon: "twilightforest:twilight_portal_miniature_structure"
+				id: "41F3A5CC40510C10"
+				title: "&5Посетите сумеречный лес"
+				type: "dimension"
+			}]
+			title: "&5&lТвой путь подходит к концу..."
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["18716334C6A8B3D2"]
+			description: ["&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Не буду таить: твой противник здесь - Кукулькан - древнее божество бытия. В древности люди джунглей поклонялись ему, дабы не переносить несчастья, но это не помогало и почти все эти народы вымерли."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "005472AE40DCC62F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "592E02FF354DC819"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "624D781889E57F08"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				icon: "call_of_yucutan:ancient_gold_pillar"
+				id: "17948943C3702BD1"
+				structure: "call_of_yucutan:overgrown_temple"
+				title: "&2Найдите храм света в джунглях"
+				type: "structure"
+			}]
+			title: "&2Заросший свет"
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["021F55477A64436D"]
+			description: ["<Вы>: Фух... Как же здесь жарко, к-как в аду..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "born_in_chaos_v1:fire_dust"
+			id: "3BBBCDCA8CD66D38"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "15557ACD416D1829"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6F0D7F4BF5C0654A"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				biome: "twilightforest:fire_swamp"
+				icon: "born_in_chaos_v1:fire_dust"
+				id: "36FE561688E87744"
+				title: "&cПройдите на огненные болота"
+				type: "biome"
+			}]
+			title: "&cЖара..."
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["021F55477A64436D"]
+			description: ["&5<Арх&5и&kffff&r&5о&k&5f&r&5>: И пока я не забыл: возьми с собой что-то для дальнего боя. Оно тебе пригодится..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0379514BB9014119"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5C090FEAFABBD291"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "22881C736B8891C4"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				biome: "twilightforest:dark_forest"
+				icon: "twilightforest:darkwood_sapling"
+				id: "1AD0009281048050"
+				title: "&7Посетите тёмный лес"
+				type: "biome"
+			}]
+			title: "&7До сели тьма непроглядная"
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0379514BB9014119"]
+			description: ["<Вы>: Видимо, эта та башня, которая мне нужна!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "46F3EFE0F945E784"
+			tasks: [{
+				icon: "twilightforest:encased_towerwood"
+				id: "0950706ADB5130E9"
+				structure: "twilightforest:dark_tower"
+				title: "&cНайдите башню в тёмном лесу"
+				type: "structure"
+			}]
+			title: "&cКарминитовая акклиматизация"
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3BBBCDCA8CD66D38"]
+			description: ["&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Узри же страшную гидру. Сильна как и в близи, так и в дали. Её шкура слишком прочна для твоих орудий, единственное слабое место гидры - это её головы, но будь аккуратен, ведь когда ты отрубаешь одну голову вырастает ещё две!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "21FC4ABBE6796123"
+			rewards: [{
+				id: "2926A050709EAE7D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "twilightforest:hydra_trophy"
+				id: "3E092183CFA6FD03"
+				observe_type: 5
+				timer: 0L
+				title: "&6Узрите Гидру"
+				to_observe: "twilightforest:hydra"
+				type: "observation"
+			}]
+			title: "&6Змей горыныч?"
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["021F55477A64436D"]
+			description: ["<Вы>: Бр-р-р-р-р... Холодина!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "1A14F56550AEA7E3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "252EA64CC3D7DF7B"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2B415109DE7BD3AA"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				biome: "twilightforest:snowy_forest"
+				icon: "minecraft:snowball"
+				id: "6E4C4C1494FDB805"
+				title: "&fДоберитесь до заснеженных лесов"
+				type: "biome"
+			}]
+			title: "&fАбсолютный ноль!"
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["21FC4ABBE6796123"]
+			description: [
+				"<Вы>: Видимо, дракончик мёртв..."
+				""
+				"&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Что ж... Гидра была повержена..."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "3E04E19E7AD1213A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "09A464711CA829B3"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "220AC00F901D0F6D"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:hydra"
+				icon: "twilightforest:hydra_trophy"
+				id: "31F1AE7BA04A7DFE"
+				title: "&6Сразите ужасающую Гидру"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&6Вечной жизни не существует"
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1A14F56550AEA7E3"]
+			description: ["<Вы>: Тут.. потеплее, чем на улице... Есть кто живой?"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "aquamirae:wisteria_niveis"
+			id: "6E57E51B3812C348"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "77E48A0AE12FFBED"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: "cataclysm:pointed_icicle"
+				id: "3D22DF85A117D290"
+				structure: "twilightforest:yeti_cave"
+				title: "&fОтыщите замёзшую пещеру"
+				type: "structure"
+			}]
+			title: "&fЗамёзшая пещера!"
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6E57E51B3812C348"]
+			description: [
+				"<Вы>: Видимо, есть и он, как-то не очень гостеприимчив!"
+				""
+				"&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Как мило! Ты пришёл прямо в лапы к Альфа-Йети."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5DD1007724A5905E"
+			rewards: [
+				{
+					id: "6A89D5603618AD45"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "75B250C12C0A4D47"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "633D774B4CA45DDA"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				icon: "twilightforest:alpha_yeti_trophy"
+				id: "36DBFF1286F3C4D4"
+				observe_type: 5
+				timer: 0L
+				title: "&fНайдите Альфа-Йети"
+				to_observe: "twilightforest:alpha_yeti"
+				type: "observation"
+			}]
+			title: "&fРёв мороза"
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5DD1007724A5905E"]
+			description: [
+				"<Вы>: Вот же огромная тварь..."
+				""
+				"&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Но ты же его победил? А это значит, что нельзя останавливатся. Время идти дальше, вглубь этой лютой зимы!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "381BC49AA63F512E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "21E76ACE0CDCF66D"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7A828D3BDBC63D72"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7ED841573DC87668"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6CC3F73113229127"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "28F4D16473CF6D2C"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3EF4E6CAE9B34688"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:alpha_yeti"
+				icon: "twilightforest:alpha_yeti_trophy"
+				id: "0E9696214C03C87F"
+				title: "&fОдолейте Альфа-Йети"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&fЗатишье перед бурей.."
+			x: -5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["381BC49AA63F512E"]
+			dependency_requirement: "one_started"
+			hide_until_deps_complete: true
+			icon: "minecraft:ice"
+			id: "47036DD1DFDC3FD9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3DA00872EAB6FC3C"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				biome: "twilightforest:glacier"
+				icon: "minecraft:ice"
+				id: "374C834A97B4432B"
+				title: "&fДойдите до ледяных гор, убив Альфа-йети"
+				type: "biome"
+			}]
+			title: "&fЛедяные горы!"
+			x: -6.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6C91857C185FFE94"]
+			id: "4314569B6F982046"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3E468E5E72D636EA"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1B97739A340AAC63"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [
+				{
+					count: 2L
+					id: "6A9D788E0D1AEFBA"
+					item: { Count: 2, id: "soulsweapons:moonstone" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6E39F552A287BF14"
+					item: "soulsweapons:lost_soul"
+					type: "item"
+				}
+				{
+					id: "4BA9EEC956C40963"
+					item: "soulsweapons:iron_skull"
+					type: "item"
+				}
+			]
+			title: "&b&lПодношение"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4314569B6F982046"]
+			description: ["&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Время пришло: подношения, которые требуются для вызова могущественных существ становятся дороже, но и награда соответственная. Призови Вернувшегося рыцаря - некогда могущественного воина - ныне дряхлого скелета."]
+			id: "70F3AA90A607033D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B314D9D47EE1B11"
+				table_id: 9150989426695376123L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5D914D8ED66E1DCF"
+				item: "soulsweapons:altar_block"
+				type: "item"
+			}]
+			title: "&bАлтарь подношений"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["11CB642E40E7F142"]
+			description: ["<Вы>: Тронный зал..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "minecraft:chiseled_polished_blackstone"
+			id: "66AEC132544F8421"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0716382BBA518341"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			subtitle: "Взлёт и падение..."
+			tasks: [{
+				icon: "minecraft:chiseled_polished_blackstone"
+				id: "1CA0D1B6D1033E9D"
+				structure: "soulsweapons:decaying_kingdom"
+				title: "&7Найдите разлагающееся королевство"
+				type: "structure"
+			}]
+			title: "&7Разлагающееся королевство"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["66AEC132544F8421"]
+			description: ["<Вы>: И это ты виновник торжества? Это будет битва за право жизни!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "72C43CBDB0C00EA9"
+			rewards: [{
+				id: "6214AA3D03C68846"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "soulsweapons:darkin_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "350460CB8A29FE7B"
+				observe_type: 5
+				timer: 0L
+				title: "&7Дойдите до Разлагающегося короля"
+				to_observe: "soulsweapons:accursed_lord_boss"
+				type: "observation"
+			}]
+			title: "&7Король смерти"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["72C43CBDB0C00EA9"]
+			description: ["<Вы>: Это была &oпылкая&r битва! Ха-ха!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "soulsweapons:darkin_blade"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4B2C6DFA6031FA5D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0760CBF83CCE903E"
+					table_id: 7405890511148135178L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7077AB7500AB06A2"
+					table_id: 7405890511148135178L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7D8412E779EF5082"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "793B510B573CCA87"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2987D36B077D59C9"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "030E83AC3B3F1490"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "39CC775094B74337"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "soulsweapons:accursed_lord_boss"
+				icon: {
+					Count: 1
+					id: "soulsweapons:darkin_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "743998440B014750"
+				title: "&7Победите разлагающегося короля"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&7Погибель королей..."
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6C91857C185FFE94"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "56CB3E70E218EBAC"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E71EE86402A6C88"
+				table_id: 5154272757293114094L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4DC739B66B1EA4C2"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_tablet"
+					tag: {
+						CaveBiome: "alexscaves:abyssal_chasm"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "&1Тайны глубин"
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["56CB3E70E218EBAC"]
+			description: ["&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Замечательно, ты расшифровал пещерную табличку. Создай карту и отправляйся в неизведанные места!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0D01C41B830313E2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C70B1393BADE12B"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7BC39901438CBCB9"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:abyssal_chasm"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "&1Новые знания"
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0D01C41B830313E2"]
+			description: [
+				"<Вы>: Карта есть! Пора идти в неизвестность!"
+				""
+				""
+				"&6Примечание: Если вы играете с шейдерами, то в пещерах мода Alex's Caves лучше отключите их. Даже на странице мода написано, что мод не рекомендован для игры с шейдерами и может испортить визуал и ощущения. &l&oВы были предупреждены!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "1EA1BDFC0B604C05"
+			rewards: [{
+				id: "38E0DD6D12D3AD72"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0DD78229902B2887"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_map"
+					tag: {
+						BiomeTargetResourceKey: "alexscaves:abyssal_chasm"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "&1Путешествие"
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1EA1BDFC0B604C05"]
+			description: ["<Вы>: А мне точно.. в-вниз?"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "28E99524A9D7D882"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "59D745F04440F0D2"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "58E47C0862E9A9FD"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "43C35179F123EF47"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "29AFAC12F5249643"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				biome: "alexscaves:abyssal_chasm"
+				icon: "alexscaves:abyssal_altar"
+				id: "1C497CA76F9F7FA9"
+				title: "&1Доплывите до &lБездны"
+				type: "biome"
+			}]
+			title: "&1Бездна"
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["47036DD1DFDC3FD9"]
+			description: ["<Вы>: Я так понмаю, что мне на самый верх..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "308886106E5AAF5E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "401A8C061396FD4F"
+				table_id: 6440823303009045681L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: "betterend:crystal_shards"
+				id: "5E1C1B90B268828B"
+				structure: "twilightforest:aurora_palace"
+				title: "&fНайдите дворец Авроры"
+				type: "structure"
+			}]
+			title: "&fДворец славы"
+			x: -7.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["308886106E5AAF5E"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "033428CA33481E8B"
+			rewards: [{
+				id: "6F377D083D3F5AE6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "twilightforest:snow_queen_trophy"
+				id: "46A41B583FD3F563"
+				observe_type: 5
+				timer: 0L
+				title: "&fДоберитесь до снежной королевы в замке Авроры"
+				to_observe: "twilightforest:snow_queen"
+				type: "observation"
+			}]
+			title: "&fКоролева мерзлоты"
+			x: -8.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["033428CA33481E8B"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "31023D0D0F8B87CE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3D422AA3B9EDB735"
+					table_id: 8219077632891753104L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0E01BAB91A15D2A2"
+					table_id: 7405890511148135178L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4FEF166298C9FB7B"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:snow_queen"
+				icon: "twilightforest:snow_queen_trophy"
+				id: "1AD401D55DA38384"
+				title: "&fУбейте Снежную королеву"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&fКонец мороза!"
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["005472AE40DCC62F"]
+			description: ["<Вы>: Какая крылатая скотина!"]
+			id: "5874B5554581116B"
+			rewards: [{
+				id: "1E445D3A5E36736F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "call_of_yucutan:kukulkan_idol"
+				id: "13CCECEE11CD757B"
+				observe_type: 0
+				timer: 0L
+				title: "&dНайдите идол Кукулькана"
+				to_observe: "call_of_yucutan:kukulkan_idol"
+				type: "observation"
+			}]
+			title: "&dКуку-куку-кукулькан!"
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["70F3AA90A607033D"]
+			description: ["<Вы>: Вот ты и вернулся! Теперь же пора обратно!"]
+			id: "31597F139F2E8046"
+			rewards: [{
+				id: "11FFBB0D4F3E6E45"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "soulsweapons:arkenstone"
+				id: "656D3FE8F46913DC"
+				observe_type: 5
+				timer: 0L
+				title: "&bПризовите Вернувшегося Рыцаря"
+				to_observe: "soulsweapons:returning_knight"
+				type: "observation"
+			}]
+			title: "&bВозрождение!"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["31597F139F2E8046"]
+			description: ["<Вы>: Возвращайся туда, откуда прибыло, чудовище!"]
+			id: "09AADB754B924FF3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "49A9DC141B6E6FA4"
+					table_id: 7405890511148135178L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2398FD6A12624FD9"
+					table_id: 8219077632891753104L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "soulsweapons:returning_knight"
+				icon: {
+					Count: 1
+					id: "soulsweapons:nightfall"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "5685D73BA76B36A4"
+				title: "&bПобедите Вернувшегося рыцаря"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&bИ смерть!"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5874B5554581116B"]
+			id: "1CDA71E2F74AB7E3"
+			rewards: [
+				{
+					id: "728E0C3B56A6A41D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "0AA4D603A7C86A43"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				block: "call_of_yucutan:kukulkan_idol"
+				block_type: 0
+				checkItem: false
+				id: "47C4B8D066BEBA8B"
+				title: "&dСломайте идол Кукулькана"
+				type: "questsadditions:break"
+				value: 1L
+			}]
+			title: "&dГнев кукулькана!"
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1CDA71E2F74AB7E3"]
+			description: [
+				"<Вы>: Куку-ку.."
+				""
+				"&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Хватит!"
+			]
+			id: "0C184F50825FA484"
+			rewards: [
+				{
+					id: "476D1EBB558ABDC0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "3A77C2DD378BC63A"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				icon: "call_of_yucutan:fragment_of_rebirth"
+				id: "2A1B5E3B27697F40"
+				observe_type: 5
+				timer: 0L
+				title: "&dПосмотрите на Кукулькана"
+				to_observe: "call_of_yucutan:kukulkan"
+				type: "observation"
+			}]
+			title: "&dБоги недовольны!"
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0C184F50825FA484"]
+			description: [
+				"<Вы>: Вот и всё! Твоя песенка спета, Кукулькан!"
+				""
+				"&5<Арх&5и&kffff&r&5о&k&5f&r&5>: ..."
+			]
+			id: "18332B3FAC1CF2EF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "13DB8615616C63A5"
+					table_id: 7405890511148135178L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "78A5B39FDABCCBA8"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "32B3397803619674"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "04FA8F2F29D4AC08"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6C16D07B505BB699"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "35F285A97B405537"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3DF32C1291649FB9"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "call_of_yucutan:kukulkan"
+				icon: "call_of_yucutan:fragment_of_rebirth"
+				id: "4FBF54EE61140B50"
+				title: "&dУбейте Кукулькана"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&d&lБогоубийца"
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["46F3EFE0F945E784"]
+			description: ["<Вы>: Может на вид он и милый, но на деле злыдень, каких ещё поискать!"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "58CC8FBFC56C6A98"
+			invisible: true
+			rewards: [{
+				id: "089697E34000413D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "twilightforest:borer_essence"
+				id: "25FCDACC4513CAFE"
+				observe_type: 5
+				timer: 0L
+				title: "&cНаткнитесь на жука башни"
+				to_observe: "twilightforest:pinch_beetle"
+				type: "observation"
+			}]
+			title: "&cКакой милый.."
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["58CC8FBFC56C6A98"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0D0BB97B513B6551"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "65AA9DE6D0688676"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48E86288E96808F2"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "64A7804B8232811D"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:pinch_beetle"
+				icon: "twilightforest:borer_essence"
+				id: "22DEB9848802CC1C"
+				title: "&cУбейте 10 клещевых жуков"
+				type: "kill"
+				value: 10L
+			}]
+			title: "&cОн был..."
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["46F3EFE0F945E784"]
+			description: ["<Вы>: Это ещё что за погань редкостная?!"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "minecraft:spider_eye"
+			id: "7D0F142483E3EB70"
+			invisible: true
+			rewards: [{
+				id: "0AA80F95C6C64B53"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "minecraft:spider_eye"
+				id: "53DFA74AB130FEFF"
+				observe_type: 5
+				timer: 0L
+				title: "&cВстретье Карминитовую молодь в Тёмной башне"
+				to_observe: "twilightforest:carminite_broodling"
+				type: "observation"
+			}]
+			title: "&cЧто за погань?!"
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7D0F142483E3EB70"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "43FDD8141BD13E51"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "77795CCBE56DB061"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "238FD5E87A76C0AA"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6E5D588E16BB20CA"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:carminite_broodling"
+				icon: "minecraft:spider_eye"
+				id: "323EDE24B36A0ACA"
+				title: "&cУбейте 10 милейших агрессивных созданий"
+				type: "kill"
+				value: 10L
+			}]
+			title: "&cАрахнофоб"
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["46F3EFE0F945E784"]
+			description: ["<Вы>: Чёртовы Гастлинги!"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "151909D6F423153D"
+			invisible: true
+			rewards: [{
+				id: "37A43D17D98A0AFF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "twilightforest:carminite"
+				id: "735CAD6E8F3A867D"
+				observe_type: 5
+				timer: 0L
+				title: "&cПовстречайте малыша-гаста"
+				to_observe: "twilightforest:carminite_ghastling"
+				type: "observation"
+			}]
+			title: "&cМелкие твари!"
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["151909D6F423153D"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "73E5A9904A1A20B9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "463D0CBC4BB2B6BF"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3F5AB050729D4562"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "30F28AFE52DD857C"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:carminite_ghastling"
+				icon: "twilightforest:carminite"
+				id: "2FD269FA6D17F1F5"
+				title: "&cУбейте 10 малышей гастов"
+				type: "kill"
+				value: 10L
+			}]
+			title: "&cКакой же ужас!"
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["46F3EFE0F945E784"]
+			description: ["<Вы>: Тише-тише..."]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "7D668ED3B6D2BF15"
+			invisible: true
+			rewards: [{
+				id: "39A083389964F778"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "minecraft:iron_block"
+				id: "647F54D1441802C2"
+				observe_type: 5
+				timer: 0L
+				title: "&cСтолкнитесь с карминитовым голем Тёмной башни"
+				to_observe: "twilightforest:carminite_golem"
+				type: "observation"
+			}]
+			title: "&cКарминмитовое сооружение"
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7D668ED3B6D2BF15"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "minecraft:iron_block"
+			id: "1D7520E1E2700891"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5BF222D9CCC37466"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "445DED25796DD1E0"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3CCDB76F729AE32F"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:carminite_golem"
+				icon: "minecraft:iron_block"
+				id: "75BF55AFB66706FA"
+				title: "&cУбейте 10 карминитовых големов"
+				type: "kill"
+				value: 10L
+			}]
+			title: "&cУничтожитель карминита"
+			x: -7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["46F3EFE0F945E784"]
+			description: ["<Вы>: Я бы сказал, что мне жаль тебя, но, увы, нет!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0FE7B299A13921F0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4F645D92055CF446"
+					table_id: 7405890511148135178L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "28D77124C1B870E3"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4D482221BC74D2F0"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "326869AE0BBC649C"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "65BD7E21EC9EE95A"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "72E03106F059A53B"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3B02B892A4F8EBB4"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4D05068D6E3FBD7E"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1B6FDFD067AD95EE"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:ur_ghast"
+				icon: "twilightforest:ur_ghast_trophy"
+				id: "5145193965F97464"
+				title: "&cУбейте Ур-Гаста"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&cОбжигающий плач"
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["46F3EFE0F945E784"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "minecraft:ghast_tear"
+			id: "3AA74EE882B0220A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "27E12A5D36FF8100"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6D40EB253F2C5378"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1EC29B20E3D3EE24"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:carminite_ghastguard"
+				icon: "minecraft:ghast_tear"
+				id: "35EFF24F25BF4562"
+				title: "&cУбейте 5 Гастохранителей"
+				type: "kill"
+				value: 5L
+			}]
+			title: "&cСторожевые башни"
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["28E99524A9D7D882"]
+			description: ["<Вы>: Красиво.. завораживающе..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "742ADDD3697098E5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0C5BA3AD6B95E423"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2F7548EADE3F93F7"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E02B6428C6DB7CA"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				icon: "alexscaves:bioluminesscence"
+				id: "0515B84E1A646610"
+				observe_type: 5
+				timer: 0L
+				title: "&1Осмотрите светящуюся фауну Подводной бездны "
+				to_observe: "alexscaves:gossamer_worm"
+				type: "observation"
+			}]
+			title: "&1Биолюменисцентные создания"
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["28E99524A9D7D882"]
+			description: ["<Вы>: Отправлятейтесь на покой, гады морские!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "22A174ECA3FA0638"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "59D15A52D92C8111"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "07B0294C6F341A8F"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "01B703716526E88D"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:drowned"
+				icon: {
+					Count: 1
+					id: "minecraft:trident"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "20E93E5AFD6F203A"
+				title: "&1Убейте 20 утопленников"
+				type: "kill"
+				value: 20L
+			}]
+			title: "&1Свободный океан"
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["28E99524A9D7D882"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "09985EA970B58BD9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6637506165A16AB7"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "330B0A5FC4A401AA"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3A8DA79BFF780619"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				icon: "alexscaves:rusty_scrap_metal_plate"
+				id: "4153700D554EECBA"
+				structure: "alexscaves:abyssal_ruins"
+				title: "&1Найдите руины в Подводной бездне"
+				type: "structure"
+			}]
+			title: "&1Разбитые отголоски"
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["28E99524A9D7D882"]
+			description: ["<Вы>: Они пытались..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "4C55C80E871B3F19"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "52BBC0F16B8373CA"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "317AB73B1B69A916"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1A87A4CBA9711703"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				icon: "alexscaves:depth_glass"
+				id: "550FAFB25DB27BF8"
+				structure: "alexscaves:ocean_trench"
+				title: "&1Найдите жилую капсулу"
+				type: "structure"
+			}]
+			title: "&1Попытка жизни..."
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["28E99524A9D7D882"]
+			description: ["<Вы>: Что это?! Выглядит не дружелюбно. Чёрт, какая же это огромная рыбина..."]
+			id: "3B549D5054546E4B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6486193F347725F7"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3AFBB8E8805B08DF"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E75B16EA058A731"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				icon: "alexscaves:immortal_embryo"
+				id: "0FF2E6DBE08AF141"
+				observe_type: 5
+				timer: 0L
+				title: "&1Найдите чудовище бездны"
+				to_observe: "alexscaves:hullbreaker"
+				type: "observation"
+			}]
+			title: "&1Чудовище..."
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3B549D5054546E4B"]
+			icon: "alexscaves:immortal_embryo"
+			id: "6895AE5835466DCF"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "196C8E51E73FC274"
+					table_id: 8219077632891753104L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "33523571BFB87DEB"
+					table_id: 7405890511148135178L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "75B2F512350CB81F"
+					table_id: 7405890511148135178L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "alexscaves:hullbreaker"
+				icon: "alexscaves:immortal_embryo"
+				id: "686AF99B34EFF449"
+				title: "&1Убейте Кораблекрушителя"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&1Король морей"
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["28E99524A9D7D882"]
+			description: ["<Вы>: Кто это такие? Они выглядят как.. довольно разумные существа... Быть может мне попробовать &oналадить с ними контакт&r?"]
+			hide_dependency_lines: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "4AFEEAEBCB6E2BD2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "052216450948B569"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E9929CCB4A88406"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+			]
+			subtitle: "Интересные рыбы..."
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "alexscaves:ortholance"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "05B69CD876564FF1"
+				observe_type: 6
+				timer: 0L
+				title: "&1Встретьте народ бездны"
+				to_observe: "forge:deep_one"
+				type: "observation"
+			}]
+			title: "&1Цивилизация?"
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6C91857C185FFE94"]
+			description: ["<Вы>: С каждым разом всё страшнее... Куда же меня понесёт в этот раз?"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "26BA46FB3D4D74D7"
+			subtitle: "&bДотрагиваясь до него, ваши пальцы покалывет от холода..."
+			tasks: [{
+				id: "354B6508F8F9F64B"
+				item: "kubejs:eye_of_frost"
+				type: "item"
+			}]
+			title: "&b&lОко льдов"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["26BA46FB3D4D74D7"]
+			description: ["<Вы>: Бр-р-р-р..."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "13E8DE81270974A6"
+			tasks: [{
+				biome: "#aquamirae:ice_maze"
+				icon: "minecraft:blue_ice"
+				id: "0D9D8932CF9B2D4E"
+				title: "&bНайдите ледяной лабиринт"
+				type: "biome"
+			}]
+			title: "&bЗамёрзшая клеть"
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["382A2CFF735E8488"]
+			description: ["<Вы>: Капитан был не так силён, но всё же он был крепким орешком!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "222626FE1441C0BF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "48098FAF0CDA4485"
+					table_id: 8219077632891753104L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1FA0D378BC476584"
+					table_id: 2463579566284716312L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "53635503BC02CD33"
+					table_id: 2463579566284716312L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "052E88DF9CA9D60E"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "39D5130FC263AD58"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "754A9DB7B28C2B09"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "733ACDC592BEFFA6"
+					table_id: 8219077632891753104L
+					type: "loot"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "aquamirae:captain_cornelia"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "aquamirae:three_bolt_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "5B167C39B47428FE"
+				title: "&dУбейте Призрака капитана Корнелии"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&dКапитан не вернётся"
+			x: 3.857823129251699d
+			y: -4.245918367346931d
+		}
+		{
+			dependencies: ["13E8DE81270974A6"]
+			description: ["<Вы>: Не повезло же кому-то! Не хотел бы я так встрять!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "4DAD93D1B2C204AC"
+			tasks: [{
+				icon: "supplementaries:globe_sepia"
+				id: "0692AB6F08E8EA71"
+				structure: "aquamirae:ship"
+				title: "&bНайдите вмерзший во льды корабль в ледяном лабиринте"
+				type: "structure"
+			}]
+			title: "&b&lУтерянное наследие"
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["13E8DE81270974A6"]
+			description: ["<Вы>: Есть кто дома?"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0E2FA3C101AA0B0B"
+			tasks: [{
+				icon: "supplementaries:sign_post_spruce"
+				id: "588FD52C784DE115"
+				structure: "aquamirae:outpost"
+				title: "&bНайдите аванпост в Ледяном лабиринте"
+				type: "structure"
+			}]
+			title: "&bПоследний выживший"
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4DAD93D1B2C204AC"]
+			description: [
+				"&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Слышишь этот гул по всему ледяному лабиринту? Такой же звук издавала Капитан Корнелия при гибели, но ей никто не помог. Её душа не угасла, а стала только сильнее. Возродив старое тело, и наделив его своей силой Корнелия возродилась, и её дух гуляет по её огромной могиле, издавая этот леденящий звук. Этот горн может воззвать капитана, но он не будет так же доброжелателен, как был при жизни! Освободи же капитана от вечных мучений!"
+				""
+				"<Вы>: Ну что, капитан, пора свидеться. "
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "382A2CFF735E8488"
+			tasks: [{
+				id: "0180CBB072E27AE9"
+				item: "aquamirae:shell_horn"
+				type: "item"
+			}]
+			title: "&bГул льда"
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["222626FE1441C0BF"]
+			description: ["<Вы>: Что же скрывает лабиринт? Хм-м.. по карте найденной у Корнелии там есть какая-то метка. Нужно идти туда."]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5ACBB7AA41F2108C"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "26794CC07B2DDEE0"
+				structure: "aquamirae:shelter"
+				title: "&bНайдите последнее убежище Корнелии"
+				type: "structure"
+			}]
+			title: "&bСекреты ледяных земель"
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["5ACBB7AA41F2108C"]
+			description: ["<Вы>: Видимо вот зачем Корнелия пошла. Они все хотели открыть этот сундук, видимо, капитан нашёл ключ, но не вернулся. Это значит, что сокровища мои!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "16A7B04A46A28B86"
+			tasks: [{
+				icon: "aquamirae:frozen_chest"
+				id: "02BDA92FF1D9B692"
+				observe_type: 0
+				timer: 0L
+				title: "&bНайдите сокровище Ледяного лабиринта"
+				to_observe: "aquamirae:frozen_chest"
+				type: "observation"
+			}]
+			title: "&bСокровище во льдах!"
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["13E8DE81270974A6"]
+			description: [
+				"<Вы>: Это что за скат переросток!? Твою же.."
+				""
+				"&5<Арх&5и&kffff&r&5о&k&5f&r&5>: Узри же - чудовище в битве с которым погибла Капитан Корнелия. Матерь лабиринта. Выглядит захватывающее и опасно не правда? Срази же его сейчас!"
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "28F9C91A98F0CBB7"
+			invisible: true
+			optional: true
+			tasks: [{
+				icon: "aquamirae:abyssal_amethyst"
+				id: "73FED05428F6F949"
+				observe_type: 5
+				timer: 0L
+				title: "&dВстретье чудовище ледяного лабиринта"
+				to_observe: "aquamirae:maze_mother"
+				type: "observation"
+			}]
+			title: "&dТреск льда..."
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["28F9C91A98F0CBB7"]
+			description: ["<Вы>: Это *фух* было явно не очень легко!"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "22B7092E0CB6E6F2"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "722897175305C256"
+					table_id: 9150989426695376123L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "31C5F3155823A215"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6EC1EC5A2F98798F"
+					table_id: 6440823303009045681L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "164763B7D96DB4DB"
+					table_id: 2229491806141918727L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7F1DA2CA2007A625"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "60FC67DAAD150D9F"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "65F0A10A1A0ADAB4"
+					table_id: 8412317088013385020L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "aquamirae:maze_mother"
+				icon: "aquamirae:abyssal_amethyst"
+				id: "39009161A15CC030"
+				title: "&dУбейте Матерь лабиринта"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&dПророк"
+			x: -0.5d
+			y: -6.0d
+		}
+	]
+	title: "&6[&9Глава V: 'Бесконечность'&6]"
+}

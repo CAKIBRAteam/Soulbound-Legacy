@@ -1,0 +1,513 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6r_6r"
+	group: "062A49D7557BE3B3"
+	icon: {
+		Count: 1
+		id: "enigmaticlegacy:void_stone"
+		tag: { }
+	}
+	id: "51876A582D39E8AC"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["404E928A9F443368"]
+			description: [
+				"&aДобро пожаловать в модпак \"&bSoulbound &6Legacy&r&a\" - это комплексный RPG модпак с кастомной системой квестов на основе мода \"&6FTB Quests\"&r&a, кастомными модами и веткой сюжета"
+				""
+				"&3Сюжет - линейный. События идут по порядку и исказить его нельзя!&r &9В подобных квестах будет дальнейшая информация.&r &cДля удобства все сообщения чата из сюжета будут дублироваться в квесты."
+				""
+				"&6Также существуют секретные квесты для выполнения которых надо найти спецэфечиский предмет или сделать нестандартное действие и за которые даётся награда. &2О недоработках, багах и разрыв диалогов в квестах и чате писать в наш дискорд сервер в канал &o#баг-репорт&r"
+				""
+				""
+				""
+				" &a&o&lОбязательно читайте квесты и чат! В них есть полезная информация и сюжет!"
+				""
+				" &e&lКогда вы будете готовы начать игру выполните данный квест. Если вы планируете играть в мультиплеере лучше соберитесь сразу всей командой и играйте только вместе, чтобы не портить опыт от игры и не искажать сюжет!&r "
+				""
+				"&dЗАПОМНИТЕ: ВЫ - ОДНА КОМАНДА И МОДПАК РАСЧИТАН НА ОДНУ КОМАНДУ. ЕСЛИ ВЫ ЗАХОТИТЕ СОЗДАТЬ НЕСКОЛЬКО КОМАНД, ТО ЧАСТЬ СБОРКИ МОЖЕТ СЛОМАТЬСЯ. (Я ищу способ это исправить)"
+				""
+				"&n&3&nИ не забывайте что вы можете играть как хотите! Главное чтобы вам было весело и интересно!&r"
+			]
+			hide_until_deps_complete: true
+			icon: "ftbquests:book"
+			id: "61CE521F5C1C883C"
+			min_width: 400
+			shape: "diamond"
+			tasks: [{
+				id: "0E932143ABA57149"
+				title: "Нажми на меня!"
+				type: "checkmark"
+			}]
+			title: "&aНачало пути! &l&4(ОБЯЗАТЕЛЬНО К ПРОЧТЕНИЮ!)"
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"00B0ECBFA5FF2764"
+				"58EA7C900449E7E0"
+				"6790B5BBBB4E984D"
+				"0091AE0AB1C33BA5"
+			]
+			description: [""]
+			hide_dependency_lines: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "kubejs:soul1"
+			id: "2870EEFE4722FC7A"
+			rewards: [
+				{
+					id: "6EAA005E1CDE3DE5"
+					item: "kubejs:soul1"
+					type: "item"
+				}
+				{
+					id: "621967A646E830D2"
+					item: "kubejs:stamina_fruit"
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				elapsedTime: 3L
+				icon: "kubejs:soul1"
+				id: "2DEA4FF5E3285268"
+				secret: true
+				title: "Этот квест выполнится автоматически! Просто немного подождите..."
+				type: "questsadditions:time"
+			}]
+			title: "&e&lМилость Первого"
+			x: -2.4d
+			y: 2.4d
+		}
+		{
+			dependency_requirement: "one_completed"
+			description: [
+				"&esandebrodo - ведущий кодер и разработчик, создание меню, модовая часть, квесты, сюжет, часть наград, настройка конфигов, бета-тестер."
+				""
+				"&6Особая благодарность zaxa19 за помощь в балансе, части идей, бета-тестеровании."
+			]
+			id: "404E928A9F443368"
+			min_required_tasks: 1
+			tasks: [
+				{
+					id: "5C1DE55CE849DFF0"
+					title: "Нажми на меня!"
+					type: "checkmark"
+				}
+				{
+					id: "06288D0147FA1677"
+					item: {
+						Count: 1
+						id: "minecraft:player_head"
+						tag: {
+							SkullOwner: {
+								Id: [I;
+									-809808257
+									-1692317458
+									-1837995285
+									1904015298
+								]
+								Name: "sandebrodo"
+								Properties: {
+									textures: [{
+										Value: "ewogICJ0aW1lc3RhbXAiIDogMTczNDc3MzgwODkwNywKICAicHJvZmlsZUlkIiA6ICJjZmJiNGU3ZjliMjE0OGVlOTI3MjZhZWI3MTdjZjdjMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzYW5kZWJyb2RvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjZjgxODg4NjY4MTFmYTM3ZWVkZmRlNjg0MGZhZTg5MmEzODRjZjE2MTZmYjI2YTBmNWRjNzhmMjE2OTBiMzIiCiAgICB9CiAgfQp9"
+									}]
+								}
+							}
+						}
+					}
+					match_nbt: true
+					title: "&esandebrodo"
+					type: "item"
+				}
+				{
+					id: "29582493FFAC9B66"
+					item: {
+						Count: 1
+						id: "minecraft:player_head"
+						tag: {
+							SkullOwner: {
+								Id: [I;
+									-809808257
+									-1692317458
+									-1837995285
+									1904015298
+								]
+								Name: "sandebrodo"
+								Properties: {
+									textures: [{
+										Value: "ewogICJ0aW1lc3RhbXAiIDogMTczNDc3NjIxMzMwNiwKICAicHJvZmlsZUlkIiA6ICJjZmJiNGU3ZjliMjE0OGVlOTI3MjZhZWI3MTdjZjdjMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzYW5kZWJyb2RvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q5YWIyN2ViMGE2MjAwNWI4ZmMyZGFjYWM3MWU2ZjYyZmU5NjJhZDZiYTY4Yzc4ZjA0NjY3ZDk5MzE2NTU1MGYiCiAgICB9CiAgfQp9"
+									}]
+								}
+							}
+						}
+					}
+					match_nbt: true
+					title: "&6zaxa19"
+					type: "item"
+				}
+			]
+			title: "&fРазработчики модпака &bSoulbound &6Legacy&r и его тестеры"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"13B7FB3FBE05DB8D"
+				"360272F2A0089C7D"
+				"23A2A5EBC5C28CDC"
+				"05DC1A521148E8D8"
+			]
+			description: [""]
+			hide_dependency_lines: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "kubejs:soul2"
+			id: "36A13D5A7667ED19"
+			rewards: [
+				{
+					id: "09096C7CB073B15E"
+					item: "kubejs:soul2"
+					type: "item"
+				}
+				{
+					id: "6FF151585A7DA65D"
+					item: "kubejs:life_fruit"
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				elapsedTime: 3L
+				icon: "kubejs:soul2"
+				id: "7711F3D46310AF44"
+				secret: true
+				title: "&7Этот квест выполнится автоматически! Просто немного подождите..."
+				type: "questsadditions:time"
+			}]
+			title: "&l&dБлагосклонность Второго"
+			x: -1.7999999999999998d
+			y: 3.5999999999999996d
+		}
+		{
+			dependencies: [
+				"4927B7F34D64DAA0"
+				"733EC9AAC6A88B18"
+				"4C97CFB34E85F905"
+				"36A13D5A7667ED19"
+				"2870EEFE4722FC7A"
+				"2C35C958065F4AFA"
+				"4C4C5D2D459E5203"
+			]
+			description: [
+				"&e&l<Первый>: Я думаю он достоин."
+				""
+				"&d&l<Второй>: Думаю также."
+				""
+				"&a&l<Третий>: Поддерживаю вас."
+				""
+				"&b&l<Четвёртый>: Я согласен с вами."
+				""
+				"&f&l<Пятый>: Я тоже думаю что он достоин."
+				""
+				"&c&l<Шестой>: Я согласен с вами всеми и поддерживаю вас."
+				""
+				"&5&l<Седьмой>: Хм-м-м... Нужно всё обдумать..."
+				""
+				"&5&lБратья, пожалуй, я согласен с вами. Он достоин этой награды за свои усилия."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "enigmaticlegacy:void_stone"
+				tag: { }
+			}
+			id: "609ED40646808FEC"
+			invisible: true
+			rewards: [{
+				auto: "invisible"
+				icon: "enigmaticlegacy:the_cube"
+				id: "6BBAC10A12CCAC75"
+				ignore_reward_blocking: true
+				stage: "the_cube_recipe"
+				title: "&dРецепт &lНеевклидова Куба"
+				type: "gamestage"
+			}]
+			shape: "diamond"
+			subtitle: "Финал вашей истории"
+			tasks: [{
+				id: "2F54983469891B21"
+				title: "Эпилог."
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"0BF61A9D38B98383"
+				"63B15424B9BFB839"
+				"6333F6B1A951C704"
+				"25E432B06B15D0BE"
+			]
+			description: [""]
+			hide_dependency_lines: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "kubejs:soul3"
+			id: "2C35C958065F4AFA"
+			rewards: [
+				{
+					id: "6C13CE3692CB2E60"
+					item: "kubejs:soul3"
+					type: "item"
+				}
+				{
+					id: "4936AEB1FBBABB4C"
+					item: "kubejs:stone_fruit"
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				elapsedTime: 3L
+				icon: "kubejs:soul3"
+				id: "4235187310EC87AF"
+				secret: true
+				title: "&7Этот квест выполнится автоматически! Просто немного подождите..."
+				type: "questsadditions:time"
+			}]
+			title: "&a&lОчарование Третьего"
+			x: -1.2d
+			y: 4.8d
+		}
+		{
+			dependencies: [
+				"4BCC1E89813DB218"
+				"4FEA021E0B8E959A"
+				"69195563CA65085D"
+				"75BD1298E922A83F"
+				"4B444B1BF16E08DB"
+				"0BE22EF09EEE25A7"
+				"25A25B0AC35A45EC"
+			]
+			description: [""]
+			hide_dependency_lines: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "kubejs:soul7"
+			id: "733EC9AAC6A88B18"
+			rewards: [
+				{
+					id: "76C64681E8796B84"
+					item: "kubejs:soul7"
+					type: "item"
+				}
+				{
+					id: "4265B3ED467771F5"
+					item: "kubejs:stone_fruit"
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				elapsedTime: 3L
+				icon: "kubejs:soul7"
+				id: "343AC8E697A5B7C8"
+				secret: true
+				title: "&7Этот квест выполнится автоматически! Просто немного подождите..."
+				type: "questsadditions:time"
+			}]
+			title: "&5&lУважение Седьмого"
+			x: 0.0d
+			y: 5.3999999999999995d
+		}
+		{
+			dependencies: [
+				"40182D42A024F519"
+				"13028B99C4C2C9D0"
+				"3533D86D0D8FDDB8"
+				"7D3DD903B4DA4CCF"
+				"7AF72B2717F11F1C"
+				"40E9F032C54E6E6B"
+				"5D01673E427CEC3C"
+			]
+			description: [""]
+			hide_dependency_lines: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "kubejs:soul6"
+			id: "4C4C5D2D459E5203"
+			rewards: [
+				{
+					id: "33FA32F6CD23D4A2"
+					item: "kubejs:soul6"
+					type: "item"
+				}
+				{
+					id: "435BB10839BBE82C"
+					item: "kubejs:stone_fruit"
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				elapsedTime: 3L
+				icon: "kubejs:soul6"
+				id: "3F723BA2CBEF7D22"
+				secret: true
+				title: "&7Этот квест выполнится автоматически! Просто немного подождите..."
+				type: "questsadditions:time"
+			}]
+			title: "&c&lУпоение Шестого"
+			x: 1.2d
+			y: 4.8d
+		}
+		{
+			dependencies: [
+				"3E04E19E7AD1213A"
+				"0FE7B299A13921F0"
+				"4AFEEAEBCB6E2BD2"
+				"16A7B04A46A28B86"
+				"403076A725BCDE72"
+				"31023D0D0F8B87CE"
+				"71EF70FCEA3CFE35"
+				"3B549D5054546E4B"
+				"218161D11370E24F"
+			]
+			description: [""]
+			hide_dependency_lines: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "kubejs:soul5"
+			id: "4C97CFB34E85F905"
+			rewards: [
+				{
+					id: "1E9DF7B158B72611"
+					item: "kubejs:soul5"
+					type: "item"
+				}
+				{
+					id: "0B045CA27C368983"
+					item: "kubejs:stone_fruit"
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				elapsedTime: 3L
+				icon: "kubejs:soul5"
+				id: "47A441C80BB916A1"
+				secret: true
+				title: "&7Этот квест выполнится автоматически! Просто немного подождите..."
+				type: "questsadditions:time"
+			}]
+			title: "&f&lПоддержка Пятого"
+			x: 1.7999999999999998d
+			y: 3.5999999999999996d
+		}
+		{
+			dependencies: [
+				"154BF5CED7B83F1E"
+				"513167D1BDCD66E5"
+				"28D93CEB6DC1AE8A"
+				"5CD72F319736301F"
+			]
+			description: [""]
+			hide_dependency_lines: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: "kubejs:soul4"
+			id: "4927B7F34D64DAA0"
+			rewards: [
+				{
+					id: "6220A86092266047"
+					item: "kubejs:soul4"
+					type: "item"
+				}
+				{
+					id: "020AA4ECAB5F9A78"
+					item: "kubejs:stone_fruit"
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				elapsedTime: 3L
+				icon: "kubejs:soul4"
+				id: "34046F3136A271A9"
+				secret: true
+				title: "&7Этот квест выполнится автоматически! Просто немного подождите..."
+				type: "questsadditions:time"
+			}]
+			title: "&b&lМилосердие Четвёртого"
+			x: 2.4d
+			y: 2.4d
+		}
+		{
+			dependencies: [
+				"404E928A9F443368"
+				"61CE521F5C1C883C"
+			]
+			description: [
+				"&2В модпаке есть новые механики такие как:"
+				""
+				"&21. Паркур"
+				""
+				"&22. Улучшенная система боя"
+				""
+				"&23. Атлас на клавишу \"&6M&2\""
+				""
+				"&24. Жажда (Можно пить воду из мира зажать \"Shift\" и нажать \"ПКМ\" пустой рукой по блоку воды)"
+				""
+				"&25. Система навыков, блокирующая использование предметов"
+			]
+			icon: "mobs_of_mythology:gear"
+			id: "588DACA6879ECCA9"
+			min_width: 400
+			tasks: [{
+				id: "123F79346553A261"
+				type: "checkmark"
+			}]
+			title: "&2Новые механики"
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"61CE521F5C1C883C"
+				"588DACA6879ECCA9"
+			]
+			description: [
+				"<Вы>: А-х-х.. Где я? Что со мной произошло? Как я здесь очутился? ... Ничего не понимаю."
+				""
+				"&5<&kffffffff&r&5>: Ты обречён семью проклятиями. Это - испытание твоей жизни. &6ОНИ&5 выбрали тебя! Если ты сможешь пройти это испытание и освободить этот мир от проклятий, ты получишь благословения до конца своих времён. Но сможешь ли ты это сделать? Всё зависит только от тебя. Сделай правильный выбор! И учти: вместе с семью проклятиями ты обретёшь и семь благословений, которые помогут тебе. &6Свои проклятия ты узришь взглянув на кольцо, которое у тебя на пальце. Отныне я буду твоим проводником по этому миру."
+				""
+				"&o&cСОБЕРИ СЕМЕРЫХ, ПРЕКРАТИ СТРАДАНИЯ ЭТО МИРА!"
+				""
+				"&l&o&4УДАЧИ! ХА-ХА-ХА-ХА-ХА!"
+				""
+				"<Вы>: Что это был за голос? ... О чём он говорил? Семь проклятий и благословений, кольцо? И что это значит?"
+			]
+			hide_text_until_complete: false
+			hide_until_deps_complete: true
+			id: "3DB500D4CFD1A27D"
+			tasks: [{
+				elapsedTime: 1L
+				icon: "enigmaticlegacy:cursed_ring"
+				id: "625267F38A68BA89"
+				title: "&dЭтот квест выполнится автоматически, просто немного подождите..."
+				type: "questsadditions:time"
+			}]
+			title: "&dТайное послание"
+			x: 0.0d
+			y: 0.5d
+		}
+	]
+	title: "&6[&r&9Глава: &k000&r&6: &d'Таинства мироздания'&6]&r"
+}
