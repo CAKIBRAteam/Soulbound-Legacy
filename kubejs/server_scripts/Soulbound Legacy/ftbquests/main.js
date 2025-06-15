@@ -364,7 +364,7 @@ FTBQuestsEvents.completed('78E82FA14A9E4E49', event => {
 	})
 });
 //Динозавр-попугай?
-FTBQuestsEvents.completed('78E82FA14A9E4E49', event => {
+FTBQuestsEvents.completed('3BB54A657295BF9E', event => {
 	event.server.tell('<Вы>: Напыщенный индюк!')
 	Utils.server.scheduleInTicks(40, () => {
 	event.server.tell('')
