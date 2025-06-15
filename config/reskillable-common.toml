@@ -6,7 +6,7 @@ deathSkillReset = false
 showTabButtons = true
 #Global scaling multiplier for XP costs.
 #Range: 0.1 ~ 10.0
-xpScalingMultiplier = 3.5
+xpScalingMultiplier = 6.5
 #Maximum level each skill can be upgraded to.
 #Range: 2 ~ 100
 maximumLevel = 50
@@ -23,7 +23,7 @@ skillAliases = ["defense=defense"]
 HealthBonus = true
 #Starting cost of upgrading to level 2, in experience points.
 #Range: 0 ~ 1000
-startingCost = 150
+startingCost = 200
 #Range: 0.0 ~ 10.0
 attackDamageBonus = 0.05
 #Range: 0.0 ~ 10.0
