@@ -1,5 +1,14 @@
 
 LootJS.modifiers((event) => {
+	//berserkerArmor
+	 const berserkerArmor = [
+	'rogues:berserker_armor_head',
+	'rogues:berserker_armor_chest',
+	'rogues:berserker_armor_legs',
+	'rogues:berserker_armor_feet'
+	]
+	
+	
  /*
  *
  * >> GLOBAL_SCOPE
@@ -24,6 +33,7 @@ LootJS.modifiers((event) => {
 		.removeLoot('enigmaticlegacy:guardian_heart')
 		.removeLoot('enigmaticlegacy:darkest_scroll')
 		.removeLoot('enigmaticlegacy:eldritch_amulet')
+		.removeLoot(berserkerArmor)
 		
 	event
 	    .addLootTypeModifier([LootType.ENTITY])
@@ -43,6 +53,7 @@ LootJS.modifiers((event) => {
 		.removeLoot('enigmaticlegacy:guardian_heart')
 		.removeLoot('enigmaticlegacy:darkest_scroll')
 		.removeLoot('enigmaticlegacy:eldritch_amulet')
+		.removeLoot(berserkerArmor)
 /*
  *       
  * GLOBAL_SCOPE <<
